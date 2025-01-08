@@ -1,6 +1,12 @@
+---
+layout: doc
+---
 
-## Dinosaur
-> 英 `/ˈdaɪnəsɔː(r)` 美 `/ˈdaɪnəsɔːr/`
+# D
+
+
+## dinosaur
+> 英 `ˈdaɪnəsɔː(r)` 美 `ˈdaɪnəsɔːr`
 
 ::: details
 

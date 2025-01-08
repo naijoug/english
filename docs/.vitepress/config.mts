@@ -20,7 +20,39 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
+      {
+        text: 'Words',
+        collapsed: true,
+        items: [
+          { text: 'A', link: '/words/a' },
+          { text: 'B', link: '/words/b' },
+          { text: 'C', link: '/words/c' },
+          { text: 'D', link: '/words/d' },
+          { text: 'E', link: '/words/e' },
+          { text: 'F', link: '/words/f' },
+          { text: 'G', link: '/words/g' },
+          { text: 'H', link: '/words/h' },
+          { text: 'I', link: '/words/i' },
+          { text: 'J', link: '/words/j' },
+          { text: 'K', link: '/words/k' },
+          { text: 'L', link: '/words/l' },
+          { text: 'M', link: '/words/m' },
+          { text: 'N', link: '/words/n' },
+          { text: 'O', link: '/words/o' },
+          { text: 'P', link: '/words/p' },
+          { text: 'Q', link: '/words/q' },
+          { text: 'R', link: '/words/r' },
+          { text: 'S', link: '/words/s' },
+          { text: 'T', link: '/words/t' },
+          { text: 'U', link: '/words/u' },
+          { text: 'V', link: '/words/v' },
+          { text: 'W', link: '/words/w' },
+          { text: 'X', link: '/words/x' },
+          { text: 'Y', link: '/words/y' },
+          { text: 'Z', link: '/words/z' }
+        ]
+      },
     ],
 
     socialLinks: [
