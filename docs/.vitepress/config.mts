@@ -3,28 +3,29 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/english/',
-  title: "English.",
+  title: "English",
   description: "Something about English.",
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Awesome', link: '/awesome' },
+      { text: 'Words', link: '/words' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Awesome',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'index', link: '/awesome/' },
         ]
       },
       {
         text: 'Words',
         collapsed: true,
         items: [
+          { text: 'index', link: '/words/' },
           { text: 'A', link: '/words/a' },
           { text: 'B', link: '/words/b' },
           { text: 'C', link: '/words/c' },
@@ -50,13 +51,13 @@ export default defineConfig({
           { text: 'W', link: '/words/w' },
           { text: 'X', link: '/words/x' },
           { text: 'Y', link: '/words/y' },
-          { text: 'Z', link: '/words/z' }
+          { text: 'Z', link: '/words/z' },
         ]
       },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/naijoug/english' }
     ]
   }
 })

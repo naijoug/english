@@ -4,24 +4,26 @@ layout: home
 
 hero:
   name: "English"
-  text: "Something about English."
-  tagline: My great project tagline
+  text: ""
+  tagline: "Something about English."
   actions:
     - theme: brand
+      text: Awesome
+      link: /awesome
+    - theme: alt
       text: Words
       link: /words
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🎉
+    title: Awesome
+    details: Some English awesome
+    link: /awesome
+  - icon: 📒  
+    title: Words
+    details: Some English words memo
+    link: /words
     
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
