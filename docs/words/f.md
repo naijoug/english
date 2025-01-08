@@ -5,8 +5,9 @@ layout: doc
 # F
 
 ## fusion
-> 英 `ˈfjuːʒn` 美 `ˈfjuːʒn`
 
+> 英 <Phonetic word="fusion" lang="en-GB" phonetic="/'fjuːʒn/"/>
+> 美 <Phonetic word="fusion" lang="en-US" phonetic="/'fjuːʒn/"/>
 
 ::: details
 

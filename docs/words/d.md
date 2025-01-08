@@ -6,7 +6,8 @@ layout: doc
 
 
 ## dinosaur
-> 英 `ˈdaɪnəsɔː(r)` 美 `ˈdaɪnəsɔːr`
+> 英 <Phonetic word="dinosaur" lang="en-GB" phonetic="/'daɪnəsɔː(r)/"/>
+> 美 <Phonetic word="dinosaur" lang="en-US" phonetic="/'daɪnəsɔːr/"/>
 
 ::: details
 

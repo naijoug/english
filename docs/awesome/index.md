@@ -10,6 +10,8 @@ layout: doc
     > An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。
 - [Everyone can user English](https://github.com/xiaolai/everyone-can-use-english)
     > 人人都能用英语
+- [程序员英语词汇宝典](https://learn-english.dev/) 👉🏻 [🐙](https://github.com/Wei-Xia/most-frequent-technology-english-words) 
+    > 程序员工作中常见的英语词汇
 - [A programmer guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
     > 专为程序员编写的英语学习指南。
 - [Chinese programmer wrong pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
