@@ -23,6 +23,10 @@ layout: doc
     
 ------
 
+- [Monkeytype](https://monkeytype.com/) 👉🏻 [🐙](https://github.com/monkeytypegame/monkeytype)
+    > The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [Ele types](https://www.eletypes.com/) 👉🏻 [🐙](https://github.com/gamer-ai/eletypes-frontend)
+    > An elegant typing test website
 - [Qwerty Learner](https://qwerty.kaiyi.cool/) 👉🏻 [🐙](https://github.com/Kaiyiwing/qwerty-learner)
     > 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
 - [句乐部](https://docs.julebu.co/o) 👉🏻 [🐙](https://github.com/cuixueshe/earthworm)
