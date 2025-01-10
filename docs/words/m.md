@@ -4,13 +4,15 @@ layout: doc
 
 # M
 
-## memoroable
-> 英 <Phonetic word="memoroable" lang="en-GB" phonetic="/'mem(ə)rəb(ə)l/"/> 
-> 美 <Phonetic word="memoroable" lang="en-US" phonetic="/'mɛmərəbl/"/>
+## memorable
+> 英 <Phonetic word="memorable" lang="en-GB" phonetic="/'mem(ə)rəb(ə)l/"/> 
+> 美 <Phonetic word="memorable" lang="en-US" phonetic="/'mɛmərəbl/"/>
 
 ::: details 
 
-可记忆的；值得纪念的；令人难忘的
+- `n.` 可记忆的东西；有意义的东西
+- `adj.` 可记忆的；值得铭记的
+- `adv.` 有意义地
 
 :::
 
@@ -21,7 +23,9 @@ layout: doc
 
 ::: details
 
-有意义的；有深刻意义的；有意思的
+- `n.`   有意义
+- `adj.` 有意义的；有意义的；有意义的
+- `adv.` 意味深长地
 
 :::
 
@@ -32,6 +36,17 @@ layout: doc
 
 ::: details
 
-小型的；缩小的；微型的
+- `n.`   微型的；小的东西；小画像
+- `adj.` 小型的；缩小的；微型的
+
+:::
+
+## merchant
+> 英 <Phonetic word="merchant" lang="en-GB" phonetic="/mə'rent/"/>
+> 美 <Phonetic word="merchant" lang="en-US" phonetic="/mə'rent/"/>
+
+::: details
+
+- `n.` 商人
 
 :::

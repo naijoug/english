@@ -4,13 +4,36 @@ layout: doc
 
 # C
 
+
 ## calculus
 > 英 <Phonetic word="calculus" lang="en-GB" phonetic="/'kælkjʊləs/"/> 
 > 美 <Phonetic word="calculus" lang="en-US" phonetic="/'kælkjələs/"/>
 
 ::: details
 
-微积分；结石
+- `n.` 微积分(学)；结石；积石
+
+:::
+
+## charity
+> 英 <Phonetic word="charity" lang="en-GB" phonetic="/'kɑːrɪti/"/>
+> 美 <Phonetic word="charity" lang="en-US" phonetic="/'kɑːrɪti/"/>
+
+::: details
+
+- `n.` 慈善；慈善事业
+
+:::
+
+## chamber
+> 英 <Phonetic word="chamber" lang="en-GB" phonetic="/'tʃæmbər/"/>
+> 美 <Phonetic word="chamber" lang="en-US" phonetic="/'tʃæmbər/"/>
+
+::: details
+
+- `n.`    房间；会所
+- `vt.`   进入；进入…的房间
+- `adj.`  房间的；会所的；私人的；秘密的
 
 :::
 
@@ -31,6 +54,17 @@ layout: doc
 
 ::: details
 
-反驳；与…矛盾
+- vi. 反驳；否认…的真实性
+- vt. 与…发生矛盾；与…抵触
+
+:::
+
+## commerce
+> 英 <Phonetic word="commerce" lang="en-GB" phonetic="/kəmər'sɪs/"/>
+> 美 <Phonetic word="commerce" lang="en-US" phonetic="/kəmər'sɪs/"/>
+
+::: details
+
+- n. 商业；贸易
 
 :::

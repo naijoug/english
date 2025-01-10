@@ -22,6 +22,13 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Phrases',
+        items: [
+          { text: 'index', link: '/phrases/' },
+          { text: 'abbr', link: '/phrases/abbr' },
+        ]
+      },
+      {
         text: 'Words',
         collapsed: true,
         items: [
