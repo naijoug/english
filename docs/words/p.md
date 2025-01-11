@@ -34,3 +34,13 @@ layout: doc
 - `v.` 优先考虑；优先处理；把…区分优先次序
 
 :::
+
+## premature
+> 英 <Phonetic word="premature" lang="en-GB" phonetic="/ˈpremətʃə(r)/"/>
+> 美 <Phonetic word="premature" lang="en-US" phonetic="/ˌpriːməˈtʃʊr/"/>
+
+::: details
+
+- `adj.` 过早的；未到期的；早产的
+
+:::

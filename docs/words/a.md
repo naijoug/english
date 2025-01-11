@@ -61,3 +61,14 @@ layout: doc
     * 先发制人
 
 :::
+
+## affirm
+> 英 <Phonetic word="affirm" lang="en-GB" phonetic="/ə'fɜːm/"/>
+> 美 <Phonetic word="affirm" lang="en-US" phonetic="/ə'fɜːrm/"/>
+
+::: details
+
+- `vi.` 肯定；断言；确认
+- `vt.` 证实；断言；确认
+
+:::

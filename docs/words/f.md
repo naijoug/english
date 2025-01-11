@@ -28,3 +28,14 @@ layout: doc
 - `v.` 做成…的形状；使用；改变
 
 :::
+
+## firework
+
+> 英 <Phonetic word="firework" lang="en-GB" phonetic="/'faɪəwɜːk/"/>
+> 美 <Phonetic word="firework" lang="en-US" phonetic="/'faɪərwɜːrk/"/>
+
+::: details
+
+- `n.` 烟火；焰火；烟花；激烈情绪
+
+:::
