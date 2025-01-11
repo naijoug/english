@@ -10,6 +10,20 @@ layout: doc
 
 ::: details
 
-相关的；有关的；切题的
+- `adj.` 相关的；有关的；切题的
 
 ::: 
+
+## reflection
+
+> 英 <Phonetic word="reflection" lang="en-GB" phonetic="/rɪˈflekʃən/"/>
+> 美 <Phonetic word="reflection" lang="en-US" phonetic="/rɪˈflekʃən/"/>
+
+::: details
+
+- `n.` 
+    * 映像，倒影
+    * 反射，反射能力
+    * 深思；回忆；考虑；看法
+
+:::
