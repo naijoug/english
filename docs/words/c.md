@@ -43,7 +43,7 @@ layout: doc
 
 ::: details
 
-冲突；争斗；战斗；战争
+- `n.` 冲突；争斗；战斗；战争
 
 :::
 
@@ -54,8 +54,8 @@ layout: doc
 
 ::: details
 
-- vi. 反驳；否认…的真实性
-- vt. 与…发生矛盾；与…抵触
+- `vi.` 反驳；否认…的真实性
+- `vt.` 与…发生矛盾；与…抵触
 
 :::
 
@@ -65,6 +65,23 @@ layout: doc
 
 ::: details
 
-- n. 商业；贸易
+- `n.` 商业；贸易
 
 :::
+
+### collaborative
+> 英 <Phonetic word="collaborative" lang="en-GB" phonetic="/kəˈlæbərətɪv/"/>
+> 美 <Phonetic word="collaborative" lang="en-US" phonetic="/kəˈlæbəreɪtɪv/"/>
+
+::: details
+
+- `adj.` 合作的；协作的；协力完成的
+
+:::
+
+### curvy
+> 英 
+
+::: details 
+
+- 

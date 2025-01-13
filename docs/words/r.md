@@ -27,3 +27,13 @@ layout: doc
     * 深思；回忆；考虑；看法
 
 :::
+
+## raster
+> 英 <Phonetic word="raster" lang="en-GB" phonetic="/ˈræstə/"/>
+> 美 <Phonetic word="raster" lang="en-US" phonetic="/ˈræstə/"/>
+
+::: details
+
+- `n.` 光栅；光栅图像
+
+:::

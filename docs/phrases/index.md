@@ -33,3 +33,13 @@ layout: doc
 室内设计
 
 :::
+
+### plug-and-play
+> 英 <Phonetic word="plug-and-play" lang="en-GB" phonetic="/plʌɡ ənd plai/"/>
+> 美 <Phonetic word="plug-and-play" lang="en-US" phonetic="/plʌɡ ənd plai/"/>
+
+::: details
+
+即插即用
+
+:::
