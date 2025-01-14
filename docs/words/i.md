@@ -4,6 +4,28 @@ layout: doc
 
 # I
 
+## indicate
+> 英 <Phonetic word="indicate" lang="en-GB" phonetic="/ɪn'dɪkəreɪt/"/>
+> 美 <Phonetic word="indicate" lang="en-US" phonetic="/ɪn'dɪkəreɪt/"/>
+
+::: details
+
+- `v.` 
+    * 表明；指出；预示
+    * 指示；象征
+
+:::
+
+## influencer
+> 英 <Phonetic word="influencer" lang="en-GB" phonetic="/ɪnfluənsə(r)/"/>
+> 美 <Phonetic word="influencer" lang="en-US" phonetic="/ɪnfluənsə(r)/"/>
+
+::: details
+
+- `n.` 影响者；有影响力的人
+
+:::
+
 ## inspirational
 > 英 <Phonetic word="inspirational" lang="en-GB" phonetic="/ɪnspɪ'reɪʃ(ə)n(ə)l/"/>
 > 美 <Phonetic word="inspirational" lang="en-US" phonetic="/ˌɪnspə'reʃənl/"/>

@@ -16,8 +16,8 @@ layout: doc
 :::
 
 ## aberration
-> 英 <Phonetic word="aberration" lang="en-GB" phonetic="/ə'berɪʃn/"/>
-> 美 <Phonetic word="aberration" lang="en-US" phonetic="/ə'berɪʃn/"/>
+> 英 <Phonetic word="aberration" lang="en-GB" phonetic="/ˌæbəˈreɪʃn/"/>
+> 美 <Phonetic word="aberration" lang="en-US" phonetic="/ˌæbəˈreɪʃn/"/>
 
 ::: details
 

@@ -15,13 +15,14 @@ layout: doc
 
 :::
 
-## charity
-> 英 <Phonetic word="charity" lang="en-GB" phonetic="/'kɑːrɪti/"/>
-> 美 <Phonetic word="charity" lang="en-US" phonetic="/'kɑːrɪti/"/>
+## cause
+> 英 <Phonetic word="cause" lang="en-GB" phonetic="/kɔːz/"/>
+> 美 <Phonetic word="cause" lang="en-US" phonetic="/kɔːz/"/>
 
 ::: details
 
-- `n.` 慈善；慈善事业
+- `n.` 原因；理由；事业心
+- `vt.` 促使；引起；导致
 
 :::
 
@@ -37,6 +38,16 @@ layout: doc
 
 :::
 
+## charity
+> 英 <Phonetic word="charity" lang="en-GB" phonetic="/'kɑːrɪti/"/>
+> 美 <Phonetic word="charity" lang="en-US" phonetic="/'kɑːrɪti/"/>
+
+::: details
+
+- `n.` 慈善；慈善事业
+
+:::
+
 ## conflict
 > 英 <Phonetic word="conflict" lang="en-GB" phonetic="/'kɒnflɪkt/"/> 
 > 美 <Phonetic word="conflict" lang="en-US" phonetic="/'kɑːnflɪkt/"/>
@@ -44,6 +55,36 @@ layout: doc
 ::: details
 
 - `n.` 冲突；争斗；战斗；战争
+
+:::
+
+## collaborator
+> 英 <Phonetic word="collaborator" lang="en-GB" phonetic="/kəˈlæbəreɪtə/"/>
+> 美 <Phonetic word="collaborator" lang="en-US" phonetic="/kəˈlæbəreɪtə/"/>
+
+::: details
+
+- `n.` 合作者；共同研究者；通敌者
+
+:::
+
+## collaborative
+> 英 <Phonetic word="collaborative" lang="en-GB" phonetic="/kəˈlæbərətɪv/"/>
+> 美 <Phonetic word="collaborative" lang="en-US" phonetic="/kəˈlæbəreɪtɪv/"/>
+
+::: details
+
+- `adj.` 合作的；协作的；协力完成的
+
+:::
+
+## commerce
+> 英 <Phonetic word="commerce" lang="en-GB" phonetic="/kəmər'sɪs/"/>
+> 美 <Phonetic word="commerce" lang="en-US" phonetic="/kəmər'sɪs/"/>
+
+::: details
+
+- `n.` 商业；贸易
 
 :::
 
@@ -59,29 +100,42 @@ layout: doc
 
 :::
 
-## commerce
-> 英 <Phonetic word="commerce" lang="en-GB" phonetic="/kəmər'sɪs/"/>
-> 美 <Phonetic word="commerce" lang="en-US" phonetic="/kəmər'sɪs/"/>
+## conversation
+> 英 <Phonetic word="conversation" lang="en-GB" phonetic="/ˌkɒnvəˈseɪʃn/"/>
+> 美 <Phonetic word="conversation" lang="en-US" phonetic="/kɑːnvər'seɪʃn/"/>
 
 ::: details
 
-- `n.` 商业；贸易
+- `n.` 会话；谈话；交谈
 
 :::
 
-### collaborative
-> 英 <Phonetic word="collaborative" lang="en-GB" phonetic="/kəˈlæbərətɪv/"/>
-> 美 <Phonetic word="collaborative" lang="en-US" phonetic="/kəˈlæbəreɪtɪv/"/>
+## correctly
+> 英 <Phonetic word="correctly" lang="en-GB" phonetic="/kə'rektlɪ/"/>
+> 美 <Phonetic word="correctly" lang="en-US" phonetic="/kə'rɛktli/"/>
 
 ::: details
 
-- `adj.` 合作的；协作的；协力完成的
+- `adv.` 正确地；恰当地；正确无误地
 
 :::
 
-### curvy
-> 英 
+## cuboid
+> 英 <Phonetic word="cuboid" lang="en-GB" phonetic="/ˈkjuːbɔɪd/"/>
+> 美 <Phonetic word="cuboid" lang="en-US" phonetic="/ˈkjuːbɔɪd/"/>
+
+::: details
+
+- `n.` 立方体；长方体
+
+:::
+
+## curvy
+> 英 <Phonetic word="curvy" lang="en-GB" phonetic="/'kɜːvɪ/"/>
+> 美 <Phonetic word="curvy" lang="en-US" phonetic="/'kɜːvɪ/"/>
 
 ::: details 
 
-- 
+- `adj.` 有曲线的；弯曲的；多曲线的
+
+:::

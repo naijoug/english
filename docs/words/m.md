@@ -29,6 +29,16 @@ layout: doc
 
 :::
 
+## minimal
+> 英 <Phonetic word="minimal" lang="en-GB" phonetic="/'mɪnɪməl/"/>
+> 美 <Phonetic word="minimal" lang="en-US" phonetic="/'mɪnɪməl/"/>
+
+::: details
+
+- `adj.` 最小的；最低限度的；最低限度的
+
+:::
+
 ## miniature
 
 > 英 <Phonetic word="miniature" lang="en-GB" phonetic="/'mɪnɪətʃə/"/> 
@@ -42,11 +52,22 @@ layout: doc
 :::
 
 ## merchant
-> 英 <Phonetic word="merchant" lang="en-GB" phonetic="/mə'rent/"/>
-> 美 <Phonetic word="merchant" lang="en-US" phonetic="/mə'rent/"/>
+> 英 <Phonetic word="merchant" lang="en-GB" phonetic="/ˈmɜːtʃənt/"/>
+> 美 <Phonetic word="merchant" lang="en-US" phonetic=" /ˈmɜːrtʃənt/"/>
 
 ::: details
 
 - `n.` 商人
+
+:::
+
+## meanwhile
+> 英 <Phonetic word="meanwhile" lang="en-GB" phonetic="/'miːnwaɪl/"/>
+> 美 <Phonetic word="meanwhile" lang="en-US" phonetic="/ˈmiːnwaɪl/"/>
+
+::: details
+
+- `adv.` 同时；其间；在此期间
+- `n.` 期间；其间
 
 :::
