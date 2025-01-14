@@ -24,9 +24,9 @@ layout: doc
 
 :::
 
-## interior desigin
-> 英 <Phonetic word="interior desigin" lang="en-GB" phonetic="/ɪn'tɪəriə dɪ'zaɪn/"/>
-> 美 <Phonetic word="interior desigin" lang="en-US" phonetic="/ɪn'tɪəriər dɪ'zaɪn/"/>
+## interior design
+> 英 <Phonetic word="interior design" lang="en-GB" phonetic="/ɪn'tɪəriə dɪ'zaɪn/"/>
+> 美 <Phonetic word="interior design" lang="en-US" phonetic="/ɪn'tɪəriər dɪ'zaɪn/"/>
 
 ::: details
 
