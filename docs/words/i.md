@@ -16,6 +16,17 @@ layout: doc
 
 :::
 
+## indigo
+> 英 <Phonetic word="indigo" lang="en-GB" phonetic="/ˈɪndɪɡəʊ/"/>
+> 美 <Phonetic word="indigo" lang="en-US" phonetic="/ˈɪndɪɡoʊ/"/>
+
+::: details
+
+- `n.` 靛青；靛蓝
+- `adj.` 靛青色的
+
+:::
+
 ## influencer
 > 英 <Phonetic word="influencer" lang="en-GB" phonetic="/ɪnfluənsə(r)/"/>
 > 美 <Phonetic word="influencer" lang="en-US" phonetic="/ɪnfluənsə(r)/"/>

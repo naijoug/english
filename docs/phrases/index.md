@@ -4,6 +4,16 @@ layout: doc
 
 # Phrase
 
+## go viral
+> 英 <Phonetic word="go viral" lang="en-GB" phonetic="/ɡəʊ ˈvɪrəl/"/>
+> 美 <Phonetic word="go viral" lang="en-US" phonetic="/ɡo ˈvɪrəl/"/>
+
+::: details
+
+病毒式传播；风行一时；流行起来
+
+:::
+
 ## make sense
 > 英 <Phonetic word="make sense" lang="en-GB" phonetic="/mɪk ˈsɛns/"/>
 > 美 <Phonetic word="make sense" lang="en-US" phonetic="/mɪk ˈsɛns/"/>

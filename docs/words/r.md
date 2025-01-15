@@ -28,6 +28,16 @@ layout: doc
 
 :::
 
+## refugee
+> 英 <Phonetic word="refugee" lang="en-GB" phonetic="/ˈrefjuːdʒ/"/>
+> 美 <Phonetic word="refugee" lang="en-US" phonetic="/ˈrefjuːdʒ/"/>
+
+::: details
+
+- `n.` 难民；逃亡者
+
+:::
+
 ## raster
 > 英 <Phonetic word="raster" lang="en-GB" phonetic="/ˈræstə/"/>
 > 美 <Phonetic word="raster" lang="en-US" phonetic="/ˈræstə/"/>

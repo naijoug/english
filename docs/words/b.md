@@ -14,6 +14,18 @@ layout: doc
 
 :::
 
+## brand
+> 英 <Phonetic word="brand" lang="en-GB" phonetic="/brænd/"/>
+> 美 <Phonetic word="brand" lang="en-US" phonetic="/brænd/"/>
+
+::: details
+
+- `n.` 品牌；商标；牌子
+- `vt.` 给…贴商标；使有特色；使突出
+- `vi.` 有特色；突出；起作用
+
+:::
+
 ## bring
 > 英 <Phonetic word="bring" lang="en-GB" phonetic="/briŋ/"/>
 > 美 <Phonetic word="bring" lang="en-US" phonetic="/briŋ/"/>
