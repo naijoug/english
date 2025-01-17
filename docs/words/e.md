@@ -4,6 +4,17 @@ layout: doc
 
 # E
 
+## exclusive
+> 英 <Phonetic word="exclusive" lang="en-GB" phonetic="/ɪkˈskluːsɪv/"/>
+> 美 <Phonetic word="exclusive" lang="en-US" phonetic="/ɪkˈskluːsɪv/"/>
+
+::: details
+
+- `adj.` 高级的；奢华的；专用的；独家的
+- `n.` 独家新闻，独家报道
+
+:::
+
 ## expression
 > 英 <Phonetic word="expression" lang="en-GB" phonetic="/ɪkˈspreʃn/"/>
 > 美 <Phonetic word="expression" lang="en-US" phonetic="/ɪkˈspreʃn/"/>

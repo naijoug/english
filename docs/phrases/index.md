@@ -14,6 +14,16 @@ layout: doc
 
 :::
 
+## go beyond
+> 英 <Phonetic word="go beyond" lang="en-GB" phonetic="/ɡəʊ bɪˈjɒnd/"/>
+> 美 <Phonetic word="go beyond" lang="en-US" phonetic="/ɡo bɪˈjɒnd/"/>
+
+::: details
+
+超越；超出；超出...的范围
+
+:::
+
 ## make sense
 > 英 <Phonetic word="make sense" lang="en-GB" phonetic="/mɪk ˈsɛns/"/>
 > 美 <Phonetic word="make sense" lang="en-US" phonetic="/mɪk ˈsɛns/"/>
@@ -34,6 +44,16 @@ layout: doc
 
 :::
 
+## in ways that
+> 英 <Phonetic word="in ways that" lang="en-GB" phonetic="/ɪn wɪ'ðəz ðæz/"/>
+> 美 <Phonetic word="in ways that" lang="en-US" phonetic="/ɪn wɪ'ðəz ðæz/"/>
+
+::: details
+
+以...的方式；以...的方式
+
+:::
+
 ## interior design
 > 英 <Phonetic word="interior design" lang="en-GB" phonetic="/ɪn'tɪəriə dɪ'zaɪn/"/>
 > 美 <Phonetic word="interior design" lang="en-US" phonetic="/ɪn'tɪəriər dɪ'zaɪn/"/>
@@ -51,5 +71,15 @@ layout: doc
 ::: details
 
 即插即用
+
+:::
+
+## what's up
+> 英 <Phonetic word="what's up" lang="en-GB" phonetic="/wɒts ʌp/"/>
+> 美 <Phonetic word="what's up" lang="en-US" phonetic="/wɒts ʌp/"/>
+
+::: details
+
+你好吗；最近怎么样
 
 :::

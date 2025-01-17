@@ -4,6 +4,19 @@ layout: doc
 
 # M
 
+## manifest
+> 英 <Phonetic word="manifest" lang="en-GB" phonetic="/ˈmænɪfest/"/>
+> 美 <Phonetic word="manifest" lang="en-US" phonetic="/ˈmænɪfest/"/>
+
+::: details
+
+- `n.`  旅客名单；载货单，货单
+- `vi.`  显示；出现
+- `vt.`  证明；表明
+- `adj.` 明白的；显然的；显著的
+
+:::
+
 ## memorable
 > 英 <Phonetic word="memorable" lang="en-GB" phonetic="/'mem(ə)rəb(ə)l/"/> 
 > 美 <Phonetic word="memorable" lang="en-US" phonetic="/'mɛmərəbl/"/>

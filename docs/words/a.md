@@ -27,6 +27,19 @@ layout: doc
 
 :::
 
+## assign
+> 英 <Phonetic word="assign" lang="en-GB" phonetic="/ə'saɪn/"/>
+> 美 <Phonetic word="assign" lang="en-US" phonetic="/ə'saɪn/"/>
+
+::: details
+
+- `v.`
+    * 分配；指派；指定
+    * 使……处于；使……处于某种状态
+    * 使……承担；使……负责
+
+:::
+
 ## argue
 > 英 <Phonetic word="argue" lang="en-GB" phonetic="/ɑːɡjuː/"/>
 > 美 <Phonetic word="argue" lang="en-US" phonetic="/ɑːɡjuː/"/>

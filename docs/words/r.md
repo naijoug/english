@@ -48,6 +48,16 @@ layout: doc
 
 :::
 
+## radar
+> 英 <Phonetic word="radar" lang="en-GB" phonetic="/ˈreɪdɑː/"/>
+> 美 <Phonetic word="radar" lang="en-US" phonetic="/ˈreɪdɑː/"/>
+
+::: details
+
+- `n.` 雷达；雷达图
+
+:::
+
 ## reassamble
 > 英 <Phonetic word="reassamble" lang="en-GB" phonetic="/riːə'semb(ə)l/"/>
 > 美 <Phonetic word="reassamble" lang="en-US" phonetic="/ˌriə'sɛmbl/"/>
@@ -90,6 +100,26 @@ layout: doc
 - `n.` 决心；决定
 - `vi.` 决定；决心；解析
 - `vt.` 解决；决定；溶解；决心做...事
+
+:::
+
+## region
+> 英 <Phonetic word="region" lang="en-GB" phonetic="/ˈriːdʒən/"/>
+> 美 <Phonetic word="region" lang="en-US" phonetic="/ˈriːdʒən/"/>
+
+::: details
+
+- `n.` 地区；区域；领域
+
+:::
+
+## ringtone
+> 英 <Phonetic word="ringtone" lang="en-GB" phonetic="/ˈrɪŋtəʊn/"/>
+> 美 <Phonetic word="ringtone" lang="en-US" phonetic="/ˈrɪŋtəʊn/"/>
+
+::: details
+
+- `n.` 振铃音；铃声
 
 :::
 

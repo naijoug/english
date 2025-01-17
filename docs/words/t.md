@@ -4,19 +4,6 @@ layout: doc
 
 # T
 
-## tremulous
-> 英 <Phonetic word="tremulous" lang="en-GB" phonetic="/'trɛmjʊləs/"/>
-> 美 <Phonetic word="tremulous" lang="en-US" phonetic="/'trɛmjələs/"/>
-
-::: details
-
-- `adj.` 
-    * 颤抖的；打颤的 
-    * 惊慌的；不安的
-    * 敏感的；紧张的；易激动的
-
-::: 
-
 ## thought
 > 英 <Phonetic word="thought" lang="en-GB" phonetic="/θɔːt/"/>
 > 美 <Phonetic word="thought" lang="en-US" phonetic="/θɔt/"/>
@@ -39,3 +26,29 @@ layout: doc
     * 故…；由此得出
 
 :::
+
+## tickle
+> 英 <Phonetic word="tickle" lang="en-GB" phonetic="/ˈtɪkl/"/>
+> 美 <Phonetic word="tickle" lang="en-US" phonetic="/ˈtɪkəl/"/>
+
+::: details
+
+- `n.` 胳肢；痒感；使人发痒、高兴的东西 
+- `v.` 
+    * 搔；挠；惹得…发笑
+    * 挠痒痒；使发痒
+
+:::
+
+## tremulous
+> 英 <Phonetic word="tremulous" lang="en-GB" phonetic="/'trɛmjʊləs/"/>
+> 美 <Phonetic word="tremulous" lang="en-US" phonetic="/'trɛmjələs/"/>
+
+::: details
+
+- `adj.` 
+    * 颤抖的；打颤的 
+    * 惊慌的；不安的
+    * 敏感的；紧张的；易激动的
+
+::: 

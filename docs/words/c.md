@@ -120,6 +120,17 @@ layout: doc
 
 :::
 
+## credential
+> 英 <Phonetic word="credential" lang="en-GB" phonetic="/krə'denʃl/"/>
+> 美 <Phonetic word="credential" lang="en-US" phonetic="/krə'dɛnʃl/"/>
+
+::: details
+
+- `n.` 证书；凭据；凭证
+- `v.` 证明…有…的资格
+
+:::
+
 ## cuboid
 > 英 <Phonetic word="cuboid" lang="en-GB" phonetic="/ˈkjuːbɔɪd/"/>
 > 美 <Phonetic word="cuboid" lang="en-US" phonetic="/ˈkjuːbɔɪd/"/>

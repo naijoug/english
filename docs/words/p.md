@@ -42,6 +42,20 @@ layout: doc
 
 :::
 
+## profile
+> 英 <Phonetic word="profile" lang="en-GB" phonetic="/'prəʊfɪl/"/>
+> 美 <Phonetic word="profile" lang="en-US" phonetic="/'prəʊfɪl/"/>
+
+::: details
+
+- `n.` 
+    * 面容；轮廓；剖面图
+    * 侧面图；侧面像
+    * 人物简介；传略
+- `v.` 使形成轮廓；描绘…的轮廓；描写…的轮廓
+
+:::
+
 ## proposal
 > 英 <Phonetic word="proposal" lang="en-GB" phonetic="/prə'pəʊsəl/"/>
 > 美 <Phonetic word="proposal" lang="en-US" phonetic="/prə'pɑːsəl/"/>

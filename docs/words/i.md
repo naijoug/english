@@ -4,6 +4,16 @@ layout: doc
 
 # I
 
+## idiom
+> 英 <Phonetic word="idiom" lang="en-GB" phonetic="/ˈɪdɪəm/"/>
+> 美 <Phonetic word="idiom" lang="en-US" phonetic="/ˈɪdɪəm/"/>
+
+::: details
+
+- `n.` 成语；习语；惯用语
+
+:::
+
 ## indicate
 > 英 <Phonetic word="indicate" lang="en-GB" phonetic="/ɪn'dɪkəreɪt/"/>
 > 美 <Phonetic word="indicate" lang="en-US" phonetic="/ɪn'dɪkəreɪt/"/>
