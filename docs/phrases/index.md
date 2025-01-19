@@ -4,6 +4,26 @@ layout: doc
 
 # Phrase
 
+## along with
+> 英 <Phonetic word="along with" lang="en-GB" phonetic="/əˈlɒŋ wɪð/"/>
+> 美 <Phonetic word="along with" lang="en-US" phonetic="/əˈlɒŋ wɪð/"/>
+
+::: details
+
+从...开始；与...一起；与...一道
+
+:::
+
+## from scratch
+> 英 <Phonetic word="from scratch" lang="en-GB" phonetic="/frɒm skrætʃ/"/>
+> 美 <Phonetic word="from scratch" lang="en-US" phonetic="/frɒm skrætʃ/"/>
+
+::: details
+
+从零开始；从头开始；重新开始；白手起家
+
+:::
+
 ## go viral
 > 英 <Phonetic word="go viral" lang="en-GB" phonetic="/ɡəʊ ˈvɪrəl/"/>
 > 美 <Phonetic word="go viral" lang="en-US" phonetic="/ɡo ˈvɪrəl/"/>
@@ -31,6 +51,16 @@ layout: doc
 ::: details
 
 使有意义；使有道理
+
+:::
+
+## one stop
+> 英 <Phonetic word="one stop" lang="en-GB" phonetic="/wʌn ˈstɒp/"/>
+> 美 <Phonetic word="one stop" lang="en-US" phonetic="/wʌn ˈstɑp/"/>
+
+::: details
+
+一站式服务；一站式购物；一站式服务
 
 :::
 
