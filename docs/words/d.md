@@ -4,6 +4,25 @@ layout: doc
 
 # D
 
+## dedicate
+> 英 <Phonetic word="dedicate" lang="en-GB" phonetic="/ˈdedɪkeɪt/"/>
+> 美 <Phonetic word="dedicate" lang="en-US" phonetic="/ˈdedɪkeɪt/"/>
+
+::: details
+
+- `vt.` 致力；献身；题献
+
+:::
+
+## dedicated
+> 英 <Phonetic word="dedicated" lang="en-GB" phonetic="/ˈdedɪkət/"/>
+> 美 <Phonetic word="dedicated" lang="en-US" phonetic="/ˈdedɪkət/"/>
+
+::: details
+
+- `adj.` 专注的；献身的；专门的
+
+:::
 
 ## diagnose
 > 英 <Phonetic word="diagnose" lang="en-GB" phonetic="/ˈdaɪəɡnəʊz/"/>

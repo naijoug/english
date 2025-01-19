@@ -27,6 +27,19 @@ layout: doc
 
 :::
 
+## accurate
+> 英 <Phonetic word="accurate" lang="en-GB" phonetic="/ˈækjərət/"/>
+> 美 <Phonetic word="accurate" lang="en-US" phonetic="/ˈækjərət/"/>
+
+::: details
+
+- `adj.`
+    * 准确的；精确的；正确无误的
+    * 精确的；正确的；精确的
+    * 有根据的；有根据的；有根据的
+
+:::
+
 ## assign
 > 英 <Phonetic word="assign" lang="en-GB" phonetic="/ə'saɪn/"/>
 > 美 <Phonetic word="assign" lang="en-US" phonetic="/ə'saɪn/"/>

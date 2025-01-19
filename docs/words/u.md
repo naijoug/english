@@ -23,3 +23,13 @@ layout: doc
 - `vt.` 利用；应用；开发
 
 :::
+
+## upcoming
+> 英 <Phonetic word="upcoming" lang="en-GB" phonetic="/ˌʌpˈkʌmɪŋ/"/>
+> 美 <Phonetic word="upcoming" lang="en-US" phonetic="/ˌʌpˈkʌmɪŋ/"/>
+
+::: details
+
+- `adj.` 即将发生的；即将到来的
+
+:::

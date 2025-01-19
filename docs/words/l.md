@@ -15,3 +15,15 @@ layout: doc
 - `vi.` 缺乏；不足；没有
 
 :::
+
+## lark
+> 英 <Phonetic word="lark" lang="en-GB" phonetic="/lɑːk/"/>
+> 美 <Phonetic word="lark" lang="en-US" phonetic="/lɑːk/"/>
+
+::: details
+
+- `n.` 云雀；百灵鸟
+- `vi.` 嘘声；装腔作势；装腔作势地说
+
+:::
+

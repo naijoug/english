@@ -42,6 +42,17 @@ layout: doc
 
 :::
 
+## migrate
+> 英 <Phonetic word="migrate" lang="en-GB" phonetic="/ˈmaɪdʒreɪt/"/>
+> 美 <Phonetic word="migrate" lang="en-US" phonetic="/ˈmaɪdʒreɪt/"/>
+
+::: details
+
+- `vi.` 迁移；移居
+- `vt.` 使移居；使移植
+
+:::
+
 ## minimal
 > 英 <Phonetic word="minimal" lang="en-GB" phonetic="/'mɪnɪməl/"/>
 > 美 <Phonetic word="minimal" lang="en-US" phonetic="/'mɪnɪməl/"/>
