@@ -113,3 +113,23 @@ layout: doc
 你好吗；最近怎么样
 
 :::
+
+## entry point
+> 英 <Phonetic word="entry point" lang="en-GB" phonetic="/ˈɛntrɪp oʊnt/"/>
+> 美 <Phonetic word="entry point" lang="en-US" phonetic="/ˈɛntrɪp oʊnt/"/>
+
+::: details
+
+入口；入口点
+
+:::
+
+## iterate quickly
+> 英 <Phonetic word="iterate quickly" lang="en-GB" phonetic="/ˈɪtəreɪt ˈkwɪkli/"/>
+> 美 <Phonetic word="iterate quickly" lang="en-US" phonetic="/ˈɪtəreɪt ˈkwɪkli/"/>
+
+::: details
+
+快速迭代
+
+:::
