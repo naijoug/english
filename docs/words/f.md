@@ -4,20 +4,6 @@ layout: doc
 
 # F
 
-## fusion
-
-> 英 <Phonetic word="fusion" lang="en-GB" phonetic="/'fjuːʒn/"/>
-> 美 <Phonetic word="fusion" lang="en-US" phonetic="/'fjuːʒn/"/>
-
-::: details
-
-- `n.` 融化；融合；融合物
-
-
-> `VMware Fusion` : 适用于 `macOS` 的虚拟机软件
-
-:::
-
 ## fashion
 > 英 <Phonetic word="fashion" lang="en-GB" phonetic="/fʌʒn/"/>
 > 美 <Phonetic word="fashion" lang="en-US" phonetic="/fʌʒn/"/>
@@ -37,5 +23,29 @@ layout: doc
 ::: details
 
 - `n.` 烟火；焰火；烟花；激烈情绪
+
+:::
+
+## forefront
+> 英 <Phonetic word="forefront" lang="en-GB" phonetic="/'fɔːfrʌnt/"/>
+> 美 <Phonetic word="forefront" lang="en-US" phonetic="/'fɔːrfrʌnt/"/>
+
+::: details
+
+- `n.` 前沿；最前面
+
+:::
+
+## fusion
+
+> 英 <Phonetic word="fusion" lang="en-GB" phonetic="/'fjuːʒn/"/>
+> 美 <Phonetic word="fusion" lang="en-US" phonetic="/'fjuːʒn/"/>
+
+::: details
+
+- `n.` 融化；融合；融合物
+
+
+> `VMware Fusion` : 适用于 `macOS` 的虚拟机软件
 
 :::

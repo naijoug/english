@@ -27,3 +27,13 @@ layout: doc
 
 :::
 
+## leverage
+> 英 <Phonetic word="leverage" lang="en-GB" phonetic="/ˈliːvərɪdʒ/"/>
+> 美 <Phonetic word="leverage" lang="en-US" phonetic="/ˈliːvərɪdʒ/"/>
+
+::: details
+
+- `n.` 杠杆；影响力
+- `vt.` 用杠杆撬动；利用；利用杠杆作用；促使…改变
+
+:::

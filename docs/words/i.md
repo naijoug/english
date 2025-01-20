@@ -57,6 +57,39 @@ layout: doc
 
 :::
 
+## instant
+> 英 <Phonetic word="instant" lang="en-GB" phonetic="/ˈɪnstənt/"/>
+> 美 <Phonetic word="instant" lang="en-US" phonetic="/ˈɪnstənt/"/>
+
+::: details
+
+- `n.` 即刻；速食
+- `adj.` 立即的；速成的；速溶的
+- `adv.` 立即；立刻
+
+:::
+
+## integration
+> 英 <Phonetic word="integration" lang="en-GB" phonetic="/ˌɪntɪɡreˈseɪʃ(ə)n/"/>
+> 美 <Phonetic word="integration" lang="en-US" phonetic="/ˌɪntɪɡreˈseɪʃən/"/>
+
+::: details
+
+- `n.` 整合；集成；一体化
+
+:::
+
+## intelligent
+> 英 <Phonetic word="intelligent" lang="en-GB" phonetic="/ɪnˈtɛlɪdʒənt/"/>
+> 美 <Phonetic word="intelligent" lang="en-US" phonetic="/ɪnˈtɛlɪdʒənt/"/>
+
+::: details
+
+- `adj.` 智能的；有智慧的；聪明的
+- `n.` 智能；聪明人
+
+:::
+
 ## interior
 > 英 <Phonetic word="interior" lang="en-GB" phonetic="/ɪnˈtɪəriə(r)/"/>
 > 美 <Phonetic word="interior" lang="en-US" phonetic="/ɪnˈtɪriər/"/>
@@ -65,5 +98,25 @@ layout: doc
 
 - `n.` 内部；内部环境；内部结构
 - `adj.` 内部的；内在的
+
+:::
+
+## innovation
+> 英 <Phonetic word="innovation" lang="en-GB" phonetic="/ˌɪnəˈveɪʃ(ə)n/"/>
+> 美 <Phonetic word="innovation" lang="en-US" phonetic="/ˌɪnəˈveʃən/"/>
+
+::: details
+
+- `n.` 创新；革新；新方法
+
+:::
+
+## iterate
+> 英 <Phonetic word="iterate" lang="en-GB" phonetic="/ˈɪtəreɪt/"/>
+> 美 <Phonetic word="iterate" lang="en-US" phonetic="/ˈɪtəreɪt/"/>
+
+::: details
+
+- `v.` 重复；迭代
 
 :::

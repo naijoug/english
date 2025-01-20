@@ -35,3 +35,14 @@ layout: doc
 - `vt.` 带来; 引起；促进
 
 :::
+
+## bundle
+> 英 <Phonetic word="bundle" lang="en-GB" phonetic="/bʌndl/"/>
+> 美 <Phonetic word="bundle" lang="en-US" phonetic="/bʌndl/"/>
+
+::: details
+
+- `n.` 包；捆；捆包
+- `vt.` 把…捆在一起；把…捆包起来
+
+:::

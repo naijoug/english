@@ -98,3 +98,24 @@ layout: doc
 - `adj.` 过早的；未到期的；早产的
 
 :::
+
+## persist
+> 英 <Phonetic word="persist" lang="en-GB" phonetic="/pə'sɪst/"/>
+> 美 <Phonetic word="persist" lang="en-US" phonetic="/pə'sɪst/"/>
+
+::: details
+
+- `vi.` 持续；固执；存留；坚持；持续下去
+- `vt.` 坚持说；反复说
+
+:::
+
+## prevention
+> 英 <Phonetic word="prevention" lang="en-GB" phonetic="/prɪ'venʃn/"/>
+> 美 <Phonetic word="prevention" lang="en-US" phonetic="/prɪ'venʃn/"/>
+
+::: details
+
+- `n.` 预防；防止；阻止
+
+:::

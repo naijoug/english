@@ -55,3 +55,12 @@ layout: doc
 
 :::
 
+## dive
+> 英 <Phonetic word="dive" lang="en-GB" phonetic="/daɪv/"/>
+> 美 <Phonetic word="dive" lang="en-US" phonetic="/daɪv/"/>
+
+::: details
+
+- `vi.` 潜水；俯冲；俯冲轰炸
+
+:::

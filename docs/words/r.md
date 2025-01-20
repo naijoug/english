@@ -58,6 +58,16 @@ layout: doc
 
 :::
 
+## rephrase
+> 英 <Phonetic word="rephrase" lang="en-GB" phonetic="/rɪˈfreɪz/"/>
+> 美 <Phonetic word="rephrase" lang="en-US" phonetic="/rɪˈfreɪz/"/>
+
+::: details
+
+- `v.` 重写；改写；改述；改撰
+
+:::
+
 ## reassamble
 > 英 <Phonetic word="reassamble" lang="en-GB" phonetic="/riːə'semb(ə)l/"/>
 > 美 <Phonetic word="reassamble" lang="en-US" phonetic="/ˌriə'sɛmbl/"/>
@@ -100,6 +110,19 @@ layout: doc
 - `n.` 决心；决定
 - `vi.` 决定；决心；解析
 - `vt.` 解决；决定；溶解；决心做...事
+
+:::
+
+## reinforce
+> 英 <Phonetic word="reinforce" lang="en-GB" phonetic="/ˌriːnˈfɔːs/"/>
+> 美 <Phonetic word="reinforce" lang="en-US" phonetic="/ˌriːnˈfɔːs/"/>
+
+::: details
+
+- `v.`
+    * 加强；巩固；加强防御
+    * 支持；赞助；声援
+    * 给予…更多支持；为…提供更多证据
 
 :::
 

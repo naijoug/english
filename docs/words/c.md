@@ -131,6 +131,38 @@ layout: doc
 
 :::
 
+## codebase
+> 英 <Phonetic word="codebase" lang="en-GB" phonetic="/ˈkəudbɑːs/"/>
+> 美 <Phonetic word="codebase" lang="en-US" phonetic="/ˈkəudbɑːs/"/>
+
+::: details
+
+- `n.` 代码库；源码
+
+:::
+
+## commerce
+> 英 <Phonetic word="commerce" lang="en-GB" phonetic="/kəmər'sɪs/"/>
+> 美 <Phonetic word="commerce" lang="en-US" phonetic="/kəmər'sɪs/"/>
+
+::: details
+
+- `n.` 商业；贸易
+
+e-commerce: 电子商务
+
+:::
+
+## comprehensive
+> 英 <Phonetic word="comprehensive" lang="en-GB" phonetic="/kəmˈprɛhensɪv/"/>
+> 美 <Phonetic word="comprehensive" lang="en-US" phonetic="/kəmˈprɛhensɪv/"/>
+
+::: details
+
+- `adj.` 综合的；广泛的；有理解力的
+
+:::
+
 ## cuboid
 > 英 <Phonetic word="cuboid" lang="en-GB" phonetic="/ˈkjuːbɔɪd/"/>
 > 美 <Phonetic word="cuboid" lang="en-US" phonetic="/ˈkjuːbɔɪd/"/>

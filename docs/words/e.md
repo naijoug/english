@@ -4,6 +4,39 @@ layout: doc
 
 # E
 
+## easily
+> 英 <Phonetic word="easily" lang="en-GB" phonetic="/ˈiːzlɪ/"/>
+> 美 <Phonetic word="easily" lang="en-US" phonetic="/ˈiːzlɪ/"/>
+
+::: details
+
+- `adv.` 容易地；不费力地；轻易地；轻松地
+
+:::
+
+## effortlessly
+> 英 <Phonetic word="effortlessly" lang="en-GB" phonetic="/ɪˈfɔːtlɪsli/"/>
+> 美 <Phonetic word="effortlessly" lang="en-US" phonetic="/ɪˈfɔːtlɪsli/"/>
+
+::: details
+
+- `adv.` 毫不费力地；不费力地；轻易地；轻松地
+
+:::
+
+## estate
+> 英 <Phonetic word="estate" lang="en-GB" phonetic="/ɪ'steɪt/"/>
+> 美 <Phonetic word="estate" lang="en-US" phonetic="/ɪ'steɪt/"/>
+
+::: details
+
+- `n.`
+    * 财产；财产权；财产所有权
+    * 房屋；住宅；住所
+    * 土地；土地所有权
+    
+:::
+
 ## exclusive
 > 英 <Phonetic word="exclusive" lang="en-GB" phonetic="/ɪkˈskluːsɪv/"/>
 > 美 <Phonetic word="exclusive" lang="en-US" phonetic="/ɪkˈskluːsɪv/"/>
@@ -43,19 +76,6 @@ layout: doc
 - `v.`
    * 经历；体验；遭受
 
-:::
-
-## estate
-> 英 <Phonetic word="estate" lang="en-GB" phonetic="/ɪ'steɪt/"/>
-> 美 <Phonetic word="estate" lang="en-US" phonetic="/ɪ'steɪt/"/>
-
-::: details
-
-- `n.`
-    * 财产；财产权；财产所有权
-    * 房屋；住宅；住所
-    * 土地；土地所有权
-    
 :::
 
 ## exceed

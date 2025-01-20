@@ -4,6 +4,16 @@ layout: doc
 
 # M
 
+## maintainer
+> 英 <Phonetic word="maintainer" lang="en-GB" phonetic="/ˈmeɪntəneɪtə(r)/"/>
+> 美 <Phonetic word="maintainer" lang="en-US" phonetic="/ˈmeɪntəneɪtə(r)/"/>
+
+::: details
+
+- `n.` 维护者；维护者；管理人
+
+:::
+
 ## manifest
 > 英 <Phonetic word="manifest" lang="en-GB" phonetic="/ˈmænɪfest/"/>
 > 美 <Phonetic word="manifest" lang="en-US" phonetic="/ˈmænɪfest/"/>
@@ -93,5 +103,16 @@ layout: doc
 
 - `adv.` 同时；其间；在此期间
 - `n.` 期间；其间
+
+:::
+
+## metric
+> 英 <Phonetic word="metric" lang="en-GB" phonetic="/ˈmetrɪk/"/>
+> 美 <Phonetic word="metric" lang="en-US" phonetic="/ˈmetrɪk/"/>
+
+::: details
+
+- `adj.` 公制的；米制的；公尺的
+- `n.` 度量标准
 
 :::
