@@ -24,6 +24,17 @@ layout: doc
 
 :::
 
+## delight
+> 英 <Phonetic word="delight" lang="en-GB" phonetic="/dɪˈlaɪt/"/>
+> 美 <Phonetic word="delight" lang="en-US" phonetic="/dɪˈlaɪt/"/>
+
+::: details
+
+- `n.` 高兴；快乐；令人高兴的人或事
+- `vt.` 使高兴；使愉快；使满意
+
+:::
+
 ## diagnose
 > 英 <Phonetic word="diagnose" lang="en-GB" phonetic="/ˈdaɪəɡnəʊz/"/>
 > 美 <Phonetic word="diagnose" lang="en-US" phonetic="/ˌdaɪəɡˈnoʊs/"/>

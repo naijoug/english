@@ -24,6 +24,16 @@ layout: doc
 
 :::
 
+## enact
+> 英 <Phonetic word="enact" lang="en-GB" phonetic="/ɪnˈkɑːt/"/>
+> 美 <Phonetic word="enact" lang="en-US" phonetic="/ɪnˈkɑːt/"/>
+
+::: details
+
+- `vt.` 制定；颁布；实施；执行
+
+:::
+
 ## estate
 > 英 <Phonetic word="estate" lang="en-GB" phonetic="/ɪ'steɪt/"/>
 > 美 <Phonetic word="estate" lang="en-US" phonetic="/ɪ'steɪt/"/>

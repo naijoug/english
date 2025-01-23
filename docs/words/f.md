@@ -26,6 +26,28 @@ layout: doc
 
 :::
 
+## flock
+> 英 <Phonetic word="flock" lang="en-GB" phonetic="/flɒk/"/>
+> 美 <Phonetic word="flock" lang="en-US" phonetic="/flɑːk/"/>
+
+::: details
+
+- `n.` （羊、鸟等）群；（猪、牛等）群；（鱼等）群
+- `v.` 聚集；成群；群集
+
+:::
+
+## fortune
+> 英 <Phonetic word="fortune" lang="en-GB" phonetic="/'fɔːtnjuː/"/>
+> 美 <Phonetic word="fortune" lang="en-US" phonetic="/'fɔːrtnjuː/"/>
+
+::: details
+
+- `n.` 幸运；命运；财运；财源
+- `v.` 使发财；使走运
+
+:::
+
 ## forefront
 > 英 <Phonetic word="forefront" lang="en-GB" phonetic="/'fɔːfrʌnt/"/>
 > 美 <Phonetic word="forefront" lang="en-US" phonetic="/'fɔːrfrʌnt/"/>
@@ -47,5 +69,15 @@ layout: doc
 
 
 > `VMware Fusion` : 适用于 `macOS` 的虚拟机软件
+
+:::
+
+## fulfill
+> 英 <Phonetic word="fulfill" lang="en-GB" phonetic="/fʊlˈfɪl/"/>
+> 美 <Phonetic word="fulfill" lang="en-US" phonetic="/fʊlˈfɪl/"/>
+
+::: details
+
+- `v.` 履行；实现；满足
 
 :::

@@ -85,6 +85,21 @@ layout: doc
 
 :::
 
+## mint
+> 英 <Phonetic word="mint" lang="en-GB" phonetic="/mɪnt/"/>
+> 美 <Phonetic word="mint" lang="en-US" phonetic="/mɪnt/"/>
+
+::: details
+
+- `n.` 
+    * 薄荷；薄荷糖
+    * 造币厂，巨款
+- `v.` 
+    * 制造；生产；
+    * 铸造；铸币
+
+:::
+
 ## merchant
 > 英 <Phonetic word="merchant" lang="en-GB" phonetic="/ˈmɜːtʃənt/"/>
 > 美 <Phonetic word="merchant" lang="en-US" phonetic=" /ˈmɜːrtʃənt/"/>

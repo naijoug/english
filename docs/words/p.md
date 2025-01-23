@@ -42,6 +42,16 @@ layout: doc
 
 :::
 
+## president
+> 英 <Phonetic word="president" lang="en-GB" phonetic="/ˈprezɪdənt/"/>
+> 美 <Phonetic word="president" lang="en-US" phonetic="/ˈprezɪdənt/"/>
+
+::: details
+
+- `n.` 总统；校长；校长职务；总裁
+
+:::
+
 ## profile
 > 英 <Phonetic word="profile" lang="en-GB" phonetic="/'prəʊfɪl/"/>
 > 美 <Phonetic word="profile" lang="en-US" phonetic="/'prəʊfɪl/"/>

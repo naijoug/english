@@ -126,6 +126,19 @@ layout: doc
 
 :::
 
+## reinstate
+> 英 <Phonetic word="reinstate" lang="en-GB" phonetic="/ˌriːnˈsteɪt/"/>
+> 美 <Phonetic word="reinstate" lang="en-US" phonetic="/ˌriːnˈsteɪt/"/>
+
+::: details
+
+- `v.`
+    * 使恢复原职；使复职
+    * 使恢复健康；使康复
+    * 使恢复名誉；使复权
+
+:::
+
 ## region
 > 英 <Phonetic word="region" lang="en-GB" phonetic="/ˈriːdʒən/"/>
 > 美 <Phonetic word="region" lang="en-US" phonetic="/ˈriːdʒən/"/>
@@ -133,6 +146,20 @@ layout: doc
 ::: details
 
 - `n.` 地区；区域；领域
+
+:::
+
+## regret
+> 英 <Phonetic word="regret" lang="en-GB" phonetic="/rɪˈgret/"/>
+> 美 <Phonetic word="regret" lang="en-US" phonetic="/rɪˈgret/"/>
+
+::: details
+
+- `v.`
+    * 后悔；懊悔；遗憾
+    * 抱怨；埋怨；诉苦
+    * 感到遗憾；感到懊悔
+- `n.` 后悔；懊悔；遗憾
 
 :::
 

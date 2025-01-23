@@ -98,3 +98,40 @@ layout: doc
 - `vt.` 证实；断言；确认
 
 :::
+
+## appreciate
+> 英 <Phonetic word="appreciate" lang="en-GB" phonetic="/əˈpriːʃieɪt/"/>
+> 美 <Phonetic word="appreciate" lang="en-US" phonetic="/əˈpriːʃieɪt/"/>
+
+::: details
+
+- `v.`
+    * 欣赏；感激；领会
+    * 评价；估价；鉴定
+    * 体会；理解
+
+:::
+
+## apparently
+> 英 <Phonetic word="apparently" lang="en-GB" phonetic="/əˈpærəntli/"/>
+> 美 <Phonetic word="apparently" lang="en-US" phonetic="/əˈpærəntli/"/>
+
+::: details
+
+- `adv.`
+    * 显然；似乎；似乎是；表明上
+    * 显然地；似乎地；明显地
+
+:::
+
+## audience
+> 英 <Phonetic word="audience" lang="en-GB" phonetic="/ˈɔːdɪəns/"/>
+> 美 <Phonetic word="audience" lang="en-US" phonetic="/ˈɔːdɪəns/"/>
+
+::: details
+
+- `n.`
+    * 观众；听众；读者
+    * 客观性；客观性
+
+:::

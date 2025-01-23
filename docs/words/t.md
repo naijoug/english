@@ -79,3 +79,41 @@ layout: doc
     * 敏感的；紧张的；易激动的
 
 ::: 
+
+## trust
+> 英 <Phonetic word="trust" lang="en-GB" phonetic="/trʌst/"/>
+> 美 <Phonetic word="trust" lang="en-US" phonetic="/trʌst/"/>
+
+::: details
+
+- `n.` 信任；信赖；相信
+- `v.` 信任；信赖；相信
+
+:::
+
+## tune
+> 英 <Phonetic word="tune" lang="en-GB" phonetic="/tjuːn/"/>
+> 美 <Phonetic word="tune" lang="en-US" phonetic="/tun/"/>
+
+::: details
+
+- `n.` 曲调；音调；音色；音调；音色
+- `v.`
+    * 调音；调准…的音调；调整…的音调
+    * 调整；使…协调；使…和谐
+    * 使…和谐；使…协调
+
+:::
+
+## typical
+> 英 <Phonetic word="typical" lang="en-GB" phonetic="/ˈtɪpɪkl/"/>
+> 美 <Phonetic word="typical" lang="en-US" phonetic="/ˈtɪpɪkl/"/>
+
+::: details
+
+- `adj.`
+    * 典型的；有代表性的
+    * 有…性质的；符合…的
+    * 有…特点的；有…性质的
+
+:::

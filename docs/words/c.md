@@ -4,7 +4,6 @@ layout: doc
 
 # C
 
-
 ## calculus
 > 英 <Phonetic word="calculus" lang="en-GB" phonetic="/'kælkjʊləs/"/> 
 > 美 <Phonetic word="calculus" lang="en-US" phonetic="/'kælkjələs/"/>

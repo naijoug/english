@@ -52,6 +52,20 @@ layout: doc
 
 :::
 
+## sleek
+> 英 <Phonetic word="sleek" lang="en-GB" phonetic="/sli:k/"/>
+> 美 <Phonetic word="sleek" lang="en-US" phonetic="/sli:k/"/>
+
+::: details
+
+- `adj` 
+    * 时髦的；苗条的；光洁的；
+    * 光滑的；圆滑的；井然有序的
+- `vi` 打扮整洁；滑动
+- `vt` 使…光滑；掩盖
+
+:::
+
 ## struggle
 > 英 <Phonetic word="struggle" lang="en-GB" phonetic="/ˈstrʌgl/"/>
 > 美 <Phonetic word="struggle" lang="en-US" phonetic="/ˈstrʌgl/"/>
@@ -108,5 +122,18 @@ layout: doc
 ::: details
 
 - `vt` 使增压；使超负荷；使充满
+
+:::
+
+## spruce
+> 英 <Phonetic word="spruce" lang="en-GB" phonetic="/spruːs/"/>
+> 美 <Phonetic word="spruce" lang="en-US" phonetic="/spruːs/"/>
+
+::: details
+
+- `adj` 朴素的；整洁的；漂亮的
+- `n` 云杉
+- `vi` 打扮整齐；使显干净
+- `vt` 使整洁；使漂亮
 
 :::

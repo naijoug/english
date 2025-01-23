@@ -4,6 +4,17 @@ layout: doc
 
 # B
 
+## ban
+> 英 <Phonetic word="ban" lang="en-GB" phonetic="/bæn/"/>
+> 美 <Phonetic word="ban" lang="en-US" phonetic="/bæn/"/>
+
+::: details
+
+- `vt.` 禁止；取缔；阻止
+- `n.` 禁令；禁止令；禁令
+
+:::
+
 ## badcase
 > 英 <Phonetic word="badcase" lang="en-GB" phonetic="/bædˈkeɪs/"/>
 > 美 <Phonetic word="badcase" lang="en-US" phonetic="/bædˈkeɪs/"/>
@@ -23,6 +34,16 @@ layout: doc
 - `n.` 品牌；商标；牌子
 - `vt.` 给…贴商标；使有特色；使突出
 - `vi.` 有特色；突出；起作用
+
+:::
+
+## breakneck
+> 英 <Phonetic word="breakneck" lang="en-GB" phonetic="/ˈbreɪknɛt/"/>
+> 美 <Phonetic word="breakneck" lang="en-US" phonetic="/ˈbreɪknɛt/"/>
+
+::: details
+
+- `adj.` 极快的；非常危险的
 
 :::
 
