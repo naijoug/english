@@ -74,13 +74,53 @@ layout: doc
 
 :::
 
-## in ways that
-> 英 <Phonetic word="in ways that" lang="en-GB" phonetic="/ɪn wɪ'ðəz ðæz/"/>
-> 美 <Phonetic word="in ways that" lang="en-US" phonetic="/ɪn wɪ'ðəz ðæz/"/>
+## spruce up
+> 英 <Phonetic word="spruce up" lang="en-GB" phonetic="/spruːs ʌp/"/>
+> 美 <Phonetic word="spruce up" lang="en-US" phonetic="/spruːs ʌp/"/>
 
 ::: details
 
-以...的方式；以...的方式
+打扮；打扮得漂亮；打扮得体；打扮得好看
+
+:::
+
+## take effect
+> 英 <Phonetic word="take effect" lang="en-GB" phonetic="/teɪk ɪˈfɛkt/"/>
+> 美 <Phonetic word="take effect" lang="en-US" phonetic="/teɪk ɪˈfɛkt/"/>
+
+::: details
+
+生效；起作用；产生效果
+
+:::
+
+## take office
+> 英 <Phonetic word="take office" lang="en-GB" phonetic="/teɪk ˈɒfɪs/"/>
+> 美 <Phonetic word="take office" lang="en-US" phonetic="/teɪk ˈɒfɪs/"/>
+
+::: details
+
+就职；上任；就职于
+
+:::
+
+## in the long run
+> 英 <Phonetic word="in the long run" lang="en-GB" phonetic="/ɪn ðə ˈlɒŋ ɹʌn/"/>
+> 美 <Phonetic word="in the long run" lang="en-US" phonetic="/ɪn ðə ˈlɑːŋ ɹʌn/"/>
+
+::: details
+
+从长远来看
+
+:::
+
+## in the long term
+> 英 <Phonetic word="in the long term" lang="en-GB" phonetic="/ɪn ðə ˈlɒŋ tɜːm/"/>
+> 美 <Phonetic word="in the long term" lang="en-US" phonetic="/ɪn ðə ˈlɑːŋ tɜːm/"/>
+
+::: details
+
+从长远来看
 
 :::
 
@@ -94,7 +134,7 @@ layout: doc
 
 :::
 
-### plug-and-play
+## plug-and-play
 > 英 <Phonetic word="plug-and-play" lang="en-GB" phonetic="/plʌɡ ənd plai/"/>
 > 美 <Phonetic word="plug-and-play" lang="en-US" phonetic="/plʌɡ ənd plai/"/>
 
@@ -131,5 +171,15 @@ layout: doc
 ::: details
 
 快速迭代
+
+:::
+
+## stay tuned
+> 英 <Phonetic word="stay tuned" lang="en-GB" phonetic="/steɪ tju:nd/"/>
+> 美 <Phonetic word="stay tuned" lang="en-US" phonetic="/steɪ tju:nd/"/>
+
+::: details
+
+敬请期待；敬请关注
 
 :::
