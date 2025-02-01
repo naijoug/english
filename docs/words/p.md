@@ -4,6 +4,16 @@ layout: doc
 
 # P
 
+## participate
+> 英 <Phonetic word="participate" lang="en-GB" phonetic="/pəˈtɪsɪpeɪt/"/>
+> 美 <Phonetic word="participate" lang="en-US" phonetic="/pəˈtɪsɪpeɪt/"/>
+
+::: details
+
+- `v.` 参与；参加；分享
+
+:::
+
 ## phase
 > 英 <Phonetic word="phase" lang="en-GB" phonetic="/feɪz/"/>
 > 美 <Phonetic word="phase" lang="en-US" phonetic="/feɪz/"/>

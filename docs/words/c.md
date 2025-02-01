@@ -47,6 +47,17 @@ layout: doc
 
 :::
 
+## conduct
+> 英 <Phonetic word="conduct" lang="en-GB" phonetic="/kən'dʌkt/"/>
+> 美 <Phonetic word="conduct" lang="en-US" phonetic="/kən'dʌkt/"/>
+
+::: details
+
+- `n.` 行为；举止；管理；引导
+- `vt.` 管理；引导；指挥；传导
+
+:::
+
 ## conflict
 > 英 <Phonetic word="conflict" lang="en-GB" phonetic="/'kɒnflɪkt/"/> 
 > 美 <Phonetic word="conflict" lang="en-US" phonetic="/'kɑːnflɪkt/"/>
@@ -84,6 +95,17 @@ layout: doc
 ::: details
 
 - `n.` 商业；贸易
+
+:::
+
+## compound
+> 英 <Phonetic word="compound" lang="en-GB" phonetic="/ˈkɒmpaʊnd/"/>
+> 美 <Phonetic word="compound" lang="en-US" phonetic="/ˈkɒmpaʊnd/"/>
+
+::: details
+
+- `n.` 混合物；化合物
+- `v.` 使混合；使化合
 
 :::
 

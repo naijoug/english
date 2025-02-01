@@ -34,6 +34,17 @@ layout: doc
 
 :::
 
+## encounter
+> 英 <Phonetic word="encounter" lang="en-GB" phonetic="/ɪnˈkaʊntə/"/>
+> 美 <Phonetic word="encounter" lang="en-US" phonetic="/ɪnˈkaʊntə/"/>
+
+::: details
+
+- `vt.` 遭遇；遇到；遇到问题；遇到麻烦
+- `n.` 遭遇；遇到；遇到问题；遇到麻烦
+
+:::
+
 ## estate
 > 英 <Phonetic word="estate" lang="en-GB" phonetic="/ɪ'steɪt/"/>
 > 美 <Phonetic word="estate" lang="en-US" phonetic="/ɪ'steɪt/"/>
