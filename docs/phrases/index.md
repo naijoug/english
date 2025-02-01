@@ -14,6 +14,16 @@ layout: doc
 
 :::
 
+## code of conduct
+> 英 <Phonetic word="code of conduct" lang="en-GB" phonetic="/ˈkɒd əv ˈkɒndʌkt/"/>
+> 美 <Phonetic word="code of conduct" lang="en-US" phonetic="/ˈkɑːd əv ˈkɑːndʌkt/"/>
+
+::: details
+
+行为准则；行为规范；行为守则
+
+:::
+
 ## from scratch
 > 英 <Phonetic word="from scratch" lang="en-GB" phonetic="/frɒm skrætʃ/"/>
 > 美 <Phonetic word="from scratch" lang="en-US" phonetic="/frɒm skrætʃ/"/>
