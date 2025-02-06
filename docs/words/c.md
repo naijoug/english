@@ -47,6 +47,16 @@ layout: doc
 
 :::
 
+## chore
+> 英 <Phonetic word="chore" lang="en-GB" phonetic="/tʃɔː(r)/"/>
+> 美 <Phonetic word="chore" lang="en-US" phonetic="/tʃɔːr/"/>
+
+::: details
+
+- `n.` 家庭杂务；日常的零星事务；讨厌的或累人的工作
+
+:::
+
 ## conduct
 > 英 <Phonetic word="conduct" lang="en-GB" phonetic="/kən'dʌkt/"/>
 > 美 <Phonetic word="conduct" lang="en-US" phonetic="/kən'dʌkt/"/>

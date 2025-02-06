@@ -27,6 +27,16 @@ layout: doc
 
 :::
 
+## malicious
+> 英 <Phonetic word="malicious" lang="en-GB" phonetic="/'mælɪs(ə)s/"/>
+> 美 <Phonetic word="malicious" lang="en-US" phonetic="/'mælɪs(ə)s/"/>
+
+::: details
+
+- `adj.` 恶意的, 恶毒的
+
+:::
+
 ## memorable
 > 英 <Phonetic word="memorable" lang="en-GB" phonetic="/'mem(ə)rəb(ə)l/"/> 
 > 美 <Phonetic word="memorable" lang="en-US" phonetic="/'mɛmərəbl/"/>
