@@ -38,6 +38,17 @@ layout: doc
 
 :::
 
+## persistent
+> 英 <Phonetic word="persistent" lang="en-GB" phonetic="/pəˈsɪstənt/"/>
+> 美 <Phonetic word="persistent" lang="en-US" phonetic="/pəˈsɪstənt/"/>
+
+::: details
+
+- `adj.` 坚持的；固执的；顽强的；持续不断的
+
+:::
+
+
 ## practice
 > 英 <Phonetic word="practice" lang="en-GB" phonetic="/ˈpræktɪs/"/>
 > 美 <Phonetic word="practice" lang="en-US" phonetic="/ˈpræktɪs/"/>

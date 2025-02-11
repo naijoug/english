@@ -69,6 +69,16 @@ layout: doc
 
 :::
 
+## institution
+> 英 <Phonetic word="institution" lang="en-GB" phonetic="/ˌɪnstɪˈtjuːʃ(ə)n/"/>
+> 美 <Phonetic word="institution" lang="en-US" phonetic="/ˌɪnstɪˈtjuːʃən/"/>
+
+::: details
+
+- `n.` 机构；制度；惯例
+
+:::
+
 ## integration
 > 英 <Phonetic word="integration" lang="en-GB" phonetic="/ˌɪntɪɡreˈseɪʃ(ə)n/"/>
 > 美 <Phonetic word="integration" lang="en-US" phonetic="/ˌɪntɪɡreˈseɪʃən/"/>

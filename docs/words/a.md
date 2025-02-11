@@ -76,6 +76,16 @@ layout: doc
 
 :::
 
+## alchemy
+> 英 <Phonetic word="alchemy" lang="en-GB" phonetic="/ˈælkəmi/"/>
+> 美 <Phonetic word="alchemy" lang="en-US" phonetic="/ˈælkəmi/"/>
+
+::: details
+
+- `n.` 炼金术；点金术；魔力
+
+:::
+
 ## anticipation
 > 英 <Phonetic word="anticipation" lang="en-GB" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
 > 美 <Phonetic word="anticipation" lang="en-US" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
