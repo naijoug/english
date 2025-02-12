@@ -98,6 +98,16 @@ layout: doc
 
 :::
 
+## collision
+> 英 <Phonetic word="collision" lang="en-GB" phonetic="/kəˈlɪʒn/"/>
+> 美 <Phonetic word="collision" lang="en-US" phonetic="/kəˈlɪʒn/"/>
+
+::: details
+
+- `n.` 碰撞；冲突；冲突的事物
+
+:::
+
 ## commerce
 > 英 <Phonetic word="commerce" lang="en-GB" phonetic="/kəmər'sɪs/"/>
 > 美 <Phonetic word="commerce" lang="en-US" phonetic="/kəmər'sɪs/"/>
