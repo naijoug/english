@@ -78,6 +78,16 @@ layout: doc
 
 :::
 
+## relevant
+> 英 <Phonetic word="relevant" lang="en-GB" phonetic="/ˈreləvənt/"/>
+> 美 <Phonetic word="relevant" lang="en-US" phonetic="/ˈreləvənt/"/>
+
+::: details
+
+- `adj.` 相关的；有关的；切题的
+
+:::
+
 ## reluctantly
 > 英 <Phonetic word="reluctantly" lang="en-GB" phonetic="/ri'lʌktəntli/"/>
 > 美 <Phonetic word="reluctantly" lang="en-US" phonetic="/rɪˈl ʌktəntlɪ/"/>

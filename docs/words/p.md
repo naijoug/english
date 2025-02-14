@@ -38,6 +38,17 @@ layout: doc
 
 :::
 
+## persist
+> 英 <Phonetic word="persist" lang="en-GB" phonetic="/pə'sɪst/"/>
+> 美 <Phonetic word="persist" lang="en-US" phonetic="/pə'sɪst/"/>
+
+::: details
+
+- `vi.` 持续；固执；存留；坚持；持续下去
+- `vt.` 坚持说；反复说
+
+:::
+
 ## persistent
 > 英 <Phonetic word="persistent" lang="en-GB" phonetic="/pəˈsɪstənt/"/>
 > 美 <Phonetic word="persistent" lang="en-US" phonetic="/pəˈsɪstənt/"/>
@@ -48,6 +59,33 @@ layout: doc
 
 :::
 
+## piece
+> 英 <Phonetic word="piece" lang="en-GB" phonetic="/piːs/"/>
+> 美 <Phonetic word="piece" lang="en-US" phonetic="/piːs/"/>
+
+::: details
+
+- `n.` 
+    * 件；片；篇
+    * 一块；一片
+    * 一段；一部分
+    * 一集；一章
+- `v.` 分成片；把…分成片；把…切成片
+
+:::
+
+## playback
+> 英 <Phonetic word="playback" lang="en-GB" phonetic="/ˈpleɪbæk/"/>
+> 美 <Phonetic word="playback" lang="en-US" phonetic="/ˈpleɪbæk/"/>
+
+::: details
+
+- `n.` 
+    * 播放；重放；重播
+    * 回放；重播
+    * 播放设备
+
+:::
 
 ## practice
 > 英 <Phonetic word="practice" lang="en-GB" phonetic="/ˈpræktɪs/"/>
@@ -70,6 +108,50 @@ layout: doc
 ::: details
 
 - `n.` 总统；校长；校长职务；总裁
+
+:::
+
+## proper
+> 英 <Phonetic word="proper" lang="en-GB" phonetic="/ˈprɒpə(r)/"/>
+> 美 <Phonetic word="proper" lang="en-US" phonetic="/ˈprɑːpə(r)/"/>
+
+::: details
+
+- `adj.` 
+    * 正确的；合适的；正当的
+    * 适当的；正当的
+    * 体面的；正派的
+    * 有礼貌的；有教养的
+    * 正式的；正统的
+    * 严格的；严厉的
+    * 有节制的；有节制的
+    * 有礼貌的；有教养的
+
+:::
+
+## procrastinate
+> 英 <Phonetic word="procrastinate" lang="en-GB" phonetic="/prəˈkræstɪneɪt/"/>
+> 美 <Phonetic word="procrastinate" lang="en-US" phonetic="/prəˈkræstɪneɪt/"/>
+
+::: details
+
+- `v.` 
+    * 耽搁；拖延
+    * 延缓；耽搁
+    * 延缓；耽搁
+
+:::
+
+## procrastination
+> 英 <Phonetic word="procrastination" lang="en-GB" phonetic="/prəkræstɪ'neɪʃn/"/>
+> 美 <Phonetic word="procrastination" lang="en-US" phonetic="/prəkræstɪ'neʃən/"/>
+
+::: details
+
+- `n.` 
+    * 拖延；耽搁；延迟
+    * 延缓；耽搁
+    * 拖延症
 
 :::
 
@@ -127,17 +209,6 @@ layout: doc
 ::: details
 
 - `adj.` 过早的；未到期的；早产的
-
-:::
-
-## persist
-> 英 <Phonetic word="persist" lang="en-GB" phonetic="/pə'sɪst/"/>
-> 美 <Phonetic word="persist" lang="en-US" phonetic="/pə'sɪst/"/>
-
-::: details
-
-- `vi.` 持续；固执；存留；坚持；持续下去
-- `vt.` 坚持说；反复说
 
 :::
 

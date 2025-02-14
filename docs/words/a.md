@@ -53,6 +53,18 @@ layout: doc
 
 :::
 
+## assistant
+> 英 <Phonetic word="assistant" lang="en-GB" phonetic="/ə'sɪstənt/"/>
+> 美 <Phonetic word="assistant" lang="en-US" phonetic="/ə'sɪstənt/"/>
+
+::: details
+
+- `n.`
+    * 助手；助理；助教
+    * 助理教授；副教授
+
+:::
+
 ## argue
 > 英 <Phonetic word="argue" lang="en-GB" phonetic="/ɑːɡjuː/"/>
 > 美 <Phonetic word="argue" lang="en-US" phonetic="/ɑːɡjuː/"/>

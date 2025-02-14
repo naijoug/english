@@ -79,6 +79,18 @@ layout: doc
 
 :::
 
+## integrate
+> 英 <Phonetic word="integrate" lang="en-GB" phonetic="/ˈɪntɪɡreɪt/"/>
+> 美 <Phonetic word="integrate" lang="en-US" phonetic="/ˈɪntɪɡreɪt/"/>
+
+::: details
+
+- `v.` 
+    * 使成为一体；使整合；使集成
+    * 使逐步形成；使逐步发展
+
+:::
+
 ## integration
 > 英 <Phonetic word="integration" lang="en-GB" phonetic="/ˌɪntɪɡreˈseɪʃ(ə)n/"/>
 > 美 <Phonetic word="integration" lang="en-US" phonetic="/ˌɪntɪɡreˈseɪʃən/"/>

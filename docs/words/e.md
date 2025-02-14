@@ -34,6 +34,27 @@ layout: doc
 
 :::
 
+## endorse
+> 英 <Phonetic word="endorse" lang="en-GB" phonetic="/ɪnˈdɔːs/"/>
+> 美 <Phonetic word="endorse" lang="en-US" phonetic="/ɪnˈdɔːs/"/>
+
+::: details
+
+- `vt.` 批准；认可；支持；推荐
+- `vi.` 批准；认可；支持；推荐
+
+:::
+
+## endorsed
+> 英 <Phonetic word="endorsed" lang="en-GB" phonetic="/ɪnˈdɔːst/"/>
+> 美 <Phonetic word="endorsed" lang="en-US" phonetic="/ɪnˈdɔːst/"/>
+
+::: details
+
+- `adj.` 批准的；被认可的；被支持的；被推荐的
+
+:::
+
 ## encounter
 > 英 <Phonetic word="encounter" lang="en-GB" phonetic="/ɪnˈkaʊntə/"/>
 > 美 <Phonetic word="encounter" lang="en-US" phonetic="/ɪnˈkaʊntə/"/>
@@ -56,6 +77,23 @@ layout: doc
     * 房屋；住宅；住所
     * 土地；土地所有权
     
+:::
+
+## establish
+> 英 <Phonetic word="establish" lang="en-GB" phonetic="/ɪˈsteɪblɪʃ/"/>
+> 美 <Phonetic word="establish" lang="en-US" phonetic="/ɪˈsteɪblɪʃ/"/>
+
+::: details
+
+- `vt.`
+    * 建立；创办；设立
+    * 使确定；使生效
+    * 使成为；使生效
+- `vi.`
+    * 成立；建立；创办
+    * 确立；确立地位
+    * 使生效；使生效
+
 :::
 
 ## exclusive

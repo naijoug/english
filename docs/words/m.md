@@ -14,6 +14,17 @@ layout: doc
 
 :::
 
+## malware
+> 英 <Phonetic word="malware" lang="en-GB" phonetic="/'mælˌwɜː(r)/"/>
+> 美 <Phonetic word="malware" lang="en-US" phonetic="/'mælˌwɜː(r)/"/>
+
+::: details
+
+- `n.` 恶意软件；恶意程序；恶意代码
+- `adj.` 恶意的；恶毒的
+
+:::
+
 ## manifest
 > 英 <Phonetic word="manifest" lang="en-GB" phonetic="/ˈmænɪfest/"/>
 > 美 <Phonetic word="manifest" lang="en-US" phonetic="/ˈmænɪfest/"/>

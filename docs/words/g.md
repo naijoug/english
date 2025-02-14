@@ -14,6 +14,17 @@ layout: doc
 
 :::
 
+## gear
+> 英 <Phonetic word="gear" lang="en-GB" phonetic="/ɡɪə(r)/"/>
+> 美 <Phonetic word="gear" lang="en-US" phonetic="/ɡɪr/"/>
+
+::: details
+
+- `n.` 齿轮；传动装置；（机器的）传动机构
+- `vt.` 使适合；使适合于；使适合于
+
+:::
+
 
 ## govern
 > 英 <Phonetic word="govern" lang="en-GB" phonetic="/ˈɡʌvən/"/>

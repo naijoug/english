@@ -137,3 +137,15 @@ layout: doc
 - `vt` 使整洁；使漂亮
 
 :::
+
+## synchronize
+> 英 <Phonetic word="synchronize" lang="en-GB" phonetic="/ˈsɪŋkrənaɪz/"/>
+> 美 <Phonetic word="synchronize" lang="en-US" phonetic="/ˈsɪŋkrənaɪz/"/>
+
+::: details
+
+- `vt` 使同步；使同时发生
+- `vi` 同步；同时发生
+- `n` 同步；同时发生；同步器
+
+:::

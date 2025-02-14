@@ -25,6 +25,16 @@ layout: doc
 
 :::
 
+## bidirectional
+> 英 <Phonetic word="bidirectional" lang="en-GB" phonetic="/ˌbaɪdəˈrektʃənl/"/>
+> 美 <Phonetic word="bidirectional" lang="en-US" phonetic="/ˌbaɪdəˈrektʃənl/"/>
+
+::: details
+
+- `adj.` 双向的；双向的；双向的
+
+:::
+
 ## brand
 > 英 <Phonetic word="brand" lang="en-GB" phonetic="/brænd/"/>
 > 美 <Phonetic word="brand" lang="en-US" phonetic="/brænd/"/>
