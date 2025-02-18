@@ -47,6 +47,16 @@ layout: doc
 
 :::
 
+## infrastructure
+> 英 <Phonetic word="infrastructure" lang="en-GB" phonetic="/ˌɪnfrastrʌktʃə(r)/"/>
+> 美 <Phonetic word="infrastructure" lang="en-US" phonetic="/ˌɪnfrastrʌktʃə(r)/"/>
+
+::: details
+
+- `n.` 基础设施；基础设施工程；基础设施项目
+
+:::
+
 ## inspirational
 > 英 <Phonetic word="inspirational" lang="en-GB" phonetic="/ɪnspɪ'reɪʃ(ə)n(ə)l/"/>
 > 美 <Phonetic word="inspirational" lang="en-US" phonetic="/ˌɪnspə'reʃənl/"/>

@@ -24,6 +24,17 @@ layout: doc
 
 :::
 
+## determine
+> 英 <Phonetic word="determine" lang="en-GB" phonetic="/dɪˈtɜːmɪn/"/>
+> 美 <Phonetic word="determine" lang="en-US" phonetic="/dɪˈtɜːmɪn/"/>
+
+::: details
+
+- `vt.` 决定；下决心；使下决心
+- `vi.` 决定；下决心；决心去做
+
+:::
+
 ## delight
 > 英 <Phonetic word="delight" lang="en-GB" phonetic="/dɪˈlaɪt/"/>
 > 美 <Phonetic word="delight" lang="en-US" phonetic="/dɪˈlaɪt/"/>
