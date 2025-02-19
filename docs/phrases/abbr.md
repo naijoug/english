@@ -13,3 +13,13 @@ layout: doc
 非政府组织
 
 :::
+
+## TED `Technology, Entertainment, Design`
+> 英 <Phonetic word="Technology, Entertainment, Design" lang="en-GB" phonetic="/ˌtiːdiənəl ˈentərənsmənt ˈdeɪzn/"/>
+> 美 <Phonetic word="Technology, Entertainment, Design" lang="en-US" phonetic="/ˌtiːdiənəl ˈentərənsmənt ˈdeɪzn/"/>
+
+::: details
+
+技术、娱乐、设计
+
+:::
