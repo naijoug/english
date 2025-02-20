@@ -96,6 +96,20 @@ layout: doc
 
 :::
 
+## evaluation
+> 英 <Phonetic word="evaluation" lang="en-GB" phonetic="/ɪˌvæljuˈeɪʃn/"/>
+> 美 <Phonetic word="evaluation" lang="en-US" phonetic="/ɪˌvæljuˈeɪʃn/"/>
+
+::: details
+
+- `n.`
+    * 估价；评价；评估
+    * 表现；表达；表现力
+    * 评价；评估
+    * 表现；表达；表现力
+
+:::
+
 ## exclusive
 > 英 <Phonetic word="exclusive" lang="en-GB" phonetic="/ɪkˈskluːsɪv/"/>
 > 美 <Phonetic word="exclusive" lang="en-US" phonetic="/ɪkˈskluːsɪv/"/>

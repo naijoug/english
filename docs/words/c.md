@@ -129,6 +129,16 @@ layout: doc
 
 :::
 
+## compliance
+> 英 <Phonetic word="compliance" lang="en-GB" phonetic="/kəm'plaɪəns/"/>
+> 美 <Phonetic word="compliance" lang="en-US" phonetic="/kəm'plaɪəns/"/>
+
+::: details
+
+- `n.` 服从；遵守；顺从；听从
+
+:::
+
 ## contradict
 
 > 英 <Phonetic word="contradict" lang="en-GB" phonetic="/kɒntrə'dɪkt/"/> 

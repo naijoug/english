@@ -40,28 +40,36 @@ layout: doc
 
 :::
 
-## assign
-> 英 <Phonetic word="assign" lang="en-GB" phonetic="/ə'saɪn/"/>
-> 美 <Phonetic word="assign" lang="en-US" phonetic="/ə'saɪn/"/>
+## affirm
+> 英 <Phonetic word="affirm" lang="en-GB" phonetic="/ə'fɜːm/"/>
+> 美 <Phonetic word="affirm" lang="en-US" phonetic="/ə'fɜːrm/"/>
 
 ::: details
 
-- `v.`
-    * 分配；指派；指定
-    * 使……处于；使……处于某种状态
-    * 使……承担；使……负责
+- `vi.` 肯定；断言；确认
+- `vt.` 证实；断言；确认
 
 :::
 
-## assistant
-> 英 <Phonetic word="assistant" lang="en-GB" phonetic="/ə'sɪstənt/"/>
-> 美 <Phonetic word="assistant" lang="en-US" phonetic="/ə'sɪstənt/"/>
+## alchemy
+> 英 <Phonetic word="alchemy" lang="en-GB" phonetic="/ˈælkəmi/"/>
+> 美 <Phonetic word="alchemy" lang="en-US" phonetic="/ˈælkəmi/"/>
+
+::: details
+
+- `n.` 炼金术；点金术；魔力
+
+:::
+
+## anticipation
+> 英 <Phonetic word="anticipation" lang="en-GB" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
+> 美 <Phonetic word="anticipation" lang="en-US" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
 
 ::: details
 
 - `n.`
-    * 助手；助理；助教
-    * 助理教授；副教授
+    * 预期；期待；预感
+    * 先发制人
 
 :::
 
@@ -88,36 +96,53 @@ layout: doc
 
 :::
 
-## alchemy
-> 英 <Phonetic word="alchemy" lang="en-GB" phonetic="/ˈælkəmi/"/>
-> 美 <Phonetic word="alchemy" lang="en-US" phonetic="/ˈælkəmi/"/>
+## assign
+> 英 <Phonetic word="assign" lang="en-GB" phonetic="/ə'saɪn/"/>
+> 美 <Phonetic word="assign" lang="en-US" phonetic="/ə'saɪn/"/>
 
 ::: details
 
-- `n.` 炼金术；点金术；魔力
+- `v.`
+    * 分配；指派；指定
+    * 使……处于；使……处于某种状态
+    * 使……承担；使……负责
 
 :::
 
-## anticipation
-> 英 <Phonetic word="anticipation" lang="en-GB" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
-> 美 <Phonetic word="anticipation" lang="en-US" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
+## assistant
+> 英 <Phonetic word="assistant" lang="en-GB" phonetic="/ə'sɪstənt/"/>
+> 美 <Phonetic word="assistant" lang="en-US" phonetic="/ə'sɪstənt/"/>
 
 ::: details
 
 - `n.`
-    * 预期；期待；预感
-    * 先发制人
+    * 助手；助理；助教
+    * 助理教授；副教授
 
 :::
 
-## affirm
-> 英 <Phonetic word="affirm" lang="en-GB" phonetic="/ə'fɜːm/"/>
-> 美 <Phonetic word="affirm" lang="en-US" phonetic="/ə'fɜːrm/"/>
+## attempt
+> 英 <Phonetic word="attempt" lang="en-GB" phonetic="/ə'tempt/"/>
+> 美 <Phonetic word="attempt" lang="en-US" phonetic="/ə'tempt/"/>
 
 ::: details
 
-- `vi.` 肯定；断言；确认
-- `vt.` 证实；断言；确认
+- `v.`
+    * 试图；企图；尝试
+    * 尝试；试图；企图
+- `n.` 尝试；企图；努力
+
+:::
+
+## approve
+> 英 <Phonetic word="approve" lang="en-GB" phonetic="/əˈpruːv/"/>
+> 美 <Phonetic word="approve" lang="en-US" phonetic="/əˈpruːv/"/>
+
+::: details
+
+- `v.`
+    * 批准；赞成；同意
+    * 估价；评价；鉴赏
 
 :::
 

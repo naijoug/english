@@ -36,6 +36,16 @@ layout: doc
 
 :::
 
+## violation
+> 英 <Phonetic word="violation" lang="en-GB" phonetic="/ˌvaɪəˈleɪʃn/"/>
+> 美 <Phonetic word="violation" lang="en-US" phonetic="/ˌvaɪəˈleɪʃn/"/>
+
+::: details
+
+- `n.` 违反；妨碍；侵犯
+
+:::
+
 ## verify
 > 英 <Phonetic word="verify" lang="en-GB" phonetic="/'verɪfaɪ/"/>
 > 美 <Phonetic word="verify" lang="en-US" phonetic="/'vɛrɪfaɪ/"/>

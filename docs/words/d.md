@@ -4,6 +4,16 @@ layout: doc
 
 # D
 
+## deceive
+> 英 <Phonetic word="deceive" lang="en-GB" phonetic="/dɪˈsiːv/"/>
+> 美 <Phonetic word="deceive" lang="en-US" phonetic="/dɪˈsiːv/"/>
+
+::: details
+
+- `v.` 欺骗；哄骗；行骗
+
+:::
+
 ## dedicate
 > 英 <Phonetic word="dedicate" lang="en-GB" phonetic="/ˈdedɪkeɪt/"/>
 > 美 <Phonetic word="dedicate" lang="en-US" phonetic="/ˈdedɪkeɪt/"/>
@@ -46,6 +56,17 @@ layout: doc
 
 :::
 
+## deliberate
+> 英 <Phonetic word="deliberate" lang="en-GB" phonetic="/dɪˈlɪbəreɪt/"/>
+> 美 <Phonetic word="deliberate" lang="en-US" phonetic="/dɪˈlɪbəreɪt/"/>
+
+::: details
+
+- `adj.` 深思熟虑的；故意的；谨慎的
+- `v.` 考虑；沉思；仔细考虑
+
+:::
+
 ## diagnose
 > 英 <Phonetic word="diagnose" lang="en-GB" phonetic="/ˈdaɪəɡnəʊz/"/>
 > 美 <Phonetic word="diagnose" lang="en-US" phonetic="/ˌdaɪəɡˈnoʊs/"/>
@@ -74,6 +95,16 @@ layout: doc
 ::: details
 
 恐龙 🦖
+
+:::
+
+## disregard
+> 英 <Phonetic word="disregard" lang="en-GB" phonetic="/dɪsˈrɛɡəd/"/>
+> 美 <Phonetic word="disregard" lang="en-US" phonetic="/dɪsˈrɛɡərd/"/>
+
+::: details
+
+- `vt.` 不顾；漠视；忽视
 
 :::
 

@@ -40,6 +40,16 @@ layout: doc
 
 :::
 
+## sexual
+> 英 <Phonetic word="sexual" lang="en-GB" phonetic="/ˈseksjuəl/"/>
+> 美 <Phonetic word="sexual" lang="en-US" phonetic="/ˈseksjuəl/"/>
+
+::: details
+
+- `adj` 性的；性交的；性欲的；性感的
+
+:::
+
 ## slightly
 > 英 <Phonetic word="slightly" lang="en-GB" phonetic="/ˈslaɪtli/"/>
 > 美 <Phonetic word="slightly" lang="en-US" phonetic="/ˈslaɪtli/"/>
@@ -63,6 +73,64 @@ layout: doc
     * 光滑的；圆滑的；井然有序的
 - `vi` 打扮整洁；滑动
 - `vt` 使…光滑；掩盖
+
+:::
+
+## sphere
+> 英 <Phonetic word="sphere" lang="en-GB" phonetic="/sfɪə(r)/"/>
+> 美 <Phonetic word="sphere" lang="en-US" phonetic="/sfɪr/"/>
+
+::: details
+
+- `n` 球；球体；范围；领域
+- `vt` 使成球状；使成球形
+- `adj` 球形的；球状的
+
+:::
+
+## spot
+> 英 <Phonetic word="spot" lang="en-GB" phonetic="/spɒt/"/>
+> 美 <Phonetic word="spot" lang="en-US" phonetic="/spɑt/"/>
+
+::: details
+
+- `n` 地点；斑点；污点；污渍
+- `vt` 弄脏；弄坏；玷污；弄出斑点
+- `vi` 出现污点；出毛病；出毛病
+
+:::
+
+## spruce
+> 英 <Phonetic word="spruce" lang="en-GB" phonetic="/spruːs/"/>
+> 美 <Phonetic word="spruce" lang="en-US" phonetic="/spruːs/"/>
+
+::: details
+
+- `adj` 朴素的；整洁的；漂亮的
+- `n` 云杉
+- `vi` 打扮整齐；使显干净
+- `vt` 使整洁；使漂亮
+
+:::
+
+## specific
+> 英 <Phonetic word="specific" lang="en-GB" phonetic="/spəˈsɪfɪk/"/>
+> 美 <Phonetic word="specific" lang="en-US" phonetic="/spəˈsɪfɪk/"/>
+
+::: details
+
+- `adj` 特定的；明确的；明确的；明确的
+- `n` 特定物；具体物；具体物
+
+:::
+
+## specifically
+> 英 <Phonetic word="specifically" lang="en-GB" phonetic="/spəˈsɪfɪkli/"/>
+> 美 <Phonetic word="specifically" lang="en-US" phonetic="/spəˈsɪfɪkli/"/>
+
+::: details
+
+- `adv` 特定地；明确地；明确地；明确地
 
 :::
 
@@ -90,31 +158,6 @@ layout: doc
 
 :::
 
-
-## sphere
-> 英 <Phonetic word="sphere" lang="en-GB" phonetic="/sfɪə(r)/"/>
-> 美 <Phonetic word="sphere" lang="en-US" phonetic="/sfɪr/"/>
-
-::: details
-
-- `n` 球；球体；范围；领域
-- `vt` 使成球状；使成球形
-- `adj` 球形的；球状的
-
-:::
-
-## spot
-> 英 <Phonetic word="spot" lang="en-GB" phonetic="/spɒt/"/>
-> 美 <Phonetic word="spot" lang="en-US" phonetic="/spɑt/"/>
-
-::: details
-
-- `n` 地点；斑点；污点；污渍
-- `vt` 弄脏；弄坏；玷污；弄出斑点
-- `vi` 出现污点；出毛病；出毛病
-
-:::
-
 ## supercharge
 > 英 <Phonetic word="supercharge" lang="en-GB" phonetic="/ˌsuːpəˈtʃɑːdʒ/"/>
 > 美 <Phonetic word="supercharge" lang="en-US" phonetic="/ˌsuːpərˈtʃɑːrdʒ/"/>
@@ -122,19 +165,6 @@ layout: doc
 ::: details
 
 - `vt` 使增压；使超负荷；使充满
-
-:::
-
-## spruce
-> 英 <Phonetic word="spruce" lang="en-GB" phonetic="/spruːs/"/>
-> 美 <Phonetic word="spruce" lang="en-US" phonetic="/spruːs/"/>
-
-::: details
-
-- `adj` 朴素的；整洁的；漂亮的
-- `n` 云杉
-- `vi` 打扮整齐；使显干净
-- `vt` 使整洁；使漂亮
 
 :::
 

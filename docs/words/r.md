@@ -4,6 +4,60 @@ layout: doc
 
 # R
 
+## raster
+> 英 <Phonetic word="raster" lang="en-GB" phonetic="/ˈræstə/"/>
+> 美 <Phonetic word="raster" lang="en-US" phonetic="/ˈræstə/"/>
+
+::: details
+
+- `n.` 光栅；光栅图像
+
+:::
+
+## radar
+> 英 <Phonetic word="radar" lang="en-GB" phonetic="/ˈreɪdɑː/"/>
+> 美 <Phonetic word="radar" lang="en-US" phonetic="/ˈreɪdɑː/"/>
+
+::: details
+
+- `n.` 雷达；雷达图
+
+:::
+
+## reassemble
+> 英 <Phonetic word="reassemble" lang="en-GB" phonetic="/riːə'semb(ə)l/"/>
+> 美 <Phonetic word="reassemble" lang="en-US" phonetic="/ˌriə'sɛmbl/"/>
+
+::: details
+
+- `v.` 重新装配；重新组合
+
+:::
+
+## regard
+> 英 <Phonetic word="regard" lang="en-GB" phonetic="/rɪˈgɑːd/"/>
+> 美 <Phonetic word="regard" lang="en-US" phonetic="/rɪˈgɑːd/"/>
+
+::: details
+
+- `n.`
+    * 关注；关心；关心的事
+    * 问候；致意
+    * 眼光；看法
+    * 问候；致意
+- `vt.`
+    * 看待；把…看作；认为
+    * 重视；尊敬；尊敬
+    * 介意；关心
+    * 问候；致意
+- `vi.`
+    * 看待；把…看作；认为
+    * 重视；尊敬；尊敬
+    * 介意；关心
+    * 问候；致意
+
+:::
+
 ## relevant
 > 英 <Phonetic word="relevant" lang="en-GB" phonetic="/ˈreləvənt/"/>
 > 美 <Phonetic word="relevant" lang="en-US" phonetic="/ˈreləvənt/"/>
@@ -38,25 +92,7 @@ layout: doc
 
 :::
 
-## raster
-> 英 <Phonetic word="raster" lang="en-GB" phonetic="/ˈræstə/"/>
-> 美 <Phonetic word="raster" lang="en-US" phonetic="/ˈræstə/"/>
 
-::: details
-
-- `n.` 光栅；光栅图像
-
-:::
-
-## radar
-> 英 <Phonetic word="radar" lang="en-GB" phonetic="/ˈreɪdɑː/"/>
-> 美 <Phonetic word="radar" lang="en-US" phonetic="/ˈreɪdɑː/"/>
-
-::: details
-
-- `n.` 雷达；雷达图
-
-:::
 
 ## rephrase
 > 英 <Phonetic word="rephrase" lang="en-GB" phonetic="/rɪˈfreɪz/"/>
@@ -65,16 +101,6 @@ layout: doc
 ::: details
 
 - `v.` 重写；改写；改述；改撰
-
-:::
-
-## reassamble
-> 英 <Phonetic word="reassamble" lang="en-GB" phonetic="/riːə'semb(ə)l/"/>
-> 美 <Phonetic word="reassamble" lang="en-US" phonetic="/ˌriə'sɛmbl/"/>
-
-::: details
-
-- `v.` 重新装配；重新组合
 
 :::
 

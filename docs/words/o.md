@@ -14,3 +14,13 @@ layout: doc
 - `adv.` 海外地; 在国外地
 
 :::
+
+## overtly
+> 英 <Phonetic word="overtly" lang="en-GB" phonetic="/ˈəʊvətlɪ/"/>
+> 美 <Phonetic word="overtly" lang="en-US" phonetic="/ˈoʊvərtlɪ/"/>
+
+::: details
+
+- `adv.` 明显地; 直接地
+
+:::
