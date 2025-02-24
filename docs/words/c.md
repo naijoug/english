@@ -57,6 +57,27 @@ layout: doc
 
 :::
 
+## chewie
+> 英 <Phonetic word="chewie" lang="en-GB" phonetic="/tʃuːɪ/"/>
+> 美 <Phonetic word="chewie" lang="en-US" phonetic="/tʃuːɪ/"/>
+
+::: details
+
+- `n.` 口香糖；橡皮糖
+
+:::
+
+## credential
+> 英 <Phonetic word="credential" lang="en-GB" phonetic="/krə'denʃl/"/>
+> 美 <Phonetic word="credential" lang="en-US" phonetic="/krə'dɛnʃl/"/>
+
+::: details
+
+- `n.` 证书；凭据；凭证
+- `v.` 证明…有…的资格
+
+:::
+
 ## conduct
 > 英 <Phonetic word="conduct" lang="en-GB" phonetic="/kən'dʌkt/"/>
 > 美 <Phonetic word="conduct" lang="en-US" phonetic="/kən'dʌkt/"/>
@@ -168,17 +189,6 @@ layout: doc
 ::: details
 
 - `adv.` 正确地；恰当地；正确无误地
-
-:::
-
-## credential
-> 英 <Phonetic word="credential" lang="en-GB" phonetic="/krə'denʃl/"/>
-> 美 <Phonetic word="credential" lang="en-US" phonetic="/krə'dɛnʃl/"/>
-
-::: details
-
-- `n.` 证书；凭据；凭证
-- `v.` 证明…有…的资格
 
 :::
 

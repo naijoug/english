@@ -89,6 +89,17 @@ layout: doc
 
 :::
 
+## insight
+> 英 <Phonetic word="insight" lang="en-GB" phonetic="/ɪnˈsaɪt/"/>
+> 美 <Phonetic word="insight" lang="en-US" phonetic="/ɪnˈsaɪt/"/>
+
+::: details
+
+- `n.` 洞察力；洞悉；顿悟
+- `v.` 觉察；洞察；领悟
+
+:::
+
 ## integrate
 > 英 <Phonetic word="integrate" lang="en-GB" phonetic="/ˈɪntɪɡreɪt/"/>
 > 美 <Phonetic word="integrate" lang="en-US" phonetic="/ˈɪntɪɡreɪt/"/>

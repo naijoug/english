@@ -80,6 +80,19 @@ layout: doc
 
 ::: 
 
+## troubleshoot
+> 英 <Phonetic word="troubleshoot" lang="en-GB" phonetic="/ˈtrʌblʃut/"/>
+> 美 <Phonetic word="troubleshoot" lang="en-US" phonetic="/ˈtrʌblʃut/"/>
+
+::: details
+
+- `v.`
+    * 排除故障；排除故障；排除故障
+    * 修理；修理；修理
+    * 使…适应；使…适合
+
+:::
+
 ## trust
 > 英 <Phonetic word="trust" lang="en-GB" phonetic="/trʌst/"/>
 > 美 <Phonetic word="trust" lang="en-US" phonetic="/trʌst/"/>
