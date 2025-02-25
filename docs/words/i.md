@@ -100,6 +100,18 @@ layout: doc
 
 :::
 
+## inspect
+> 英 <Phonetic word="inspect" lang="en-GB" phonetic="/ɪnˈspekt/"/>
+> 美 <Phonetic word="inspect" lang="en-US" phonetic="/ɪnˈspekt/"/>
+
+::: details
+
+- `v.` 
+    * 检查；视察；细看
+    * 仔细检查；详细审查
+
+:::
+
 ## integrate
 > 英 <Phonetic word="integrate" lang="en-GB" phonetic="/ˈɪntɪɡreɪt/"/>
 > 美 <Phonetic word="integrate" lang="en-US" phonetic="/ˈɪntɪɡreɪt/"/>

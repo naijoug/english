@@ -150,6 +150,16 @@ layout: doc
 
 :::
 
+## comprehensive
+> 英 <Phonetic word="comprehensive" lang="en-GB" phonetic="/kəmˈprɛhensɪv/"/>
+> 美 <Phonetic word="comprehensive" lang="en-US" phonetic="/kəmˈprɛhensɪv/"/>
+
+::: details
+
+- `adj.` 综合的；广泛的；有理解力的
+
+:::
+
 ## compliance
 > 英 <Phonetic word="compliance" lang="en-GB" phonetic="/kəm'plaɪəns/"/>
 > 美 <Phonetic word="compliance" lang="en-US" phonetic="/kəm'plaɪəns/"/>

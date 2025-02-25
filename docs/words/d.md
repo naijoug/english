@@ -98,6 +98,16 @@ layout: doc
 
 :::
 
+## discourage
+> 英 <Phonetic word="discourage" lang="en-GB" phonetic="/dɪsˈkʌrɪdʒ/"/>
+> 美 <Phonetic word="discourage" lang="en-US" phonetic="/dɪsˈkʌrɪdʒ/"/>
+
+::: details
+
+- `vt.` 使气馁；使灰心；劝阻
+
+:::
+
 ## disregard
 > 英 <Phonetic word="disregard" lang="en-GB" phonetic="/dɪsˈrɛɡəd/"/>
 > 美 <Phonetic word="disregard" lang="en-US" phonetic="/dɪsˈrɛɡərd/"/>
