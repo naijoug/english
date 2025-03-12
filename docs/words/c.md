@@ -182,6 +182,17 @@ layout: doc
 
 :::
 
+## consent
+> 英 <Phonetic word="consent" lang="en-GB" phonetic="/kən'sent/"/>
+> 美 <Phonetic word="consent" lang="en-US" phonetic="/kən'sɛnt/"/>
+
+::: details
+
+- `n.` 同意；赞成；答应
+- `v.` 同意；赞成；答应
+
+:::
+
 ## conversation
 > 英 <Phonetic word="conversation" lang="en-GB" phonetic="/ˌkɒnvəˈseɪʃn/"/>
 > 美 <Phonetic word="conversation" lang="en-US" phonetic="/kɑːnvər'seɪʃn/"/>

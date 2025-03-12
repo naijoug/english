@@ -199,6 +199,20 @@ layout: doc
 
 :::
 
+## reveal
+> 英 <Phonetic word="reveal" lang="en-GB" phonetic="/rɪˈviːl/"/>
+> 美 <Phonetic word="reveal" lang="en-US" phonetic="/rɪˈviːl/"/>
+
+::: details
+
+- `v.`
+    * 揭露；透露；泄露
+    * 显示；放映；映出
+    * 使…现形；使…暴露
+- `n.` 揭露；显示；信号
+
+:::
+
 ## ringtone
 > 英 <Phonetic word="ringtone" lang="en-GB" phonetic="/ˈrɪŋtəʊn/"/>
 > 美 <Phonetic word="ringtone" lang="en-US" phonetic="/ˈrɪŋtəʊn/"/>

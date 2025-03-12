@@ -48,6 +48,17 @@ layout: doc
 
 :::
 
+## mature
+> 英 <Phonetic word="mature" lang="en-GB" phonetic="/məˈtʃʊə(r)/"/>
+> 美 <Phonetic word="mature" lang="en-US" phonetic="/məˈtʃʊə(r)/"/>
+
+::: details
+
+- `adj.` 成熟的；完全的；完全成熟的
+- `n.` 成熟的人；成年人
+
+:::
+
 ## memorable
 > 英 <Phonetic word="memorable" lang="en-GB" phonetic="/'mem(ə)rəb(ə)l/"/> 
 > 美 <Phonetic word="memorable" lang="en-US" phonetic="/'mɛmərəbl/"/>

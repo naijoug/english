@@ -27,6 +27,16 @@ layout: doc
 
 :::
 
+## legacy
+> 英 <Phonetic word="legacy" lang="en-GB" phonetic="/ˈleɡəsi/"/>
+> 美 <Phonetic word="legacy" lang="en-US" phonetic="/ˈleɡəsi/"/>
+
+::: details
+
+- `n.` 遗产；遗赠；遗产税
+
+:::
+
 ## leverage
 > 英 <Phonetic word="leverage" lang="en-GB" phonetic="/ˈliːvərɪdʒ/"/>
 > 美 <Phonetic word="leverage" lang="en-US" phonetic="/ˈliːvərɪdʒ/"/>
