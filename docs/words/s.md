@@ -134,6 +134,17 @@ layout: doc
 
 :::
 
+## stash
+> 英 <Phonetic word="stash" lang="en-GB" phonetic="/stæʃ/"/>
+> 美 <Phonetic word="stash" lang="en-US" phonetic="/stæʃ/"/>
+
+::: details
+
+- `n.` 藏匿处；藏匿物；藏匿物
+- `vt.` 藏匿；隐藏；隐藏
+
+:::
+
 ## struggle
 > 英 <Phonetic word="struggle" lang="en-GB" phonetic="/ˈstrʌgl/"/>
 > 美 <Phonetic word="struggle" lang="en-US" phonetic="/ˈstrʌgl/"/>
@@ -165,6 +176,16 @@ layout: doc
 ::: details
 
 - `vt` 使增压；使超负荷；使充满
+
+:::
+
+## sunset
+> 英 <Phonetic word="sunset" lang="en-GB" phonetic="/ˈsʌnset/"/>
+> 美 <Phonetic word="sunset" lang="en-US" phonetic="/ˈsʌnset/"/>
+
+::: details
+
+- `n` 日落；日落时；日落景象
 
 :::
 
