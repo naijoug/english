@@ -31,3 +31,7 @@ layout: doc
     > 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
 - [句乐部](https://docs.julebu.co/o) 👉🏻 [🐙](https://github.com/cuixueshe/earthworm)
     > Learning English through the method of constructing sentences with conjunctions
+
+------
+
+- [打字星球](https://www.type.fun/)
