@@ -156,6 +156,17 @@ layout: doc
 
 :::
 
+## interoperable
+> 英 <Phonetic word="interoperable" lang="en-GB" phonetic="/ˌɪntərəʊˈpəʊrəb(ə)l/"/>
+> 美 <Phonetic word="interoperable" lang="en-US" phonetic="/ˌɪntərəʊˈpɔːrəb(ə)l/"/>
+
+::: details
+
+- `adj.` 互操作的；可共用的
+- `n.` 互操作性；可操作性
+
+:::
+
 ## innovation
 > 英 <Phonetic word="innovation" lang="en-GB" phonetic="/ˌɪnəˈveɪʃ(ə)n/"/>
 > 美 <Phonetic word="innovation" lang="en-US" phonetic="/ˌɪnəˈveʃən/"/>

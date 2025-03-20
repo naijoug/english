@@ -14,6 +14,16 @@ layout: doc
 
 :::
 
+## decentralised
+> 英 <Phonetic word="decentralised" lang="en-GB" phonetic="/ˌdiːsəˈteɪnəraɪzd/"/>
+> 美 <Phonetic word="decentralised" lang="en-US" phonetic="/ˌdiːsəˈteɪnəraɪzd/"/>
+
+::: details
+
+- `adj.` 分散的；分散式的；去中心化的
+
+:::
+
 ## dedicate
 > 英 <Phonetic word="dedicate" lang="en-GB" phonetic="/ˈdedɪkeɪt/"/>
 > 美 <Phonetic word="dedicate" lang="en-US" phonetic="/ˈdedɪkeɪt/"/>

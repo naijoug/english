@@ -170,6 +170,16 @@ layout: doc
 
 :::
 
+## communication
+> 英 <Phonetic word="communication" lang="en-GB" phonetic="/kəˌmjuːnɪˈkeɪʃn/"/>
+> 美 <Phonetic word="communication" lang="en-US" phonetic="/kəˌmjuːnɪˈkeɪʃn/"/>
+
+::: details
+
+- `n.` 交流；沟通；交际；交往
+
+:::
+
 ## contradict
 
 > 英 <Phonetic word="contradict" lang="en-GB" phonetic="/kɒntrə'dɪkt/"/> 

@@ -14,6 +14,18 @@ layout: doc
 
 :::
 
+## hook
+> 英 <Phonetic word="hʊk" lang="en-GB" phonetic="/hʊk/"/>
+> 美 <Phonetic word="hook" lang="en-US" phonetic="/hʊk/"/>
+
+::: details
+
+- `n.` 钩；钩状物；钩状物
+- `vt.` 用钩钩住；用钩刺；用钩拉
+- `vi.` 用钩钩住；用钩刺；用钩拉
+
+:::
+
 ## hourglass
 > 英 <Phonetic word="ˈaʊəgrɑːsl" lang="en-GB" phonetic="/'aʊəglɑːs/"/>
 > 美 <Phonetic word="hourglass" lang="en-US" phonetic="/'aʊɚɡlæs/"/>

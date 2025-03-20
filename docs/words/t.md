@@ -29,6 +29,39 @@ layout: doc
 
 :::
 
+## thermo
+> 英 <Phonetic word="thermo" lang="en-GB" phonetic="/ˈθɜːməʊ/"/>
+> 美 <Phonetic word="thermo" lang="en-US" phonetic="/ˈθɝmoʊ/"/>
+
+::: details
+
+- `n.` 热力学；热力学温度；热力学单位
+- `adj.` 热的；热量的；热学的；热力学上的
+
+:::
+
+## thermodynamic
+> 英 <Phonetic word="thermodynamic" lang="en-GB" phonetic="/ˌθɜːmədɪˈnæmɪk/"/>
+> 美 <Phonetic word="thermodynamic" lang="en-US" phonetic="/ˌθɝmədɪˈnæmɪk/"/>
+
+::: details
+
+- `adj.` 热的；热量的；热学的；热力学上的
+- `n.` 热力学；热力学温度；热力学单位
+
+:::
+
+## thermometer
+> 英 <Phonetic word="thermometer" lang="en-GB" phonetic="/ˈθɜːməmɪtə(r)/"/>
+> 美 <Phonetic word="thermometer" lang="en-US" phonetic="/ˈθɝməˌmɪtɚ/"/>
+
+::: details
+
+- `n.` 温度计；寒暑表；温度表
+- `adj.` 典型的；有代表性的；有…倾向的
+
+:::
+
 ## therefore
 > 英 <Phonetic word="therefore" lang="en-GB" phonetic="/ˈðeəfɔː(r)/"/>
 > 美 <Phonetic word="therefore" lang="en-US" phonetic="/ˈðerfɔːr/"/>
