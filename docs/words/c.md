@@ -25,6 +25,17 @@ layout: doc
 
 :::
 
+## cascade
+> 英 <Phonetic word="cascade" lang="en-GB" phonetic="/kæˈskeɪd/"/>
+> 美 <Phonetic word="cascade" lang="en-US" phonetic="/kæˈskeɪd/"/>
+
+::: details
+
+- `n.` 瀑布；层叠而下
+- `vt.` 使…层叠而下
+
+:::
+
 ## chamber
 > 英 <Phonetic word="chamber" lang="en-GB" phonetic="/'tʃæmbər/"/>
 > 美 <Phonetic word="chamber" lang="en-US" phonetic="/'tʃæmbər/"/>
@@ -139,6 +150,16 @@ layout: doc
 
 :::
 
+## communication
+> 英 <Phonetic word="communication" lang="en-GB" phonetic="/kəˌmjuːnɪˈkeɪʃn/"/>
+> 美 <Phonetic word="communication" lang="en-US" phonetic="/kəˌmjuːnɪˈkeɪʃn/"/>
+
+::: details
+
+- `n.` 交流；沟通；交际；交往
+
+:::
+
 ## compound
 > 英 <Phonetic word="compound" lang="en-GB" phonetic="/ˈkɒmpaʊnd/"/>
 > 美 <Phonetic word="compound" lang="en-US" phonetic="/ˈkɒmpaʊnd/"/>
@@ -170,15 +191,7 @@ layout: doc
 
 :::
 
-## communication
-> 英 <Phonetic word="communication" lang="en-GB" phonetic="/kəˌmjuːnɪˈkeɪʃn/"/>
-> 美 <Phonetic word="communication" lang="en-US" phonetic="/kəˌmjuːnɪˈkeɪʃn/"/>
 
-::: details
-
-- `n.` 交流；沟通；交际；交往
-
-:::
 
 ## contradict
 

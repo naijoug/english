@@ -46,6 +46,19 @@ layout: doc
 
 :::
 
+## vital
+> 英 <Phonetic word="vital" lang="en-GB" phonetic="/'vaɪtl/"/>
+> 美 <Phonetic word="vital" lang="en-US" phonetic="/'vaɪtl/"/>
+
+::: details
+
+- `adj`     
+    * 重要的；关键的；生死攸关的
+    * 生命的；有活力的
+    * 致命的；危及生命的
+
+:::
+
 ## verify
 > 英 <Phonetic word="verify" lang="en-GB" phonetic="/'verɪfaɪ/"/>
 > 美 <Phonetic word="verify" lang="en-US" phonetic="/'vɛrɪfaɪ/"/>
