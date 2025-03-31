@@ -124,6 +124,16 @@ layout: doc
 
 :::
 
+## represent
+> 英 <Phonetic word="represent" lang="en-GB" phonetic="/ˌriːprɪˈzent/"/>
+> 美 <Phonetic word="represent" lang="en-US" phonetic="/ˌriːprɪˈzent/"/>
+
+::: details
+
+- `v.` 表示；代表；呈现
+
+:::
+
 ## reproduction
 > 英 <Phonetic word="reproduction" lang="en-GB" phonetic="/ˌriːprəˈdʌkʃn/"/>
 > 美 <Phonetic word="reproduction" lang="en-US" phonetic="/ˌriːprəˈdʌkʃn/"/>

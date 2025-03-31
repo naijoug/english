@@ -25,6 +25,18 @@ layout: doc
 
 :::
 
+## caution
+> 英 <Phonetic word="caution" lang="en-GB" phonetic="/'kɔːʃn/"/>
+> 美 <Phonetic word="caution" lang="en-US" phonetic="/'kɔːʃn/"/>
+
+::: details
+
+- `n.`    谨慎；警告
+- `vt.`   警告；提醒
+- `adj.`  谨慎的
+
+:::
+
 ## cascade
 > 英 <Phonetic word="cascade" lang="en-GB" phonetic="/kæˈskeɪd/"/>
 > 美 <Phonetic word="cascade" lang="en-US" phonetic="/kæˈskeɪd/"/>
@@ -147,6 +159,16 @@ layout: doc
 ::: details
 
 - `n.` 商业；贸易
+
+:::
+
+## commercial
+> 英 <Phonetic word="commercial" lang="en-GB" phonetic="/kə'mɜːʃl/"/>
+> 美 <Phonetic word="commercial" lang="en-US" phonetic="/kə'mɜːʃl/"/>
+
+::: details
+
+- `adj.` 商业的；贸易的
 
 :::
 

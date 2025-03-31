@@ -4,6 +4,16 @@ layout: doc
 
 # O
 
+## offensive
+> 英 <Phonetic word="offensive" lang="en-GB" phonetic="/ˈɒfənsɪv/"/>
+> 美 <Phonetic word="offensive" lang="en-US" phonetic="/ˈɑːfənsɪv/"/>
+
+::: details
+
+- `adj.` 进攻的; 有攻击性的
+
+:::
+
 ## overseas
 > 英 <Phonetic word="overseas" lang="en-GB" phonetic="/ˌəʊvəˈsiːz/"/>
 > 美 <Phonetic word="overseas" lang="en-US" phonetic="/ˌoʊvərˈsiːz/"/>

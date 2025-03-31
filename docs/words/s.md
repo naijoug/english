@@ -4,6 +4,16 @@ layout: doc
 
 # S
 
+## scenario
+> 英 <Phonetic word="scenario" lang="en-GB" phonetic="/səˈnɑːriəʊ/"/>
+> 美 <Phonetic word="scenario" lang="en-US" phonetic="/səˈnærioʊ/"/>
+
+::: details
+
+- `n` 场景；场面；情景
+
+:::
+
 ## schedule
 > 英 <Phonetic word="schedule" lang="en-GB" phonetic="/ˈskiːdʒuːl/"/>
 > 美 <Phonetic word="schedule" lang="en-US" phonetic="/ˈskiːdʒuːl/"/>
@@ -166,6 +176,18 @@ layout: doc
 - `n.` 关系固定的情侣；固定支架
 - `adj` 稳定的；沉着的；坚定的
 - `adv` 稳定地；坚定地
+
+:::
+
+## subject
+> 英 <Phonetic word="subject" lang="en-GB" phonetic="/ˈsʌbdʒɪkt/"/>
+> 美 <Phonetic word="subject" lang="en-US" phonetic="/ˈsʌbdʒɪkt/"/>
+
+::: details
+
+- `n` 主题；科目；对象；主语
+- `adj` 主体的；主要的；主要的
+- `v` 须服从…的；受…支配的
 
 :::
 

@@ -171,6 +171,17 @@ layout: doc
 
 :::
 
+## audit
+> 英 <Phonetic word="audit" lang="en-GB" phonetic="/ˈɔːdɪt/"/>
+> 美 <Phonetic word="audit" lang="en-US" phonetic="/ˈɔːdɪt/"/>
+
+::: details
+
+- `n.` 审计；审查；检查
+- `v.` 审计；审查
+
+:::
+
 ## audience
 > 英 <Phonetic word="audience" lang="en-GB" phonetic="/ˈɔːdɪəns/"/>
 > 美 <Phonetic word="audience" lang="en-US" phonetic="/ˈɔːdɪəns/"/>

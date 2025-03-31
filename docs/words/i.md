@@ -14,6 +14,16 @@ layout: doc
 
 :::
 
+## inaccurate
+> 英 <Phonetic word="inaccurate" lang="en-GB" phonetic="/ɪn'ækjərət/"/>
+> 美 <Phonetic word="inaccurate" lang="en-US" phonetic="/ɪn'ækjərət/"/>
+
+::: details
+
+- `adj.` 不准确的；不精确的
+
+:::
+
 ## indicate
 > 英 <Phonetic word="indicate" lang="en-GB" phonetic="/ɪn'dɪkəreɪt/"/>
 > 美 <Phonetic word="indicate" lang="en-US" phonetic="/ɪn'dɪkəreɪt/"/>
