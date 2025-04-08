@@ -27,6 +27,18 @@ layout: doc
 
 :::
 
+## leftover
+> 英 <Phonetic word="leftover" lang="en-GB" phonetic="/ˈlefəʊvə(r)/"/>
+> 美 <Phonetic word="leftover" lang="en-US" phonetic="/ˈlefəʊvə(r)/"/>
+
+::: details
+
+- `n.` 剩余物；残羹剩饭
+- `v.` 剩下；遗留；留下
+
+:::
+
+
 ## legacy
 > 英 <Phonetic word="legacy" lang="en-GB" phonetic="/ˈleɡəsi/"/>
 > 美 <Phonetic word="legacy" lang="en-US" phonetic="/ˈleɡəsi/"/>

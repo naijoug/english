@@ -72,6 +72,18 @@ layout: doc
 
 :::
 
+## fuzz
+> 英 <Phonetic word="fuzz" lang="en-GB" phonetic="/fʌz/"/>
+> 美 <Phonetic word="fuzz" lang="en-US" phonetic="/fʌz/"/>
+
+::: details
+
+- `n.` 
+    * 模糊不清；混乱；杂乱无章
+    * 绒毛, 轻柔的物质
+
+:::
+
 ## fulfill
 > 英 <Phonetic word="fulfill" lang="en-GB" phonetic="/fʊlˈfɪl/"/>
 > 美 <Phonetic word="fulfill" lang="en-US" phonetic="/fʊlˈfɪl/"/>
