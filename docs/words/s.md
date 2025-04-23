@@ -86,6 +86,16 @@ layout: doc
 
 :::
 
+## snippet
+> 英 <Phonetic word="snippet" lang="en-GB" phonetic="/ˈsnɪpɪt/"/>
+> 美 <Phonetic word="snippet" lang="en-US" phonetic="/ˈsnɪpɪt/"/>
+
+::: details
+
+- `n` 片段；摘录；剪辑
+
+:::
+
 ## sphere
 > 英 <Phonetic word="sphere" lang="en-GB" phonetic="/sfɪə(r)/"/>
 > 美 <Phonetic word="sphere" lang="en-US" phonetic="/sfɪr/"/>

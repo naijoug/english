@@ -89,10 +89,6 @@ layout: doc
     * 建立；创办；设立
     * 使确定；使生效
     * 使成为；使生效
-- `vi.`
-    * 成立；建立；创办
-    * 确立；确立地位
-    * 使生效；使生效
 
 :::
 
@@ -107,6 +103,19 @@ layout: doc
     * 表现；表达；表现力
     * 评价；评估
     * 表现；表达；表现力
+
+:::
+
+## exclude
+> 英 <Phonetic word="exclude" lang="en-GB" phonetic="/ɪkˈskluːd/"/>
+> 美 <Phonetic word="exclude" lang="en-US" phonetic="/ɪkˈskluːd/"/>
+
+::: details
+
+- `vt.`
+    * 排除；不包括；拒绝
+    * 使...外出；使...离开
+    * 使...不参加；使...缺席
 
 :::
 

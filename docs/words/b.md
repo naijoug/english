@@ -57,6 +57,16 @@ layout: doc
 
 :::
 
+## breakthrough
+> 英 <Phonetic word="breakthrough" lang="en-GB" phonetic="/ˈbreɪkθruː/"/>
+> 美 <Phonetic word="breakthrough" lang="en-US" phonetic="/ˈbreɪkθruː/"/>
+
+::: details
+
+- `n.` 突破；突破性进展
+
+:::
+
 ## bring
 > 英 <Phonetic word="bring" lang="en-GB" phonetic="/briŋ/"/>
 > 美 <Phonetic word="bring" lang="en-US" phonetic="/briŋ/"/>

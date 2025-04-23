@@ -151,6 +151,19 @@ layout: doc
 
 :::
 
+## truncated
+> 英 <Phonetic word="truncated" lang="en-GB" phonetic="/ˈtrʌŋkjʊld/"/>
+> 美 <Phonetic word="truncated" lang="en-US" phonetic="/ˈtrʌŋkjʊld/"/>
+
+::: details
+
+- `adj.`
+    * 截短的；截去…末端的
+    * 粗略的；不精确的
+    * 有…性质的；符合…的
+
+:::
+
 ## typical
 > 英 <Phonetic word="typical" lang="en-GB" phonetic="/ˈtɪpɪkl/"/>
 > 美 <Phonetic word="typical" lang="en-US" phonetic="/ˈtɪpɪkl/"/>

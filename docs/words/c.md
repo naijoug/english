@@ -70,13 +70,13 @@ layout: doc
 
 :::
 
-## chore
-> 英 <Phonetic word="chore" lang="en-GB" phonetic="/tʃɔː(r)/"/>
-> 美 <Phonetic word="chore" lang="en-US" phonetic="/tʃɔːr/"/>
+## checkpoint
+> 英 <Phonetic word="checkpoint" lang="en-GB" phonetic="/ˈtʃeckpɔɪnt/"/>
+> 美 <Phonetic word="checkpoint" lang="en-US" phonetic="/ˈtʃeckpɔɪnt/"/>
 
 ::: details
 
-- `n.` 家庭杂务；日常的零星事务；讨厌的或累人的工作
+- `n.` 检查站；检疫站
 
 :::
 
@@ -87,6 +87,26 @@ layout: doc
 ::: details
 
 - `n.` 口香糖；橡皮糖
+
+:::
+
+## chore
+> 英 <Phonetic word="chore" lang="en-GB" phonetic="/tʃɔː(r)/"/>
+> 美 <Phonetic word="chore" lang="en-US" phonetic="/tʃɔːr/"/>
+
+::: details
+
+- `n.` 家庭杂务；日常的零星事务；讨厌的或累人的工作
+
+:::
+
+## citation
+> 英 <Phonetic word="citation" lang="en-GB" phonetic="/ˈkætɪʃn/"/>
+> 美 <Phonetic word="citation" lang="en-US" phonetic="/ˈkætɪʃn/"/>
+
+::: details
+
+- `n.` 引文；引证；引用；引文出处
 
 :::
 
@@ -213,7 +233,15 @@ layout: doc
 
 :::
 
+## conclusion
+> 英 <Phonetic word="conclusion" lang="en-GB" phonetic="/kənˈkluːʒn/"/>
+> 美 <Phonetic word="conclusion" lang="en-US" phonetic="/kənˈkluːʒn/"/>
 
+::: details
+
+- `n.` 结论；结局；推论；结束语
+
+:::
 
 ## contradict
 

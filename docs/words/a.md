@@ -61,6 +61,16 @@ layout: doc
 
 :::
 
+## agentic
+> 英 <Phonetic word="agentic" lang="en-GB" phonetic="/eɪˈdʒɛntɪk/"/>
+> 美 <Phonetic word="agentic" lang="en-US" phonetic="/eɪˈdʒɛntɪk/"/>
+
+::: details
+
+- `adj.` 代理的；行动的；有代理权的
+
+:::
+
 ## anticipation
 > 英 <Phonetic word="anticipation" lang="en-GB" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
 > 美 <Phonetic word="anticipation" lang="en-US" phonetic="/æn'tɪkɪˈpeɪʃn/"/>

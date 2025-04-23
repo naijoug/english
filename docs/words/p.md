@@ -111,24 +111,6 @@ layout: doc
 
 :::
 
-## proper
-> 英 <Phonetic word="proper" lang="en-GB" phonetic="/ˈprɒpə(r)/"/>
-> 美 <Phonetic word="proper" lang="en-US" phonetic="/ˈprɑːpə(r)/"/>
-
-::: details
-
-- `adj.` 
-    * 正确的；合适的；正当的
-    * 适当的；正当的
-    * 体面的；正派的
-    * 有礼貌的；有教养的
-    * 正式的；正统的
-    * 严格的；严厉的
-    * 有节制的；有节制的
-    * 有礼貌的；有教养的
-
-:::
-
 ## procrastinate
 > 英 <Phonetic word="procrastinate" lang="en-GB" phonetic="/prəˈkræstɪneɪt/"/>
 > 美 <Phonetic word="procrastinate" lang="en-US" phonetic="/prəˈkræstɪneɪt/"/>
@@ -155,6 +137,16 @@ layout: doc
 
 :::
 
+## proficient
+> 英 <Phonetic word="proficient" lang="en-GB" phonetic="/prəˈfɪʃ(ə)nt/"/>
+> 美 <Phonetic word="proficient" lang="en-US" phonetic="/prəˈfɪʃ(ə)nt/"/>
+
+::: details
+
+- `adj.` 熟练的；精通的；有能力的
+
+:::
+
 ## profile
 > 英 <Phonetic word="profile" lang="en-GB" phonetic="/'prəʊfɪl/"/>
 > 美 <Phonetic word="profile" lang="en-US" phonetic="/'prəʊfɪl/"/>
@@ -166,6 +158,16 @@ layout: doc
     * 侧面图；侧面像
     * 人物简介；传略
 - `v.` 使形成轮廓；描绘…的轮廓；描写…的轮廓
+
+:::
+
+## proper
+> 英 <Phonetic word="proper" lang="en-GB" phonetic="/ˈprɒpə(r)/"/>
+> 美 <Phonetic word="proper" lang="en-US" phonetic="/ˈprɑːpə(r)/"/>
+
+::: details
+
+- `adj.` 正确的；合适的；正当的
 
 :::
 
