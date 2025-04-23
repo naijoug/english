@@ -44,17 +44,6 @@ layout: doc
 
 :::
 
-## determine
-> 英 <Phonetic word="determine" lang="en-GB" phonetic="/dɪˈtɜːmɪn/"/>
-> 美 <Phonetic word="determine" lang="en-US" phonetic="/dɪˈtɜːmɪn/"/>
-
-::: details
-
-- `vt.` 决定；下决心；使下决心
-- `vi.` 决定；下决心；决心去做
-
-:::
-
 ## delight
 > 英 <Phonetic word="delight" lang="en-GB" phonetic="/dɪˈlaɪt/"/>
 > 美 <Phonetic word="delight" lang="en-US" phonetic="/dɪˈlaɪt/"/>
@@ -74,6 +63,17 @@ layout: doc
 
 - `adj.` 深思熟虑的；故意的；谨慎的
 - `v.` 考虑；沉思；仔细考虑
+
+:::
+
+## determine
+> 英 <Phonetic word="determine" lang="en-GB" phonetic="/dɪˈtɜːmɪn/"/>
+> 美 <Phonetic word="determine" lang="en-US" phonetic="/dɪˈtɜːmɪn/"/>
+
+::: details
+
+- `vt.` 决定；下决心；使下决心
+- `vi.` 决定；下决心；决心去做
 
 :::
 
