@@ -5,12 +5,23 @@ layout: doc
 # C
 
 ## calculus
-> 英 <Phonetic word="calculus" lang="en-GB" phonetic="/'kælkjʊləs/"/> 
+> 英 <Phonetic word="calculus" lang="en-GB" phonetic="/'kælkjʊləs/"/>
 > 美 <Phonetic word="calculus" lang="en-US" phonetic="/'kælkjələs/"/>
 
 ::: details
 
 - `n.` 微积分(学)；结石；积石
+
+:::
+
+## cascade
+> 英 <Phonetic word="cascade" lang="en-GB" phonetic="/kæˈskeɪd/"/>
+> 美 <Phonetic word="cascade" lang="en-US" phonetic="/kæˈskeɪd/"/>
+
+::: details
+
+- `n.` 瀑布；层叠而下
+- `vt.` 使…层叠而下
 
 :::
 
@@ -34,17 +45,6 @@ layout: doc
 - `n.`    谨慎；警告
 - `vt.`   警告；提醒
 - `adj.`  谨慎的
-
-:::
-
-## cascade
-> 英 <Phonetic word="cascade" lang="en-GB" phonetic="/kæˈskeɪd/"/>
-> 美 <Phonetic word="cascade" lang="en-US" phonetic="/kæˈskeɪd/"/>
-
-::: details
-
-- `n.` 瀑布；层叠而下
-- `vt.` 使…层叠而下
 
 :::
 
@@ -110,35 +110,13 @@ layout: doc
 
 :::
 
-## credential
-> 英 <Phonetic word="credential" lang="en-GB" phonetic="/krə'denʃl/"/>
-> 美 <Phonetic word="credential" lang="en-US" phonetic="/krə'dɛnʃl/"/>
+## codebase
+> 英 <Phonetic word="codebase" lang="en-GB" phonetic="/ˈkəudbɑːs/"/>
+> 美 <Phonetic word="codebase" lang="en-US" phonetic="/ˈkəudbɑːs/"/>
 
 ::: details
 
-- `n.` 证书；凭据；凭证
-- `v.` 证明…有…的资格
-
-:::
-
-## conduct
-> 英 <Phonetic word="conduct" lang="en-GB" phonetic="/kən'dʌkt/"/>
-> 美 <Phonetic word="conduct" lang="en-US" phonetic="/kən'dʌkt/"/>
-
-::: details
-
-- `n.` 行为；举止；管理；引导
-- `vt.` 管理；引导；指挥；传导
-
-:::
-
-## conflict
-> 英 <Phonetic word="conflict" lang="en-GB" phonetic="/'kɒnflɪkt/"/> 
-> 美 <Phonetic word="conflict" lang="en-US" phonetic="/'kɑːnflɪkt/"/>
-
-::: details
-
-- `n.` 冲突；争斗；战斗；战争
+- `n.` 代码库；源码
 
 :::
 
@@ -180,6 +158,8 @@ layout: doc
 
 - `n.` 商业；贸易
 
+e-commerce: 电子商务
+
 :::
 
 ## commercial
@@ -202,14 +182,13 @@ layout: doc
 
 :::
 
-## compound
-> 英 <Phonetic word="compound" lang="en-GB" phonetic="/ˈkɒmpaʊnd/"/>
-> 美 <Phonetic word="compound" lang="en-US" phonetic="/ˈkɒmpaʊnd/"/>
+## compliance
+> 英 <Phonetic word="compliance" lang="en-GB" phonetic="/kəm'plaɪəns/"/>
+> 美 <Phonetic word="compliance" lang="en-US" phonetic="/kəm'plaɪəns/"/>
 
 ::: details
 
-- `n.` 混合物；化合物
-- `v.` 使混合；使化合
+- `n.` 服从；遵守；顺从；听从
 
 :::
 
@@ -223,13 +202,14 @@ layout: doc
 
 :::
 
-## compliance
-> 英 <Phonetic word="compliance" lang="en-GB" phonetic="/kəm'plaɪəns/"/>
-> 美 <Phonetic word="compliance" lang="en-US" phonetic="/kəm'plaɪəns/"/>
+## compound
+> 英 <Phonetic word="compound" lang="en-GB" phonetic="/ˈkɒmpaʊnd/"/>
+> 美 <Phonetic word="compound" lang="en-US" phonetic="/ˈkɒmpaʊnd/"/>
 
 ::: details
 
-- `n.` 服从；遵守；顺从；听从
+- `n.` 混合物；化合物
+- `v.` 使混合；使化合
 
 :::
 
@@ -243,15 +223,24 @@ layout: doc
 
 :::
 
-## contradict
-
-> 英 <Phonetic word="contradict" lang="en-GB" phonetic="/kɒntrə'dɪkt/"/> 
-> 美 <Phonetic word="contradict" lang="en-US" phonetic="/kən'trædɪkt/"/>
+## conduct
+> 英 <Phonetic word="conduct" lang="en-GB" phonetic="/kən'dʌkt/"/>
+> 美 <Phonetic word="conduct" lang="en-US" phonetic="/kən'dʌkt/"/>
 
 ::: details
 
-- `vi.` 反驳；否认…的真实性
-- `vt.` 与…发生矛盾；与…抵触
+- `n.` 行为；举止；管理；引导
+- `vt.` 管理；引导；指挥；传导
+
+:::
+
+## conflict
+> 英 <Phonetic word="conflict" lang="en-GB" phonetic="/'kɒnflɪkt/"/>
+> 美 <Phonetic word="conflict" lang="en-US" phonetic="/'kɑːnflɪkt/"/>
+
+::: details
+
+- `n.` 冲突；争斗；战斗；战争
 
 :::
 
@@ -263,6 +252,17 @@ layout: doc
 
 - `n.` 同意；赞成；答应
 - `v.` 同意；赞成；答应
+
+:::
+
+## contradict
+> 英 <Phonetic word="contradict" lang="en-GB" phonetic="/kɒntrə'dɪkt/"/>
+> 美 <Phonetic word="contradict" lang="en-US" phonetic="/kən'trædɪkt/"/>
+
+::: details
+
+- `vi.` 反驳；否认…的真实性
+- `vt.` 与…发生矛盾；与…抵触
 
 :::
 
@@ -286,35 +286,14 @@ layout: doc
 
 :::
 
-## codebase
-> 英 <Phonetic word="codebase" lang="en-GB" phonetic="/ˈkəudbɑːs/"/>
-> 美 <Phonetic word="codebase" lang="en-US" phonetic="/ˈkəudbɑːs/"/>
+## credential
+> 英 <Phonetic word="credential" lang="en-GB" phonetic="/krə'denʃl/"/>
+> 美 <Phonetic word="credential" lang="en-US" phonetic="/krə'dɛnʃl/"/>
 
 ::: details
 
-- `n.` 代码库；源码
-
-:::
-
-## commerce
-> 英 <Phonetic word="commerce" lang="en-GB" phonetic="/kəmər'sɪs/"/>
-> 美 <Phonetic word="commerce" lang="en-US" phonetic="/kəmər'sɪs/"/>
-
-::: details
-
-- `n.` 商业；贸易
-
-e-commerce: 电子商务
-
-:::
-
-## comprehensive
-> 英 <Phonetic word="comprehensive" lang="en-GB" phonetic="/kəmˈprɛhensɪv/"/>
-> 美 <Phonetic word="comprehensive" lang="en-US" phonetic="/kəmˈprɛhensɪv/"/>
-
-::: details
-
-- `adj.` 综合的；广泛的；有理解力的
+- `n.` 证书；凭据；凭证
+- `v.` 证明…有…的资格
 
 :::
 
@@ -332,7 +311,7 @@ e-commerce: 电子商务
 > 英 <Phonetic word="curvy" lang="en-GB" phonetic="/'kɜːvɪ/"/>
 > 美 <Phonetic word="curvy" lang="en-US" phonetic="/'kɜːvɪ/"/>
 
-::: details 
+::: details
 
 - `adj.` 有曲线的；弯曲的；多曲线的
 
