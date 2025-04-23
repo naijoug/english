@@ -4,16 +4,6 @@ layout: doc
 
 # R
 
-## raster
-> 英 <Phonetic word="raster" lang="en-GB" phonetic="/ˈræstə/"/>
-> 美 <Phonetic word="raster" lang="en-US" phonetic="/ˈræstə/"/>
-
-::: details
-
-- `n.` 光栅；光栅图像
-
-:::
-
 ## radar
 > 英 <Phonetic word="radar" lang="en-GB" phonetic="/ˈreɪdɑː/"/>
 > 美 <Phonetic word="radar" lang="en-US" phonetic="/ˈreɪdɑː/"/>
@@ -21,6 +11,16 @@ layout: doc
 ::: details
 
 - `n.` 雷达；雷达图
+
+:::
+
+## raster
+> 英 <Phonetic word="raster" lang="en-GB" phonetic="/ˈræstə/"/>
+> 美 <Phonetic word="raster" lang="en-US" phonetic="/ˈræstə/"/>
+
+::: details
+
+- `n.` 光栅；光栅图像
 
 :::
 
@@ -34,48 +34,13 @@ layout: doc
 
 :::
 
-## regard
-> 英 <Phonetic word="regard" lang="en-GB" phonetic="/rɪˈgɑːd/"/>
-> 美 <Phonetic word="regard" lang="en-US" phonetic="/rɪˈgɑːd/"/>
-
-::: details
-
-- `n.`
-    * 关注；关心；关心的事
-    * 问候；致意
-    * 眼光；看法
-    * 问候；致意
-- `vt.`
-    * 看待；把…看作；认为
-    * 重视；尊敬；尊敬
-    * 介意；关心
-    * 问候；致意
-- `vi.`
-    * 看待；把…看作；认为
-    * 重视；尊敬；尊敬
-    * 介意；关心
-    * 问候；致意
-
-:::
-
-## relevant
-> 英 <Phonetic word="relevant" lang="en-GB" phonetic="/ˈreləvənt/"/>
-> 美 <Phonetic word="relevant" lang="en-US" phonetic="/ˈreləvənt/"/>
-
-::: details
-
-- `adj.` 相关的；有关的；切题的
-
-::: 
-
 ## reflection
-
 > 英 <Phonetic word="reflection" lang="en-GB" phonetic="/rɪˈflekʃən/"/>
 > 美 <Phonetic word="reflection" lang="en-US" phonetic="/rɪˈflekʃən/"/>
 
 ::: details
 
-- `n.` 
+- `n.`
     * 映像，倒影
     * 反射，反射能力
     * 深思；回忆；考虑；看法
@@ -89,6 +54,46 @@ layout: doc
 ::: details
 
 - `n.` 难民；逃亡者
+
+:::
+
+## regard
+> 英 <Phonetic word="regard" lang="en-GB" phonetic="/rɪˈgɑːd/"/>
+> 美 <Phonetic word="regard" lang="en-US" phonetic="/rɪˈgɑːd/"/>
+
+::: details
+
+- `n.`
+    * 注意；尊重；凝视；问候
+- `vt.`
+    * 把…看作；与…有关
+    * 注重，考虑；看待；尊敬
+- `vi.`
+    * 注意，注重；注视
+
+:::
+
+## region
+> 英 <Phonetic word="region" lang="en-GB" phonetic="/ˈriːdʒən/"/>
+> 美 <Phonetic word="region" lang="en-US" phonetic="/ˈriːdʒən/"/>
+
+::: details
+
+- `n.` 地区；区域；领域
+
+:::
+
+## regret
+> 英 <Phonetic word="regret" lang="en-GB" phonetic="/rɪˈgret/"/>
+> 美 <Phonetic word="regret" lang="en-US" phonetic="/rɪˈgret/"/>
+
+::: details
+
+- `v.`
+    * 后悔；懊悔；遗憾
+    * 抱怨；埋怨；诉苦
+    * 感到遗憾；感到懊悔
+- `n.` 后悔；懊悔；遗憾
 
 :::
 
@@ -118,40 +123,6 @@ layout: doc
 
 :::
 
-## region
-> 英 <Phonetic word="region" lang="en-GB" phonetic="/ˈriːdʒən/"/>
-> 美 <Phonetic word="region" lang="en-US" phonetic="/ˈriːdʒən/"/>
-
-::: details
-
-- `n.` 地区；区域；领域
-
-:::
-
-## regret
-> 英 <Phonetic word="regret" lang="en-GB" phonetic="/rɪˈgret/"/>
-> 美 <Phonetic word="regret" lang="en-US" phonetic="/rɪˈgret/"/>
-
-::: details
-
-- `v.`
-    * 后悔；懊悔；遗憾
-    * 抱怨；埋怨；诉苦
-    * 感到遗憾；感到懊悔
-- `n.` 后悔；懊悔；遗憾
-
-:::
-
-## rephrase
-> 英 <Phonetic word="rephrase" lang="en-GB" phonetic="/rɪˈfreɪz/"/>
-> 美 <Phonetic word="rephrase" lang="en-US" phonetic="/rɪˈfreɪz/"/>
-
-::: details
-
-- `v.` 重写；改写；改述；改撰
-
-:::
-
 ## relevant
 > 英 <Phonetic word="relevant" lang="en-GB" phonetic="/ˈreləvənt/"/>
 > 美 <Phonetic word="relevant" lang="en-US" phonetic="/ˈreləvənt/"/>
@@ -172,6 +143,16 @@ layout: doc
 
 :::
 
+## rephrase
+> 英 <Phonetic word="rephrase" lang="en-GB" phonetic="/rɪˈfreɪz/"/>
+> 美 <Phonetic word="rephrase" lang="en-US" phonetic="/rɪˈfreɪz/"/>
+
+::: details
+
+- `v.` 重写；改写；改述；改撰
+
+:::
+
 ## represent
 > 英 <Phonetic word="represent" lang="en-GB" phonetic="/ˌriːprɪˈzent/"/>
 > 美 <Phonetic word="represent" lang="en-US" phonetic="/ˌriːprɪˈzent/"/>
@@ -188,7 +169,7 @@ layout: doc
 
 ::: details
 
-- `n.` 
+- `n.`
     * 复制；复制品
     * 再生；繁殖
     * 复现
