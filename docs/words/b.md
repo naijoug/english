@@ -4,6 +4,16 @@ layout: doc
 
 # B
 
+## badcase
+> 英 <Phonetic word="badcase" lang="en-GB" phonetic="/bædˈkeɪs/"/>
+> 美 <Phonetic word="badcase" lang="en-US" phonetic="/bædˈkeɪs/"/>
+
+::: details
+
+- `n.` 坏的案例；坏的例子
+
+:::
+
 ## ban
 > 英 <Phonetic word="ban" lang="en-GB" phonetic="/bæn/"/>
 > 美 <Phonetic word="ban" lang="en-US" phonetic="/bæn/"/>
@@ -12,16 +22,6 @@ layout: doc
 
 - `vt.` 禁止；取缔；阻止
 - `n.` 禁令；禁止令；禁令
-
-:::
-
-## badcase
-> 英 <Phonetic word="badcase" lang="en-GB" phonetic="/bædˈkeɪs/"/>
-> 美 <Phonetic word="badcase" lang="en-US" phonetic="/bædˈkeɪs/"/>
-
-::: details
-
-- `n.` 坏的案例；坏的例子
 
 :::
 
