@@ -34,6 +34,17 @@ layout: doc
 
 :::
 
+## first off
+> 英 <Phonetic word="first off" lang="en-GB" phonetic="/ˈfɜːst ɔf/"/>
+> 美 <Phonetic word="first off" lang="en-US" phonetic="/ˈfɜːst ɔf/"/>
+
+::: details
+
+- 首先；最初；开始；
+- 首先做；首先考虑；首先提出
+
+:::
+
 ## from scratch
 > 英 <Phonetic word="from scratch" lang="en-GB" phonetic="/frɒm skrætʃ/"/>
 > 美 <Phonetic word="from scratch" lang="en-US" phonetic="/frɒm skrætʃ/"/>
@@ -101,6 +112,16 @@ layout: doc
 ::: details
 
 快速迭代
+
+:::
+
+## learn about
+> 英 <Phonetic word="learn about" lang="en-GB" phonetic="/lɜːn əˈbaʊt/"/>
+> 美 <Phonetic word="learn about" lang="en-US" phonetic="/lɜːn əˈbaʊt/"/>
+
+::: details
+
+学习；了解；熟悉
 
 :::
 
