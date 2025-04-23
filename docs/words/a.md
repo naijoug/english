@@ -5,7 +5,7 @@ layout: doc
 # A
 
 ## abbreviate
-> 英 <Phonetic word="abbreviate" lang="en-GB" phonetic="/ə'briːvɪeɪt/"/> 
+> 英 <Phonetic word="abbreviate" lang="en-GB" phonetic="/ə'briːvɪeɪt/"/>
 > 美 <Phonetic word="abbreviate" lang="en-US" phonetic="/ə'briːvɪeɪt/"/>
 
 ::: details
@@ -40,6 +40,16 @@ layout: doc
 
 :::
 
+## agentic
+> 英 <Phonetic word="agentic" lang="en-GB" phonetic="/eɪˈdʒɛntɪk/"/>
+> 美 <Phonetic word="agentic" lang="en-US" phonetic="/eɪˈdʒɛntɪk/"/>
+
+::: details
+
+- `adj.` 代理的；行动的；有代理权的
+
+:::
+
 ## affirm
 > 英 <Phonetic word="affirm" lang="en-GB" phonetic="/ə'fɜːm/"/>
 > 美 <Phonetic word="affirm" lang="en-US" phonetic="/ə'fɜːrm/"/>
@@ -61,16 +71,6 @@ layout: doc
 
 :::
 
-## agentic
-> 英 <Phonetic word="agentic" lang="en-GB" phonetic="/eɪˈdʒɛntɪk/"/>
-> 美 <Phonetic word="agentic" lang="en-US" phonetic="/eɪˈdʒɛntɪk/"/>
-
-::: details
-
-- `adj.` 代理的；行动的；有代理权的
-
-:::
-
 ## anticipation
 > 英 <Phonetic word="anticipation" lang="en-GB" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
 > 美 <Phonetic word="anticipation" lang="en-US" phonetic="/æn'tɪkɪˈpeɪʃn/"/>
@@ -80,6 +80,43 @@ layout: doc
 - `n.`
     * 预期；期待；预感
     * 先发制人
+
+:::
+
+## apparently
+> 英 <Phonetic word="apparently" lang="en-GB" phonetic="/əˈpærəntli/"/>
+> 美 <Phonetic word="apparently" lang="en-US" phonetic="/əˈpærəntli/"/>
+
+::: details
+
+- `adv.`
+    * 显然；似乎；似乎是；表明上
+    * 显然地；似乎地；明显地
+
+:::
+
+## appreciate
+> 英 <Phonetic word="appreciate" lang="en-GB" phonetic="/əˈpriːʃieɪt/"/>
+> 美 <Phonetic word="appreciate" lang="en-US" phonetic="/əˈpriːʃieɪt/"/>
+
+::: details
+
+- `v.`
+    * 欣赏；感激；领会
+    * 评价；估价；鉴定
+    * 体会；理解
+
+:::
+
+## approve
+> 英 <Phonetic word="approve" lang="en-GB" phonetic="/əˈpruːv/"/>
+> 美 <Phonetic word="approve" lang="en-US" phonetic="/əˈpruːv/"/>
+
+::: details
+
+- `v.`
+    * 批准；赞成；同意
+    * 估价；评价；鉴赏
 
 :::
 
@@ -141,43 +178,6 @@ layout: doc
     * 试图；企图；尝试
     * 尝试；试图；企图
 - `n.` 尝试；企图；努力
-
-:::
-
-## approve
-> 英 <Phonetic word="approve" lang="en-GB" phonetic="/əˈpruːv/"/>
-> 美 <Phonetic word="approve" lang="en-US" phonetic="/əˈpruːv/"/>
-
-::: details
-
-- `v.`
-    * 批准；赞成；同意
-    * 估价；评价；鉴赏
-
-:::
-
-## appreciate
-> 英 <Phonetic word="appreciate" lang="en-GB" phonetic="/əˈpriːʃieɪt/"/>
-> 美 <Phonetic word="appreciate" lang="en-US" phonetic="/əˈpriːʃieɪt/"/>
-
-::: details
-
-- `v.`
-    * 欣赏；感激；领会
-    * 评价；估价；鉴定
-    * 体会；理解
-
-:::
-
-## apparently
-> 英 <Phonetic word="apparently" lang="en-GB" phonetic="/əˈpærəntli/"/>
-> 美 <Phonetic word="apparently" lang="en-US" phonetic="/əˈpærəntli/"/>
-
-::: details
-
-- `adv.`
-    * 显然；似乎；似乎是；表明上
-    * 显然地；似乎地；明显地
 
 :::
 
