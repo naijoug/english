@@ -24,6 +24,17 @@ layout: doc
 
 :::
 
+## encounter
+> 英 <Phonetic word="encounter" lang="en-GB" phonetic="/ɪnˈkaʊntə/"/>
+> 美 <Phonetic word="encounter" lang="en-US" phonetic="/ɪnˈkaʊntə/"/>
+
+::: details
+
+- `vt.` 遭遇；遇到；遇到问题；遇到麻烦
+- `n.` 遭遇；遇到；遇到问题；遇到麻烦
+
+:::
+
 ## enact
 > 英 <Phonetic word="enact" lang="en-GB" phonetic="/ɪnˈkɑːt/"/>
 > 美 <Phonetic word="enact" lang="en-US" phonetic="/ɪnˈkɑːt/"/>
@@ -55,14 +66,16 @@ layout: doc
 
 :::
 
-## encounter
-> 英 <Phonetic word="encounter" lang="en-GB" phonetic="/ɪnˈkaʊntə/"/>
-> 美 <Phonetic word="encounter" lang="en-US" phonetic="/ɪnˈkaʊntə/"/>
+## establish
+> 英 <Phonetic word="establish" lang="en-GB" phonetic="/ɪˈsteɪblɪʃ/"/>
+> 美 <Phonetic word="establish" lang="en-US" phonetic="/ɪˈsteɪblɪʃ/"/>
 
 ::: details
 
-- `vt.` 遭遇；遇到；遇到问题；遇到麻烦
-- `n.` 遭遇；遇到；遇到问题；遇到麻烦
+- `vt.`
+    * 建立；创办；设立
+    * 使确定；使生效
+    * 使成为；使生效
 
 :::
 
@@ -79,17 +92,17 @@ layout: doc
     
 :::
 
-## establish
-> 英 <Phonetic word="establish" lang="en-GB" phonetic="/ɪˈsteɪblɪʃ/"/>
-> 美 <Phonetic word="establish" lang="en-US" phonetic="/ɪˈsteɪblɪʃ/"/>
+## ethnicity
+> 英 <Phonetic word="ethnicity" lang="en-GB" phonetic="/ˌeθnəˈtɪti/"/>
+> 美 <Phonetic word="ethnicity" lang="en-US" phonetic="/ˌeθnəˈtɪti/"/>
 
 ::: details
 
-- `vt.`
-    * 建立；创办；设立
-    * 使确定；使生效
-    * 使成为；使生效
-
+- `n.`
+    * 人种；种族；民族
+    * 民族性；种族性
+    * 民族特征；人种特征；种族特征
+    
 :::
 
 ## evaluation
@@ -103,6 +116,17 @@ layout: doc
     * 表现；表达；表现力
     * 评价；评估
     * 表现；表达；表现力
+
+:::
+
+## exceed
+> 英 <Phonetic word="exceed" lang="en-GB" phonetic="/ɪk'siːd/"/>
+> 美 <Phonetic word="exceed" lang="en-US" phonetic="/ɪk'siːd/"/>
+
+::: details
+
+- `vi.`  (在数量、质量上)突出，领先
+- `vt.` 超过；胜过；优于
 
 :::
 
@@ -130,20 +154,6 @@ layout: doc
 
 :::
 
-## expression
-> 英 <Phonetic word="expression" lang="en-GB" phonetic="/ɪkˈspreʃn/"/>
-> 美 <Phonetic word="expression" lang="en-US" phonetic="/ɪkˈspreʃn/"/>
-
-::: details
-
-- `n.` 
-    * 表达；说明；表露
-    * 表情；神情
-    * 词语；措词；表达方法
-    * 【数】式；表达式
-
-:::
-
 ## experience
 > 英 <Phonetic word="experience" lang="en-GB" phonetic="/ɪkˈspɪəriəns/"/>
 > 美 <Phonetic word="experience" lang="en-US" phonetic="/ɪkˈspɪəriəns/"/>
@@ -160,13 +170,16 @@ layout: doc
 
 :::
 
-## exceed
-> 英 <Phonetic word="exceed" lang="en-GB" phonetic="/ɪk'siːd/"/>
-> 美 <Phonetic word="exceed" lang="en-US" phonetic="/ɪk'siːd/"/>
+## expression
+> 英 <Phonetic word="expression" lang="en-GB" phonetic="/ɪkˈspreʃn/"/>
+> 美 <Phonetic word="expression" lang="en-US" phonetic="/ɪkˈspreʃn/"/>
 
 ::: details
 
-- `vi.`  (在数量、质量上)突出，领先
-- `vt.` 超过；胜过；优于
+- `n.` 
+    * 表达；说明；表露
+    * 表情；神情
+    * 词语；措词；表达方法
+    * 【数】式；表达式
 
 :::
