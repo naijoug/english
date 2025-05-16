@@ -37,6 +37,16 @@ layout: doc
 
 :::
 
+## forefront
+> 英 <Phonetic word="forefront" lang="en-GB" phonetic="/'fɔːfrʌnt/"/>
+> 美 <Phonetic word="forefront" lang="en-US" phonetic="/'fɔːrfrʌnt/"/>
+
+::: details
+
+- `n.` 前沿；最前面
+
+:::
+
 ## fortune
 > 英 <Phonetic word="fortune" lang="en-GB" phonetic="/'fɔːtnjuː/"/>
 > 美 <Phonetic word="fortune" lang="en-US" phonetic="/'fɔːrtnjuː/"/>
@@ -48,13 +58,13 @@ layout: doc
 
 :::
 
-## forefront
-> 英 <Phonetic word="forefront" lang="en-GB" phonetic="/'fɔːfrʌnt/"/>
-> 美 <Phonetic word="forefront" lang="en-US" phonetic="/'fɔːrfrʌnt/"/>
+## fulfill
+> 英 <Phonetic word="fulfill" lang="en-GB" phonetic="/fʊlˈfɪl/"/>
+> 美 <Phonetic word="fulfill" lang="en-US" phonetic="/fʊlˈfɪl/"/>
 
 ::: details
 
-- `n.` 前沿；最前面
+- `v.` 履行；实现；满足
 
 :::
 
@@ -81,15 +91,5 @@ layout: doc
 - `n.` 
     * 模糊不清；混乱；杂乱无章
     * 绒毛, 轻柔的物质
-
-:::
-
-## fulfill
-> 英 <Phonetic word="fulfill" lang="en-GB" phonetic="/fʊlˈfɪl/"/>
-> 美 <Phonetic word="fulfill" lang="en-US" phonetic="/fʊlˈfɪl/"/>
-
-::: details
-
-- `v.` 履行；实现；满足
 
 :::
