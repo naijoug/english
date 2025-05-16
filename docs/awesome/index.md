@@ -17,11 +17,13 @@ layout: doc
 - [Chinese programmer wrong pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
     > 中国程序员容易发音错误的单词
 - [english-note](https://github.com/hzpt-inet-club/english-note)
-    > 从0开始学习英语语法
+    > 从 0 开始学习英语语法
 - [Phraseum](https://www.phraseum.com/)
     > Memorize real English phrases and chunks of language, make your way to becoming fluent
 - [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
     > 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+- [字幕翻译工具](https://tools.newzone.top/zh/subtitle-translator) 👉🏻 [🐙](https://github.com/rockbenben/subtitle-translator)
+    > Fast, accurate, and batch subtitle translation for 35+ languages. 批量字幕翻译
     
 ------
 
