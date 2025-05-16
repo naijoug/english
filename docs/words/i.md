@@ -67,6 +67,16 @@ layout: doc
 
 :::
 
+## innovation
+> 英 <Phonetic word="innovation" lang="en-GB" phonetic="/ˌɪnəˈveɪʃ(ə)n/"/>
+> 美 <Phonetic word="innovation" lang="en-US" phonetic="/ˌɪnəˈveʃən/"/>
+
+::: details
+
+- `n.` 创新；革新；新方法
+
+:::
+
 ## inspirational
 > 英 <Phonetic word="inspirational" lang="en-GB" phonetic="/ɪnspɪ'reɪʃ(ə)n(ə)l/"/>
 > 美 <Phonetic word="inspirational" lang="en-US" phonetic="/ˌɪnspə'reʃənl/"/>
@@ -74,28 +84,6 @@ layout: doc
 ::: details
 
 - `adj.` 灵感的；有灵感的；给予灵感的
-
-:::
-
-## instant
-> 英 <Phonetic word="instant" lang="en-GB" phonetic="/ˈɪnstənt/"/>
-> 美 <Phonetic word="instant" lang="en-US" phonetic="/ˈɪnstənt/"/>
-
-::: details
-
-- `n.` 即刻；速食
-- `adj.` 立即的；速成的；速溶的
-- `adv.` 立即；立刻
-
-:::
-
-## institution
-> 英 <Phonetic word="institution" lang="en-GB" phonetic="/ˌɪnstɪˈtjuːʃ(ə)n/"/>
-> 美 <Phonetic word="institution" lang="en-US" phonetic="/ˌɪnstɪˈtjuːʃən/"/>
-
-::: details
-
-- `n.` 机构；制度；惯例
 
 :::
 
@@ -119,6 +107,28 @@ layout: doc
 - `v.` 
     * 检查；视察；细看
     * 仔细检查；详细审查
+
+:::
+
+## instant
+> 英 <Phonetic word="instant" lang="en-GB" phonetic="/ˈɪnstənt/"/>
+> 美 <Phonetic word="instant" lang="en-US" phonetic="/ˈɪnstənt/"/>
+
+::: details
+
+- `n.` 即刻；速食
+- `adj.` 立即的；速成的；速溶的
+- `adv.` 立即；立刻
+
+:::
+
+## institution
+> 英 <Phonetic word="institution" lang="en-GB" phonetic="/ˌɪnstɪˈtjuːʃ(ə)n/"/>
+> 美 <Phonetic word="institution" lang="en-US" phonetic="/ˌɪnstɪˈtjuːʃən/"/>
+
+::: details
+
+- `n.` 机构；制度；惯例
 
 :::
 
@@ -174,16 +184,6 @@ layout: doc
 
 - `adj.` 互操作的；可共用的
 - `n.` 互操作性；可操作性
-
-:::
-
-## innovation
-> 英 <Phonetic word="innovation" lang="en-GB" phonetic="/ˌɪnəˈveɪʃ(ə)n/"/>
-> 美 <Phonetic word="innovation" lang="en-US" phonetic="/ˌɪnəˈveʃən/"/>
-
-::: details
-
-- `n.` 创新；革新；新方法
 
 :::
 
