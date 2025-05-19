@@ -14,6 +14,16 @@ layout: doc
 
 :::
 
+## malicious
+> 英 <Phonetic word="malicious" lang="en-GB" phonetic="/'mælɪs(ə)s/"/>
+> 美 <Phonetic word="malicious" lang="en-US" phonetic="/'mælɪs(ə)s/"/>
+
+::: details
+
+- `adj.` 恶意的, 恶毒的
+
+:::
+
 ## malware
 > 英 <Phonetic word="malware" lang="en-GB" phonetic="/'mælˌwɜː(r)/"/>
 > 美 <Phonetic word="malware" lang="en-US" phonetic="/'mælˌwɜː(r)/"/>
@@ -38,16 +48,6 @@ layout: doc
 
 :::
 
-## malicious
-> 英 <Phonetic word="malicious" lang="en-GB" phonetic="/'mælɪs(ə)s/"/>
-> 美 <Phonetic word="malicious" lang="en-US" phonetic="/'mælɪs(ə)s/"/>
-
-::: details
-
-- `adj.` 恶意的, 恶毒的
-
-:::
-
 ## mature
 > 英 <Phonetic word="mature" lang="en-GB" phonetic="/məˈtʃʊə(r)/"/>
 > 美 <Phonetic word="mature" lang="en-US" phonetic="/məˈtʃʊə(r)/"/>
@@ -56,18 +56,6 @@ layout: doc
 
 - `adj.` 成熟的；完全的；完全成熟的
 - `n.` 成熟的人；成年人
-
-:::
-
-## memorable
-> 英 <Phonetic word="memorable" lang="en-GB" phonetic="/'mem(ə)rəb(ə)l/"/> 
-> 美 <Phonetic word="memorable" lang="en-US" phonetic="/'mɛmərəbl/"/>
-
-::: details 
-
-- `n.` 可记忆的东西；有意义的东西
-- `adj.` 可记忆的；值得铭记的
-- `adv.` 有意义地
 
 :::
 
@@ -84,6 +72,50 @@ layout: doc
 
 :::
 
+## meanwhile
+> 英 <Phonetic word="meanwhile" lang="en-GB" phonetic="/'miːnwaɪl/"/>
+> 美 <Phonetic word="meanwhile" lang="en-US" phonetic="/ˈmiːnwaɪl/"/>
+
+::: details
+
+- `adv.` 同时；其间；在此期间
+- `n.` 期间；其间
+
+:::
+
+## memorable
+> 英 <Phonetic word="memorable" lang="en-GB" phonetic="/'mem(ə)rəb(ə)l/"/> 
+> 美 <Phonetic word="memorable" lang="en-US" phonetic="/'mɛmərəbl/"/>
+
+::: details 
+
+- `n.` 可记忆的东西；有意义的东西
+- `adj.` 可记忆的；值得铭记的
+- `adv.` 有意义地
+
+:::
+
+## merchant
+> 英 <Phonetic word="merchant" lang="en-GB" phonetic="/ˈmɜːtʃənt/"/>
+> 美 <Phonetic word="merchant" lang="en-US" phonetic=" /ˈmɜːrtʃənt/"/>
+
+::: details
+
+- `n.` 商人
+
+:::
+
+## metric
+> 英 <Phonetic word="metric" lang="en-GB" phonetic="/ˈmetrɪk/"/>
+> 美 <Phonetic word="metric" lang="en-US" phonetic="/ˈmetrɪk/"/>
+
+::: details
+
+- `adj.` 公制的；米制的；公尺的
+- `n.` 度量标准
+
+:::
+
 ## migrate
 > 英 <Phonetic word="migrate" lang="en-GB" phonetic="/ˈmaɪdʒreɪt/"/>
 > 美 <Phonetic word="migrate" lang="en-US" phonetic="/ˈmaɪdʒreɪt/"/>
@@ -92,16 +124,6 @@ layout: doc
 
 - `vi.` 迁移；移居
 - `vt.` 使移居；使移植
-
-:::
-
-## minimal
-> 英 <Phonetic word="minimal" lang="en-GB" phonetic="/'mɪnɪməl/"/>
-> 美 <Phonetic word="minimal" lang="en-US" phonetic="/'mɪnɪməl/"/>
-
-::: details
-
-- `adj.` 最小的；最低限度的；最低限度的
 
 :::
 
@@ -117,6 +139,16 @@ layout: doc
 
 :::
 
+## minimal
+> 英 <Phonetic word="minimal" lang="en-GB" phonetic="/'mɪnɪməl/"/>
+> 美 <Phonetic word="minimal" lang="en-US" phonetic="/'mɪnɪməl/"/>
+
+::: details
+
+- `adj.` 最小的；最低限度的；最低限度的
+
+:::
+
 ## mint
 > 英 <Phonetic word="mint" lang="en-GB" phonetic="/mɪnt/"/>
 > 美 <Phonetic word="mint" lang="en-US" phonetic="/mɪnt/"/>
@@ -129,37 +161,5 @@ layout: doc
 - `v.` 
     * 制造；生产；
     * 铸造；铸币
-
-:::
-
-## merchant
-> 英 <Phonetic word="merchant" lang="en-GB" phonetic="/ˈmɜːtʃənt/"/>
-> 美 <Phonetic word="merchant" lang="en-US" phonetic=" /ˈmɜːrtʃənt/"/>
-
-::: details
-
-- `n.` 商人
-
-:::
-
-## meanwhile
-> 英 <Phonetic word="meanwhile" lang="en-GB" phonetic="/'miːnwaɪl/"/>
-> 美 <Phonetic word="meanwhile" lang="en-US" phonetic="/ˈmiːnwaɪl/"/>
-
-::: details
-
-- `adv.` 同时；其间；在此期间
-- `n.` 期间；其间
-
-:::
-
-## metric
-> 英 <Phonetic word="metric" lang="en-GB" phonetic="/ˈmetrɪk/"/>
-> 美 <Phonetic word="metric" lang="en-US" phonetic="/ˈmetrɪk/"/>
-
-::: details
-
-- `adj.` 公制的；米制的；公尺的
-- `n.` 度量标准
 
 :::
