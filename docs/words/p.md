@@ -14,6 +14,27 @@ layout: doc
 
 :::
 
+## persist
+> 英 <Phonetic word="persist" lang="en-GB" phonetic="/pə'sɪst/"/>
+> 美 <Phonetic word="persist" lang="en-US" phonetic="/pə'sɪst/"/>
+
+::: details
+
+- `vi.` 持续；固执；存留；坚持；持续下去
+- `vt.` 坚持说；反复说
+
+:::
+
+## persistent
+> 英 <Phonetic word="persistent" lang="en-GB" phonetic="/pəˈsɪstənt/"/>
+> 美 <Phonetic word="persistent" lang="en-US" phonetic="/pəˈsɪstənt/"/>
+
+::: details
+
+- `adj.` 坚持的；固执的；顽强的；持续不断的
+
+:::
+
 ## phase
 > 英 <Phonetic word="phase" lang="en-GB" phonetic="/feɪz/"/>
 > 美 <Phonetic word="phase" lang="en-US" phonetic="/feɪz/"/>
@@ -35,27 +56,6 @@ layout: doc
 
 - `n.` 短语；句子；话
 - `v.` （使）形成短语；（使）说出；（使）表达
-
-:::
-
-## persist
-> 英 <Phonetic word="persist" lang="en-GB" phonetic="/pə'sɪst/"/>
-> 美 <Phonetic word="persist" lang="en-US" phonetic="/pə'sɪst/"/>
-
-::: details
-
-- `vi.` 持续；固执；存留；坚持；持续下去
-- `vt.` 坚持说；反复说
-
-:::
-
-## persistent
-> 英 <Phonetic word="persistent" lang="en-GB" phonetic="/pəˈsɪstənt/"/>
-> 美 <Phonetic word="persistent" lang="en-US" phonetic="/pəˈsɪstənt/"/>
-
-::: details
-
-- `adj.` 坚持的；固执的；顽强的；持续不断的
 
 :::
 
@@ -101,6 +101,16 @@ layout: doc
 
 :::
 
+## premature
+> 英 <Phonetic word="premature" lang="en-GB" phonetic="/ˈpremətʃə(r)/"/>
+> 美 <Phonetic word="premature" lang="en-US" phonetic="/ˌpriːməˈtʃʊr/"/>
+
+::: details
+
+- `adj.` 过早的；未到期的；早产的
+
+:::
+
 ## president
 > 英 <Phonetic word="president" lang="en-GB" phonetic="/ˈprezɪdənt/"/>
 > 美 <Phonetic word="president" lang="en-US" phonetic="/ˈprezɪdənt/"/>
@@ -108,6 +118,39 @@ layout: doc
 ::: details
 
 - `n.` 总统；校长；校长职务；总裁
+
+:::
+
+## prevention
+> 英 <Phonetic word="prevention" lang="en-GB" phonetic="/prɪ'venʃn/"/>
+> 美 <Phonetic word="prevention" lang="en-US" phonetic="/prɪ'venʃn/"/>
+
+::: details
+
+- `n.` 预防；防止；阻止
+
+:::
+
+## prioritize
+> 英 <Phonetic word="prioritize" lang="en-GB" phonetic="/prai'ɔritaiz/"/>
+> 美 <Phonetic word="prioritize" lang="en-US" phonetic="/praɪ'ɔrətaɪz/"/>
+
+::: details
+
+- `v.` 优先考虑；优先处理；把…区分优先次序
+
+:::
+
+## prism
+> 英 <Phonetic word="prism" lang="en-GB" phonetic="/'prɪz(ə)m/"/>
+> 美 <Phonetic word="prism" lang="en-US" phonetic="/'prɪzəm/"/>
+
+::: details
+
+- `n.` 
+    * 棱镜；棱柱
+    * [数] 棱柱体
+    * [天] 棱镜星云
 
 :::
 
@@ -178,48 +221,5 @@ layout: doc
 ::: details
 
 - `n.` 提议；建议；计划；求婚
-
-:::
-
-## prioritize
-> 英 <Phonetic word="prioritize" lang="en-GB" phonetic="/prai'ɔritaiz/"/>
-> 美 <Phonetic word="prioritize" lang="en-US" phonetic="/praɪ'ɔrətaɪz/"/>
-
-::: details
-
-- `v.` 优先考虑；优先处理；把…区分优先次序
-
-:::
-
-## prism
-> 英 <Phonetic word="prism" lang="en-GB" phonetic="/'prɪz(ə)m/"/>
-> 美 <Phonetic word="prism" lang="en-US" phonetic="/'prɪzəm/"/>
-
-::: details
-
-- `n.` 
-    * 棱镜；棱柱
-    * [数] 棱柱体
-    * [天] 棱镜星云
-
-:::
-
-## premature
-> 英 <Phonetic word="premature" lang="en-GB" phonetic="/ˈpremətʃə(r)/"/>
-> 美 <Phonetic word="premature" lang="en-US" phonetic="/ˌpriːməˈtʃʊr/"/>
-
-::: details
-
-- `adj.` 过早的；未到期的；早产的
-
-:::
-
-## prevention
-> 英 <Phonetic word="prevention" lang="en-GB" phonetic="/prɪ'venʃn/"/>
-> 美 <Phonetic word="prevention" lang="en-US" phonetic="/prɪ'venʃn/"/>
-
-::: details
-
-- `n.` 预防；防止；阻止
 
 :::
