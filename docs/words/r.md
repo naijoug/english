@@ -221,3 +221,16 @@ layout: doc
 - `n.` 发布；推出；首次展示
 
 :::
+
+## roo
+> 英 <Phonetic word="roo" lang="en-GB" phonetic="/ru/"/>
+> 美 <Phonetic word="roo" lang="en-US" phonetic="/ru/"/>
+
+::: details
+
+- `n.`
+    * 袋鼠
+- `v.`
+    * 用手拔
+
+:::
