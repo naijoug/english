@@ -18,14 +18,15 @@ layout: doc
 
 :::
 
-## thought
-> 英 <Phonetic word="thought" lang="en-GB" phonetic="/θɔːt/"/>
-> 美 <Phonetic word="thought" lang="en-US" phonetic="/θɔt/"/>
+## therefore
+> 英 <Phonetic word="therefore" lang="en-GB" phonetic="/ˈðeəfɔː(r)/"/>
+> 美 <Phonetic word="therefore" lang="en-US" phonetic="/ˈðerfɔːr/"/>
 
 ::: details
 
-- `n.` 思想；思考；思维；思考力；思维能力
-- `v.` 思考；考虑；想到；认为
+- `adv.` 
+    * 因此；为此；所以
+    * 故…；由此得出
 
 :::
 
@@ -62,15 +63,14 @@ layout: doc
 
 :::
 
-## therefore
-> 英 <Phonetic word="therefore" lang="en-GB" phonetic="/ˈðeəfɔː(r)/"/>
-> 美 <Phonetic word="therefore" lang="en-US" phonetic="/ˈðerfɔːr/"/>
+## thought
+> 英 <Phonetic word="thought" lang="en-GB" phonetic="/θɔːt/"/>
+> 美 <Phonetic word="thought" lang="en-US" phonetic="/θɔt/"/>
 
 ::: details
 
-- `adv.` 
-    * 因此；为此；所以
-    * 故…；由此得出
+- `n.` 思想；思考；思维；思考力；思维能力
+- `v.` 思考；考虑；想到；认为
 
 :::
 
@@ -100,6 +100,18 @@ layout: doc
 
 :::
 
+## ton
+> 英 <Phonetic word="ton" lang="en-GB" phonetic="/tʌn/"/>
+> 美 <Phonetic word="ton" lang="en-US" phonetic="/tɑn/"/>
+
+::: details
+
+- `n.`
+    * 吨；公吨；吨位
+    * 很多；大量
+
+:::
+
 ## tremulous
 > 英 <Phonetic word="tremulous" lang="en-GB" phonetic="/'trɛmjʊləs/"/>
 > 美 <Phonetic word="tremulous" lang="en-US" phonetic="/'trɛmjələs/"/>
@@ -126,6 +138,19 @@ layout: doc
 
 :::
 
+## truncated
+> 英 <Phonetic word="truncated" lang="en-GB" phonetic="/ˈtrʌŋkjʊld/"/>
+> 美 <Phonetic word="truncated" lang="en-US" phonetic="/ˈtrʌŋkjʊld/"/>
+
+::: details
+
+- `adj.`
+    * 截短的；截去…末端的
+    * 粗略的；不精确的
+    * 有…性质的；符合…的
+
+:::
+
 ## trust
 > 英 <Phonetic word="trust" lang="en-GB" phonetic="/trʌst/"/>
 > 美 <Phonetic word="trust" lang="en-US" phonetic="/trʌst/"/>
@@ -148,19 +173,6 @@ layout: doc
     * 调音；调准…的音调；调整…的音调
     * 调整；使…协调；使…和谐
     * 使…和谐；使…协调
-
-:::
-
-## truncated
-> 英 <Phonetic word="truncated" lang="en-GB" phonetic="/ˈtrʌŋkjʊld/"/>
-> 美 <Phonetic word="truncated" lang="en-US" phonetic="/ˈtrʌŋkjʊld/"/>
-
-::: details
-
-- `adj.`
-    * 截短的；截去…末端的
-    * 粗略的；不精确的
-    * 有…性质的；符合…的
 
 :::
 
