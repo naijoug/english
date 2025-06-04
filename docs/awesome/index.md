@@ -16,7 +16,7 @@ layout: doc
     > 专为程序员编写的英语学习指南。
 - [Chinese programmer wrong pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
     > 中国程序员容易发音错误的单词
-- [english-note](https://github.com/hzpt-inet-club/english-note)
+- [英语语法](https://hzpt-inet-club.github.io/english-note/) 👉🏻 [🐙](https://github.com/hzpt-inet-club/english-note)
     > 从 0 开始学习英语语法
 - [Phraseum](https://www.phraseum.com/)
     > Memorize real English phrases and chunks of language, make your way to becoming fluent
