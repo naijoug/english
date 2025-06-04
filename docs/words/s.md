@@ -96,6 +96,27 @@ layout: doc
 
 :::
 
+## specific
+> 英 <Phonetic word="specific" lang="en-GB" phonetic="/spəˈsɪfɪk/"/>
+> 美 <Phonetic word="specific" lang="en-US" phonetic="/spəˈsɪfɪk/"/>
+
+::: details
+
+- `adj` 特定的；明确的；明确的；明确的
+- `n` 特定物；具体物；具体物
+
+:::
+
+## specifically
+> 英 <Phonetic word="specifically" lang="en-GB" phonetic="/spəˈsɪfɪkli/"/>
+> 美 <Phonetic word="specifically" lang="en-US" phonetic="/spəˈsɪfɪkli/"/>
+
+::: details
+
+- `adv` 特定地；明确地；明确地；明确地
+
+:::
+
 ## sphere
 > 英 <Phonetic word="sphere" lang="en-GB" phonetic="/sfɪə(r)/"/>
 > 美 <Phonetic word="sphere" lang="en-US" phonetic="/sfɪr/"/>
@@ -133,27 +154,6 @@ layout: doc
 
 :::
 
-## specific
-> 英 <Phonetic word="specific" lang="en-GB" phonetic="/spəˈsɪfɪk/"/>
-> 美 <Phonetic word="specific" lang="en-US" phonetic="/spəˈsɪfɪk/"/>
-
-::: details
-
-- `adj` 特定的；明确的；明确的；明确的
-- `n` 特定物；具体物；具体物
-
-:::
-
-## specifically
-> 英 <Phonetic word="specifically" lang="en-GB" phonetic="/spəˈsɪfɪkli/"/>
-> 美 <Phonetic word="specifically" lang="en-US" phonetic="/spəˈsɪfɪkli/"/>
-
-::: details
-
-- `adv` 特定地；明确地；明确地；明确地
-
-:::
-
 ## stash
 > 英 <Phonetic word="stash" lang="en-GB" phonetic="/stæʃ/"/>
 > 美 <Phonetic word="stash" lang="en-US" phonetic="/stæʃ/"/>
@@ -162,18 +162,6 @@ layout: doc
 
 - `n.` 藏匿处；藏匿物；藏匿物
 - `vt.` 藏匿；隐藏；隐藏
-
-:::
-
-## struggle
-> 英 <Phonetic word="struggle" lang="en-GB" phonetic="/ˈstrʌgl/"/>
-> 美 <Phonetic word="struggle" lang="en-US" phonetic="/ˈstrʌgl/"/>
-
-::: details
-
-- `n.` 斗争；奋斗；努力
-- `vi.` 奋斗；努力；挣扎
-- `vt.` 与...斗争；努力奋斗；努力争取
 
 :::
 
@@ -189,6 +177,18 @@ layout: doc
 
 :::
 
+## struggle
+> 英 <Phonetic word="struggle" lang="en-GB" phonetic="/ˈstrʌgl/"/>
+> 美 <Phonetic word="struggle" lang="en-US" phonetic="/ˈstrʌgl/"/>
+
+::: details
+
+- `n.` 斗争；奋斗；努力
+- `vi.` 奋斗；努力；挣扎
+- `vt.` 与...斗争；努力奋斗；努力争取
+
+:::
+
 ## subject
 > 英 <Phonetic word="subject" lang="en-GB" phonetic="/ˈsʌbdʒɪkt/"/>
 > 美 <Phonetic word="subject" lang="en-US" phonetic="/ˈsʌbdʒɪkt/"/>
@@ -201,16 +201,6 @@ layout: doc
 
 :::
 
-## supercharge
-> 英 <Phonetic word="supercharge" lang="en-GB" phonetic="/ˌsuːpəˈtʃɑːdʒ/"/>
-> 美 <Phonetic word="supercharge" lang="en-US" phonetic="/ˌsuːpərˈtʃɑːrdʒ/"/>
-
-::: details
-
-- `vt` 使增压；使超负荷；使充满
-
-:::
-
 ## sunset
 > 英 <Phonetic word="sunset" lang="en-GB" phonetic="/ˈsʌnset/"/>
 > 美 <Phonetic word="sunset" lang="en-US" phonetic="/ˈsʌnset/"/>
@@ -218,6 +208,16 @@ layout: doc
 ::: details
 
 - `n` 日落；日落时；日落景象
+
+:::
+
+## supercharge
+> 英 <Phonetic word="supercharge" lang="en-GB" phonetic="/ˌsuːpəˈtʃɑːdʒ/"/>
+> 美 <Phonetic word="supercharge" lang="en-US" phonetic="/ˌsuːpərˈtʃɑːrdʒ/"/>
+
+::: details
+
+- `vt` 使增压；使超负荷；使充满
 
 :::
 
