@@ -66,6 +66,16 @@ layout: doc
 
 :::
 
+## deny
+> 英 <Phonetic word="deny" lang="en-GB" phonetic="/dɪˈnaɪ/"/>
+> 美 <Phonetic word="deny" lang="en-US" phonetic="/dɪˈnaɪ/"/>
+
+::: details
+
+- `vt.` 否认；拒绝；不承认
+
+:::
+
 ## determine
 > 英 <Phonetic word="determine" lang="en-GB" phonetic="/dɪˈtɜːmɪn/"/>
 > 美 <Phonetic word="determine" lang="en-US" phonetic="/dɪˈtɜːmɪn/"/>

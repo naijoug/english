@@ -203,3 +203,16 @@ layout: doc
     * 客观性；客观性
 
 :::
+
+## augment
+> 英 <Phonetic word="augment" lang="en-GB" phonetic="/ˈɔːɡmənt/"/>
+> 美 <Phonetic word="augment" lang="en-US" phonetic="/ˈɔːɡmənt/"/>
+
+::: details
+
+- `v.`
+    * 增加；增大；扩充
+    * 增强；加强；扩大
+- `n.` 增加；增大；扩充
+    
+:::
