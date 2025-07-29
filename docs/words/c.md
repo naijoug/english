@@ -110,6 +110,16 @@ layout: doc
 
 :::
 
+## claude
+> 英 <Phonetic word="claude" lang="en-GB" phonetic="/klɔ:d/"/>
+> 美 <Phonetic word="claude" lang="en-US" phonetic="/klɔ:d/"/>
+
+::: details
+
+- `n.` 克劳德；克劳德·莫奈；克劳德·香奈儿
+
+:::
+
 ## codebase
 > 英 <Phonetic word="codebase" lang="en-GB" phonetic="/ˈkəudbɑːs/"/>
 > 美 <Phonetic word="codebase" lang="en-US" phonetic="/ˈkəudbɑːs/"/>

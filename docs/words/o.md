@@ -14,6 +14,16 @@ layout: doc
 
 :::
 
+## opus
+> 英 <Phonetic word="opus" lang="en-GB" phonetic="/ˈɒpəs/"/>
+> 美 <Phonetic word="opus" lang="en-US" phonetic="/ˈoʊpəs/"/>
+
+::: details
+
+- `n.` 作品; 乐曲; 专集; 书信
+
+:::
+
 ## overseas
 > 英 <Phonetic word="overseas" lang="en-GB" phonetic="/ˌəʊvəˈsiːz/"/>
 > 美 <Phonetic word="overseas" lang="en-US" phonetic="/ˌoʊvərˈsiːz/"/>

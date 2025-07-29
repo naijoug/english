@@ -147,3 +147,23 @@ layout: doc
 - `vi.` 潜水；俯冲；俯冲轰炸
 
 :::
+
+## dolphin
+> 英 <Phonetic word="dolphin" lang="en-GB" phonetic="/ˈdɒlfɪn/"/>
+> 美 <Phonetic word="dolphin" lang="en-US" phonetic="/ˈdɑːlfɪn/"/>
+
+::: details
+
+- `n.` 海豚；海牛 
+
+:::
+
+## dove
+> 英 <Phonetic word="dove" lang="en-GB" phonetic="/dəʊv/"/>
+> 美 <Phonetic word="dove" lang="en-US" phonetic="/dəʊv/"/>
+
+::: details
+
+- `n.` 鸽子；和平；和平主义
+
+:::

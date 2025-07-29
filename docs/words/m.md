@@ -35,6 +35,17 @@ layout: doc
 
 :::
 
+## mammal
+> 英 <Phonetic word="mammal" lang="en-GB" phonetic="/'mæml/"/>
+> 美 <Phonetic word="mammal" lang="en-US" phonetic="/'mæml/"/>
+
+::: details
+
+- `n.` 哺乳动物；有毛的动物
+- `adj.` 哺乳动物的；有毛的
+
+:::
+
 ## manifest
 > 英 <Phonetic word="manifest" lang="en-GB" phonetic="/ˈmænɪfest/"/>
 > 美 <Phonetic word="manifest" lang="en-US" phonetic="/ˈmænɪfest/"/>

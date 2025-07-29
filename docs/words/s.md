@@ -60,6 +60,18 @@ layout: doc
 
 :::
 
+## shark
+> 英 <Phonetic word="shark" lang="en-GB" phonetic="/ʃɑːk/"/>
+> 美 <Phonetic word="shark" lang="en-US" phonetic="/ʃɑːrk/"/>
+
+::: details
+
+- `n` 鲨鱼；鲨鱼皮；骗子
+- `vi` 诈骗
+- `vt` 敲诈
+
+:::
+
 ## slightly
 > 英 <Phonetic word="slightly" lang="en-GB" phonetic="/ˈslaɪtli/"/>
 > 美 <Phonetic word="slightly" lang="en-US" phonetic="/ˈslaɪtli/"/>
@@ -93,6 +105,16 @@ layout: doc
 ::: details
 
 - `n` 片段；摘录；剪辑
+
+:::
+
+## sonnet
+> 英 <Phonetic word="sonnet" lang="en-GB" phonetic="/ˈsɒnɪt/"/>
+> 美 <Phonetic word="sonnet" lang="en-US" phonetic="/ˈsɒnɪt/"/>
+
+::: details
+
+- `n` 十四行诗；十四行诗体
 
 :::
 
