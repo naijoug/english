@@ -31,10 +31,11 @@ layout: doc
     > The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [Ele types](https://www.eletypes.com/) 👉🏻 [🐙](https://github.com/gamer-ai/eletypes-frontend)
     > An elegant typing test website
-- [Qwerty Learner](https://qwerty.kaiyi.cool/) 👉🏻 [🐙](https://github.com/Kaiyiwing/qwerty-learner)
+- [Qwerty Learner](https://qwerty.kaiyi.cool/) 👉🏻 [🐙](https://github.com/Kaiyiwing/qwerty-learner) [](https://qwertylearner.ai/)
     > 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
 - [句乐部](https://docs.julebu.co/o) 👉🏻 [🐙](https://github.com/cuixueshe/earthworm)
     > Learning English through the method of constructing sentences with conjunctions
+- [typing-word](https://typing-word.ttentau.top) 👉🏻 [🐙](https://github.com/zyronon/typing-word)
 - [打字星球](https://www.type.fun/)
 
 ## testing
