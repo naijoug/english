@@ -5,8 +5,8 @@ layout: doc
 # H
 
 ## hexagonal
-> 英 <Phonetic word="heksəgənəl" lang="en-GB" phonetic="/ˌheksəˈɡɒnəl/"/>
-> 美 <Phonetic word="hexagonal" lang="en-US" phonetic="/ˌheksəˈɡɒnəl/"/>
+> 英 <Phonetic word="hexagonal" lang="en-GB" phonetic="/hekˈsæɡənl/"/>
+> 美 <Phonetic word="hexagonal" lang="en-US" phonetic="/hekˈsæɡənl/"/>
 
 ::: details
 
@@ -15,7 +15,7 @@ layout: doc
 :::
 
 ## hook
-> 英 <Phonetic word="hʊk" lang="en-GB" phonetic="/hʊk/"/>
+> 英 <Phonetic word="hook" lang="en-GB" phonetic="/hʊk/"/>
 > 美 <Phonetic word="hook" lang="en-US" phonetic="/hʊk/"/>
 
 ::: details

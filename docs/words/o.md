@@ -24,6 +24,16 @@ layout: doc
 
 :::
 
+## optimized
+> 英 <Phonetic word="optimized" lang="en-GB" phonetic="/ˈɒptɪmaɪzd/"/>
+> 美 <Phonetic word="optimized" lang="en-US" phonetic="/ˈɑːptɪmaɪzd/"/>
+
+::: details
+
+- `adj.` 优化的；改进的；最佳化的
+
+:::
+
 ## overseas
 > 英 <Phonetic word="overseas" lang="en-GB" phonetic="/ˌəʊvəˈsiːz/"/>
 > 美 <Phonetic word="overseas" lang="en-US" phonetic="/ˌoʊvərˈsiːz/"/>

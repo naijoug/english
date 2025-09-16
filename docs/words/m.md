@@ -71,15 +71,12 @@ layout: doc
 :::
 
 ## meaningful
-
-> 英 <Phonetic word="meaningful" lang="en-GB" phonetic="/'mi:nɪŋfl/"/> 
-> 美 <Phonetic word="meaningful" lang="en-US" phonetic="/'mi:nɪŋfl/"/>
+> 英 <Phonetic word="meaningful" lang="en-GB" phonetic="/ˈmiːnɪŋfl/"/>
+> 美 <Phonetic word="meaningful" lang="en-US" phonetic="/ˈmiːnɪŋfl/"/>
 
 ::: details
 
-- `n.`   有意义
-- `adj.` 有意义的；有意义的；有意义的
-- `adv.` 意味深长地
+- `adj.` 有意义的；重要的；意味深长的
 
 :::
 

@@ -120,13 +120,33 @@ layout: doc
 
 :::
 
+## clearer
+> 英 <Phonetic word="clearer" lang="en-GB" phonetic="/kləˈreɪər/"/>
+> 美 <Phonetic word="clearer" lang="en-US" phonetic="/kləˈreɪər/"/>
+
+::: details
+
+- `adj.` 更清楚的；更明确的；更清晰的
+
+:::
+
 ## codebase
-> 英 <Phonetic word="codebase" lang="en-GB" phonetic="/ˈkəudbɑːs/"/>
-> 美 <Phonetic word="codebase" lang="en-US" phonetic="/ˈkəudbɑːs/"/>
+> 英 <Phonetic word="codebase" lang="en-GB" phonetic="/ˈkəʊdbeɪs/"/>
+> 美 <Phonetic word="codebase" lang="en-US" phonetic="/ˈkoʊdbeɪs/"/>
 
 ::: details
 
 - `n.` 代码库；源码
+
+:::
+
+## collaborate
+> 英 <Phonetic word="collaborate" lang="en-GB" phonetic="/kəˈlæbəreɪt/"/>
+> 美 <Phonetic word="collaborate" lang="en-US" phonetic="/kəˈlæbəreɪt/"/>
+
+::: details
+
+- `v.` 合作；协作；协同工作
 
 :::
 
@@ -240,7 +260,7 @@ e-commerce: 电子商务
 ::: details
 
 - `n.` 行为；举止；管理；引导
-- `vt.` 管理；引导；指挥；传导
+- `v.` 管理；引导；指挥；传导；实施
 
 :::
 

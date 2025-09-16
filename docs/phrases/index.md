@@ -6,7 +6,7 @@ layout: doc
 
 ## along with
 > 英 <Phonetic word="along with" lang="en-GB" phonetic="/əˈlɒŋ wɪð/"/>
-> 美 <Phonetic word="along with" lang="en-US" phonetic="/əˈlɒŋ wɪð/"/>
+> 美 <Phonetic word="along with" lang="en-US" phonetic="/əˈlɔːŋ wɪð/"/>
 
 ::: details
 
@@ -25,8 +25,8 @@ layout: doc
 :::
 
 ## entry point
-> 英 <Phonetic word="entry point" lang="en-GB" phonetic="/ˈɛntrɪp oʊnt/"/>
-> 美 <Phonetic word="entry point" lang="en-US" phonetic="/ˈɛntrɪp oʊnt/"/>
+> 英 <Phonetic word="entry point" lang="en-GB" phonetic="/ˈentri pɔɪnt/"/>
+> 美 <Phonetic word="entry point" lang="en-US" phonetic="/ˈentri pɔɪnt/"/>
 
 ::: details
 
@@ -47,7 +47,7 @@ layout: doc
 
 ## from scratch
 > 英 <Phonetic word="from scratch" lang="en-GB" phonetic="/frɒm skrætʃ/"/>
-> 美 <Phonetic word="from scratch" lang="en-US" phonetic="/frɒm skrætʃ/"/>
+> 美 <Phonetic word="from scratch" lang="en-US" phonetic="/frʌm skrætʃ/"/>
 
 ::: details
 
@@ -67,7 +67,7 @@ layout: doc
 
 ## go beyond
 > 英 <Phonetic word="go beyond" lang="en-GB" phonetic="/ɡəʊ bɪˈjɒnd/"/>
-> 美 <Phonetic word="go beyond" lang="en-US" phonetic="/ɡo bɪˈjɒnd/"/>
+> 美 <Phonetic word="go beyond" lang="en-US" phonetic="/ɡoʊ bɪˈjɑːnd/"/>
 
 ::: details
 
@@ -117,7 +117,7 @@ layout: doc
 
 ## learn about
 > 英 <Phonetic word="learn about" lang="en-GB" phonetic="/lɜːn əˈbaʊt/"/>
-> 美 <Phonetic word="learn about" lang="en-US" phonetic="/lɜːn əˈbaʊt/"/>
+> 美 <Phonetic word="learn about" lang="en-US" phonetic="/lɜːrn əˈbaʊt/"/>
 
 ::: details
 
@@ -126,8 +126,8 @@ layout: doc
 :::
 
 ## make sense
-> 英 <Phonetic word="make sense" lang="en-GB" phonetic="/mɪk ˈsɛns/"/>
-> 美 <Phonetic word="make sense" lang="en-US" phonetic="/mɪk ˈsɛns/"/>
+> 英 <Phonetic word="make sense" lang="en-GB" phonetic="/meɪk sens/"/>
+> 美 <Phonetic word="make sense" lang="en-US" phonetic="/meɪk sens/"/>
 
 ::: details
 
@@ -136,8 +136,8 @@ layout: doc
 :::
 
 ## one stop
-> 英 <Phonetic word="one stop" lang="en-GB" phonetic="/wʌn ˈstɒp/"/>
-> 美 <Phonetic word="one stop" lang="en-US" phonetic="/wʌn ˈstɑp/"/>
+> 英 <Phonetic word="one stop" lang="en-GB" phonetic="/wʌn stɒp/"/>
+> 美 <Phonetic word="one stop" lang="en-US" phonetic="/wʌn stɑːp/"/>
 
 ::: details
 
@@ -146,8 +146,8 @@ layout: doc
 :::
 
 ## plug-and-play
-> 英 <Phonetic word="plug-and-play" lang="en-GB" phonetic="/plʌɡ ənd plai/"/>
-> 美 <Phonetic word="plug-and-play" lang="en-US" phonetic="/plʌɡ ənd plai/"/>
+> 英 <Phonetic word="plug-and-play" lang="en-GB" phonetic="/plʌɡ ənd pleɪ/"/>
+> 美 <Phonetic word="plug-and-play" lang="en-US" phonetic="/plʌɡ ənd pleɪ/"/>
 
 ::: details
 
@@ -156,8 +156,8 @@ layout: doc
 :::
 
 ## side hustle
-> 英 <Phonetic word="side hustle" lang="en-GB" phonetic="/sɪd ˈhʌstl/"/>
-> 美 <Phonetic word="side hustle" lang="en-US" phonetic="/sɪd ˈhʌstl/"/>
+> 英 <Phonetic word="side hustle" lang="en-GB" phonetic="/saɪd ˈhʌsəl/"/>
+> 美 <Phonetic word="side hustle" lang="en-US" phonetic="/saɪd ˈhʌsəl/"/>
 
 ::: details
 
@@ -186,8 +186,8 @@ layout: doc
 :::
 
 ## stay tuned
-> 英 <Phonetic word="stay tuned" lang="en-GB" phonetic="/steɪ tju:nd/"/>
-> 美 <Phonetic word="stay tuned" lang="en-US" phonetic="/steɪ tju:nd/"/>
+> 英 <Phonetic word="stay tuned" lang="en-GB" phonetic="/steɪ tjuːnd/"/>
+> 美 <Phonetic word="stay tuned" lang="en-US" phonetic="/steɪ tuːnd/"/>
 
 ::: details
 
@@ -207,7 +207,7 @@ layout: doc
 
 ## take office
 > 英 <Phonetic word="take office" lang="en-GB" phonetic="/teɪk ˈɒfɪs/"/>
-> 美 <Phonetic word="take office" lang="en-US" phonetic="/teɪk ˈɒfɪs/"/>
+> 美 <Phonetic word="take office" lang="en-US" phonetic="/teɪk ˈɔːfɪs/"/>
 
 ::: details
 
@@ -217,7 +217,7 @@ layout: doc
 
 ## what's up
 > 英 <Phonetic word="what's up" lang="en-GB" phonetic="/wɒts ʌp/"/>
-> 美 <Phonetic word="what's up" lang="en-US" phonetic="/wɒts ʌp/"/>
+> 美 <Phonetic word="what's up" lang="en-US" phonetic="/wʌts ʌp/"/>
 
 ::: details
 

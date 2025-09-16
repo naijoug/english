@@ -154,8 +154,8 @@ layout: doc
 :::
 
 ## represent
-> 英 <Phonetic word="represent" lang="en-GB" phonetic="/ˌriːprɪˈzent/"/>
-> 美 <Phonetic word="represent" lang="en-US" phonetic="/ˌriːprɪˈzent/"/>
+> 英 <Phonetic word="represent" lang="en-GB" phonetic="/ˌreprɪˈzent/"/>
+> 美 <Phonetic word="represent" lang="en-US" phonetic="/ˌreprɪˈzent/"/>
 
 ::: details
 
@@ -164,8 +164,8 @@ layout: doc
 :::
 
 ## reproduction
-> 英 <Phonetic word="reproduction" lang="en-GB" phonetic="/ˌriːprəˈdʌkʃn/"/>
-> 美 <Phonetic word="reproduction" lang="en-US" phonetic="/ˌriːprəˈdʌkʃn/"/>
+> 英 <Phonetic word="reproduction" lang="en-GB" phonetic="/ˌriːprəˈdʌkʃən/"/>
+> 美 <Phonetic word="reproduction" lang="en-US" phonetic="/ˌriːprəˈdʌkʃən/"/>
 
 ::: details
 
@@ -232,5 +232,16 @@ layout: doc
     * 袋鼠
 - `v.`
     * 用手拔
+
+:::
+
+## routine
+> 英 <Phonetic word="routine" lang="en-GB" phonetic="/ruːˈtiːn/"/>
+> 美 <Phonetic word="routine" lang="en-US" phonetic="/ruːˈtiːn/"/>
+
+::: details
+
+- `n.` 例行公事；常规；日常活动；惯例
+- `adj.` 常规的；例行的；平常的；乏味的
 
 :::

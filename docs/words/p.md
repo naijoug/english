@@ -204,6 +204,16 @@ layout: doc
 
 :::
 
+## prominent
+> 英 <Phonetic word="prominent" lang="en-GB" phonetic="/ˈprɒmɪnənt/"/>
+> 美 <Phonetic word="prominent" lang="en-US" phonetic="/ˈprɑːmɪnənt/"/>
+
+::: details
+
+- `adj.` 突出的；重要的；突出的
+
+:::
+
 ## proper
 > 英 <Phonetic word="proper" lang="en-GB" phonetic="/ˈprɒpə(r)/"/>
 > 美 <Phonetic word="proper" lang="en-US" phonetic="/ˈprɑːpə(r)/"/>

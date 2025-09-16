@@ -112,6 +112,21 @@ layout: doc
 
 :::
 
+## transition
+> 英 <Phonetic word="transition" lang="en-GB" phonetic="/træn'zɪʃn/"/>
+> 美 <Phonetic word="transition" lang="en-US" phonetic="/træn'zɪʃn/"/>
+
+::: details
+
+- `n.`
+    * 过渡；转变；变迁
+    * 过渡期；转变期；变迁期
+    * 过渡状态；转变状态；变迁状态
+- `v.`
+    * 过渡；转变；变迁
+
+:::
+
 ## tremulous
 > 英 <Phonetic word="tremulous" lang="en-GB" phonetic="/'trɛmjʊləs/"/>
 > 美 <Phonetic word="tremulous" lang="en-US" phonetic="/'trɛmjələs/"/>
@@ -131,23 +146,17 @@ layout: doc
 
 ::: details
 
-- `v.`
-    * 排除故障；排除故障；排除故障
-    * 修理；修理；修理
-    * 使…适应；使…适合
+- `v.` 排除故障；解决问题；诊断并修复
 
 :::
 
 ## truncated
-> 英 <Phonetic word="truncated" lang="en-GB" phonetic="/ˈtrʌŋkjʊld/"/>
-> 美 <Phonetic word="truncated" lang="en-US" phonetic="/ˈtrʌŋkjʊld/"/>
+> 英 <Phonetic word="truncated" lang="en-GB" phonetic="/ˈtrʌŋkeɪtɪd/"/>
+> 美 <Phonetic word="truncated" lang="en-US" phonetic="/ˈtrʌŋkeɪtɪd/"/>
 
 ::: details
 
-- `adj.`
-    * 截短的；截去…末端的
-    * 粗略的；不精确的
-    * 有…性质的；符合…的
+- `adj.` 截短的；截断的；被删节的
 
 :::
 
