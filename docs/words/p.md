@@ -111,6 +111,20 @@ layout: doc
 
 :::
 
+## preserve
+> 英 <Phonetic word="preserve" lang="en-GB" phonetic="/prɪˈzɜːv/"/>
+> 美 <Phonetic word="preserve" lang="en-US" phonetic="/prɪˈzɝv/"/>
+
+::: details
+
+- `n.` 保护；保存；维护
+- `v.` 
+    * 保护；保存；维持
+    * 保藏；贮藏；腌制
+    * 保留；保存；保存（意见、意见等）
+
+:::
+
 ## president
 > 英 <Phonetic word="president" lang="en-GB" phonetic="/ˈprezɪdənt/"/>
 > 美 <Phonetic word="president" lang="en-US" phonetic="/ˈprezɪdənt/"/>

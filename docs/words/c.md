@@ -130,6 +130,7 @@ layout: doc
 
 :::
 
+
 ## codebase
 > 英 <Phonetic word="codebase" lang="en-GB" phonetic="/ˈkəʊdbeɪs/"/>
 > 美 <Phonetic word="codebase" lang="en-US" phonetic="/ˈkoʊdbeɪs/"/>
@@ -167,6 +168,16 @@ layout: doc
 ::: details
 
 - `adj.` 合作的；协作的；协力完成的
+
+:::
+
+## collide
+> 英 <Phonetic word="collide" lang="en-GB" phonetic="/kəˈlaɪd/"/>
+> 美 <Phonetic word="collide" lang="en-US" phonetic="/kəˈlaɪd/"/>
+
+::: details
+
+- `v.` 碰撞；发生冲突；发生冲突的物体
 
 :::
 
